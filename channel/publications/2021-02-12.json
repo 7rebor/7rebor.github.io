@@ -1,9 +1,0 @@
-[
-    {
-        "subtype": "channel_join",
-        "user": "U01HDFX11PT",
-        "text": "<@U01HDFX11PT> has joined the channel",
-        "type": "message",
-        "ts": "1613127730.000400"
-    }
-]

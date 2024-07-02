@@ -1,0 +1,314 @@
+[
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1686664617.750149",
+        "client_msg_id": "37e6b739-2217-47cc-b092-4785b289f775",
+        "text": "Anyone is using PEGASOS clearing method and use RI matching imaging buffer that is not PEGASOS clearing one? Trying not to destroy the cuvette and objective with BB.  Would appreciate any help :)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686664617.750149",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1686840170.847869",
+        "reply_users": [
+            "U04UTRSQXNE",
+            "U04RH8K303Y",
+            "U04RCBZLRJT"
+        ],
+        "replies": [
+            {
+                "user": "U04UTRSQXNE",
+                "ts": "1686673909.477379"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1686676911.979919"
+            },
+            {
+                "user": "U04UTRSQXNE",
+                "ts": "1686680057.785459"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1686684605.726679"
+            },
+            {
+                "user": "U04UTRSQXNE",
+                "ts": "1686685066.831069"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1686812659.009299"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1686840170.847869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Sv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone is using PEGASOS clearing method and use RI matching imaging buffer that is not PEGASOS clearing one? Trying not to destroy the cuvette and objective with BB.  Would appreciate any help :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04UTRSQXNE",
+        "type": "message",
+        "ts": "1686673909.477379",
+        "client_msg_id": "91b4f870-be13-44fc-9562-51248f0b4bf5",
+        "text": ":thinking_face: are the cuvette and objective (dipping cap?) plastic? If so, ECi is probably not an option either...",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ef732a54ec22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4992512058769_ef732a54ec2204fdabcc_72.jpg",
+            "first_name": "Sunny",
+            "real_name": "Sunny Keqing Dai",
+            "display_name": "Sunny",
+            "team": "T01FQQGKPLH",
+            "name": "keqingdai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686664617.750149",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDjH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are the cuvette and objective (dipping cap?) plastic? If so, ECi is probably not an option either..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1686676911.979919",
+        "client_msg_id": "d646f345-1c5b-484f-b166-13ed5c06e4cc",
+        "text": "I was actually thinking about ECi as I already working with ECi and its completely safe.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686664617.750149",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uqSQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was actually thinking about ECi as I already working with ECi and its completely safe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04UTRSQXNE",
+        "type": "message",
+        "ts": "1686680057.785459",
+        "client_msg_id": "02d896e6-a89b-4ec6-abf6-81e1411be0aa",
+        "text": "Yes, I think ECi is good for clearing many different types of samples. But what was your concern about the cuvettes and the objective being damaged by BB? :blush:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ef732a54ec22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4992512058769_ef732a54ec2204fdabcc_72.jpg",
+            "first_name": "Sunny",
+            "real_name": "Sunny Keqing Dai",
+            "display_name": "Sunny",
+            "team": "T01FQQGKPLH",
+            "name": "keqingdai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686664617.750149",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b3mw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I think ECi is good for clearing many different types of samples. But what was your concern about the cuvettes and the objective being damaged by BB? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1686684605.726679",
+        "client_msg_id": "6533d91a-2f99-46c7-893f-2cbcd96957a6",
+        "text": "I mean I use Eci as imaging buffer for example for iDisco clearing nad now planning to use it for PEGASOS samples as its similar RI. BA or BB it's quite aggressive and will dissolve any anodized layer in a short time. I know is not compatible with UMII from Miltenyi but the other system we have is Lifecanvas SmartSPIM and although they told me it should be fine I would rather avoid it.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686664617.750149",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lghxP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean I use Eci as imaging buffer for example for iDisco clearing nad now planning to use it for PEGASOS samples as its similar RI. BA or BB it's quite aggressive and will dissolve any anodized layer in a short time. I know is not compatible with UMII from Miltenyi but the other system we have is Lifecanvas SmartSPIM and although they told me it should be fine I would rather avoid it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04UTRSQXNE",
+        "type": "message",
+        "ts": "1686685066.831069",
+        "client_msg_id": "abdc8963-a7d3-43ff-8723-3555013cb5d8",
+        "text": "I see! In that case yeah I have high hopes for ECi :blush:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ef732a54ec22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4992512058769_ef732a54ec2204fdabcc_72.jpg",
+            "first_name": "Sunny",
+            "real_name": "Sunny Keqing Dai",
+            "display_name": "Sunny",
+            "team": "T01FQQGKPLH",
+            "name": "keqingdai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686664617.750149",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ADs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see! In that case yeah I have high hopes for ECi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U04RH8K303Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

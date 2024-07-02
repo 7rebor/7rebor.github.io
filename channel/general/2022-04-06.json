@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1649241187.124039",
+        "client_msg_id": "15e4b523-8d6d-4779-9950-b05d987cad0d",
+        "text": "Thanks! Sounds interesting and it is surely cheaper...Do you have by chance also a concentration (g\/ml) to recommended to get a RI of approx 1.47?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649168729.223669",
+        "parent_user_id": "U01J1KG0MK4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7wCC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! Sounds interesting and it is surely cheaper...Do you have by chance also a concentration (g\/ml) to recommended to get a RI of approx 1.47?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

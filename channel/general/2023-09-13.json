@@ -1,0 +1,39 @@
+[
+    {
+        "text": "Hi Sylvain,\nI did some imaging of beads with our Light-sheets (MuVi Luxendo and Lavision UMII)and to be honest, I don`t see your PSFs so bad; looking at the PSF from some confocal, I remember seeing patterns similar to what you show here;  I suppose that a critical info is where was the beam waist (if Gaussian..) and the center of the det lens in relation to the beads; I generally see many aberrations when imaging on the outer part of detection lens (as expected) or with not well aligned sheets; I can send you some snapshots of beads image in ECi where PSF quality is very different in the FOV;\nOne test would be to see the distortion is coming from the detection or the illumination; maybe trying different sheet alignments, detection lens, ROI in the FOV? Hope it help and just let me know if you need more info; cheers, Alessandro",
+        "files": [
+            {
+                "id": "F05RSGZ35BR",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F05S73FBAUS",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DxG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Sylvain,\nI did some imaging of beads with our Light-sheets (MuVi Luxendo and Lavision UMII)and to be honest, I don`t see your PSFs so bad; looking at the PSF from some confocal, I remember seeing patterns similar to what you show here;  I suppose that a critical info is where was the beam waist (if Gaussian..) and the center of the det lens in relation to the beads; I generally see many aberrations when imaging on the outer part of detection lens (as expected) or with not well aligned sheets; I can send you some snapshots of beads image in ECi where PSF quality is very different in the FOV;\nOne test would be to see the distortion is coming from the detection or the illumination; maybe trying different sheet alignments, detection lens, ROI in the FOV? Hope it help and just let me know if you need more info; cheers, Alessandro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1694621907.186969",
+        "client_msg_id": "36f0ea46-a9c7-4e8c-8940-6f23e40bfdd9",
+        "thread_ts": "1694008726.221069",
+        "parent_user_id": "U01TAGF27T3"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01TAGF27T3",
+        "type": "message",
+        "ts": "1695044749.046369",
+        "client_msg_id": "7a867b3f-5a07-4c03-b839-c3c286757c5e",
+        "text": "Hi Alexandro, Beads I imaged were in the center of the FOV to avoid aberrations. I can exclude excitation objectives because they are both brand new one. I don’t think or I hope that aberrations are not done by the emission objectives because I have same PSF shape by using the left or the right objective.\nI can try what you mentioned, ie desaligned my gaussian beams and look at the effect.\nkeep in touch &amp; I will keep you inform of my results\nCheers,\nSylvain",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ge8b27ff3fec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e8b27ff3feced450add35b6c9fff993d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "De Rossi",
+            "display_name": "De Rossi",
+            "team": "T01FQQGKPLH",
+            "name": "sylvain.derossi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1694008726.221069",
+        "parent_user_id": "U01TAGF27T3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Alexandro, Beads I imaged were in the center of the FOV to avoid aberrations. I can exclude excitation objectives because they are both brand new one. I don’t think or I hope that aberrations are not done by the emission objectives because I have same PSF shape by using the left or the right objective.\nI can try what you mentioned, ie desaligned my gaussian beams and look at the effect.\nkeep in touch & I will keep you inform of my results\nCheers,\nSylvain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

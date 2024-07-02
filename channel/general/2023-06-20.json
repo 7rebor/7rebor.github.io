@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U058W560NSX",
+        "type": "message",
+        "ts": "1687245151.809739",
+        "client_msg_id": "87109474-8f12-4f58-b829-1fff56cb15fb",
+        "text": "Thanks a lot! I will be there :)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "dab878e9439f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-22\/5299360479045_dab878e9439f55c526ee_72.png",
+            "first_name": "Alvaro",
+            "real_name": "Alvaro Sahun",
+            "display_name": "Alvaro Sahun",
+            "team": "T01FQQGKPLH",
+            "name": "alvaro.sahun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686910432.154599",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B2u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks a lot! I will be there :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

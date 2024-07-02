@@ -1,0 +1,301 @@
+[
+    {
+        "user": "U01J1KG0MK4",
+        "type": "message",
+        "ts": "1678982392.575509",
+        "client_msg_id": "479c315a-bb27-4fcd-8ef5-a1aa2a19e7a2",
+        "text": "I have seen this one advertised at Rockefeller next month. <https:\/\/www.rockefeller.edu\/research\/interdisciplinary-centers\/kavli\/events\/>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g864cc411cdd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/864cc411cdde7d3514da4ed12f44fbf0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Jenny Schafer",
+            "display_name": "Jenny Schafer",
+            "team": "T01FQQGKPLH",
+            "name": "jenny.c.schafer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678885512.627109",
+        "parent_user_id": "U01HDFX11PT",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.rockefeller.edu\/research\/interdisciplinary-centers\/kavli\/events\/",
+                "service_icon": "https:\/\/www.rockefeller.edu\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.rockefeller.edu\/research\/interdisciplinary-centers\/kavli\/events\/",
+                "fallback": "Research: Events - Research",
+                "text": "Upcoming Events Kavli NSI Mini-Symposium: Visualizing Neural Correlates of Learning and Memory Thursday, April 6, 2023 3:30 – 5:00 p.m. Carson Family Auditorium Motor cortex circuits for learned movements Takaki Komiyama, Ph.D. Professor and Vice Chair, Department of Neurobiology University of California, San Diego A directed form of synaptic plasticity produces experience-dependent hippocampal representations Christine […]",
+                "title": "Events - Research",
+                "title_link": "https:\/\/www.rockefeller.edu\/research\/interdisciplinary-centers\/kavli\/events\/",
+                "service_name": "Research",
+                "fields": [
+                    {
+                        "value": "3 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xaM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have seen this one advertised at Rockefeller next month. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rockefeller.edu\/research\/interdisciplinary-centers\/kavli\/events\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1678983739.926779",
+        "client_msg_id": "d4ffec00-9b04-449a-ab59-d4d6107fe1c6",
+        "text": "<!channel> Tomorrow at 3pm GMT we meet to discuss the future of our little lightsheet community.\nAle and I will try to cover three things below so please have a think about them.\nIf you can't make the meeting or would not like to un-mute\/post in the chat tomorrow, you are welcome to directly message me your thoughts.\n1. What do you want from the community?\n2. Is this possible on this free Slack?\n3. Who can help Ale and I when things are quiet or if it takes off?\n######\nTopic: Wildsheet_future\nTime: Mar 17, 2023 03:00 PM London\nJoin Zoom Meeting\n<https:\/\/crick.zoom.us\/j\/61190448313?pwd=aDVvNjAyazJ6SEM1Q250WWZDUlpsdz09>\nMeeting ID: 611 9044 8313\nPasscode: 585623",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y3Kf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tomorrow at 3pm GMT we meet to discuss the future of our little lightsheet community.\nAle and I will try to cover three things below so please have a think about them.\nIf you can't make the meeting or would not like to un-mute\/post in the chat tomorrow, you are welcome to directly message me your thoughts.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What do you want from the community?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Is this possible on this free Slack?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Who can help Ale and I when things are quiet or if it takes off?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n######\nTopic: Wildsheet_future\nTime: Mar 17, 2023 03:00 PM London\nJoin Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/crick.zoom.us\/j\/61190448313?pwd=aDVvNjAyazJ6SEM1Q250WWZDUlpsdz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeeting ID: 611 9044 8313\nPasscode: 585623"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02NBJHD00H",
+        "type": "message",
+        "ts": "1678984928.436469",
+        "client_msg_id": "167d67ed-74b1-47b9-a27c-2666668526bb",
+        "text": "Yes, I am co-organizing this one! But deadline for registration is super soon",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a2ac0e3faf6d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-19\/2770766546192_a2ac0e3faf6d4baf216c_72.jpg",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Renier",
+            "display_name": "Nicolas Renier",
+            "team": "T01FQQGKPLH",
+            "name": "nicolas.renier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678885512.627109",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Euewc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I am co-organizing this one! But deadline for registration is super soon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02NBJHD00H",
+        "type": "message",
+        "ts": "1678985014.931799",
+        "client_msg_id": "959a4eb3-8988-4153-9817-e12051917fda",
+        "text": "We will heavily cover light sheet and clearing at our FENS Cajal School of Connectomics : <https:\/\/www.fens.org\/news-activities\/fens-and-societies-calendar\/training-event\/cajal-course-connectomics-from-micro-to-meso-and-macro-scales>\n\nSorry details are still scarce on the program, but should be made available very soon.\n\nSept. 18th - Oct 6th",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a2ac0e3faf6d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-19\/2770766546192_a2ac0e3faf6d4baf216c_72.jpg",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Renier",
+            "display_name": "Nicolas Renier",
+            "team": "T01FQQGKPLH",
+            "name": "nicolas.renier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678885512.627109",
+        "parent_user_id": "U01HDFX11PT",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.fens.org\/news-activities\/fens-and-societies-calendar\/training-event\/cajal-course-connectomics-from-micro-to-meso-and-macro-scales",
+                "service_icon": "https:\/\/www.fens.org\/wp-content\/themes\/fens\/img\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.fens.org\/news-activities\/fens-and-societies-calendar\/training-event\/cajal-course-connectomics-from-micro-to-meso-and-macro-scales",
+                "fallback": "Federation of European Neuroscience Societies: CAJAL course: Connectomics: from Micro- to Meso- and Macro-Scales - Federation of European Neuroscience Societies",
+                "text": "The CAJAL course in Connectomics is an intensive three-week course that guides participants through the theory and practice of state-of the art methods to address pertinent questions in the field of…",
+                "title": "CAJAL course: Connectomics: from Micro- to Meso- and Macro-Scales - Federation of European Neuroscience Societies",
+                "title_link": "https:\/\/www.fens.org\/news-activities\/fens-and-societies-calendar\/training-event\/cajal-course-connectomics-from-micro-to-meso-and-macro-scales",
+                "service_name": "Federation of European Neuroscience Societies"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QH12",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We will heavily cover light sheet and clearing at our FENS Cajal School of Connectomics : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fens.org\/news-activities\/fens-and-societies-calendar\/training-event\/cajal-course-connectomics-from-micro-to-meso-and-macro-scales"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSorry details are still scarce on the program, but should be made available very soon.\n\nSept. 18th - Oct 6th"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1678987059.511679",
+        "client_msg_id": "F196FC33-1FCA-418C-B2DD-58FDE49BD993",
+        "text": "Thank you so much this is excellent. When I googled it came up with FENS but from a workshop in 2016. I was about to email to ask if something like happens again ",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678885512.627109",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DLW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much this is excellent. When I googled it came up with FENS but from a workshop in 2016. I was about to email to ask if something like happens again "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

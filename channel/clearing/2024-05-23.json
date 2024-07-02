@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U059A96017T",
+        "type": "message",
+        "ts": "1716495037.374789",
+        "edited": {
+            "user": "U059A96017T",
+            "ts": "1716495323.000000"
+        },
+        "client_msg_id": "167510c1-bb49-4934-8f82-b64f1094b99a",
+        "text": "I think wildDISCO perfused solutions in whole animals - at least for the publication - vs. it sounds like you are incubating?  This difference might be relevant? CUBIC-HV details various methods for dealing with the rim of labeling \/ increasing penetration for incubation of tissues in antibody solutions without perfusion methods. Also DEEP-clear can work well in this regard - they have an old-school acetone step to open things up, for example.\n\nMaybe wildDISCO CHAPS for perm x CUBIC-HV or DEEP-clear methods could be something to explore for permeabilization. Also, I think CUBIC and DEEP-clear include quadrol or similar for depigmentation, if that is an issue at all.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "86027d38c96a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-22\/5306164504756_86027d38c96a248dc5e0_72.png",
+            "first_name": "Eric",
+            "real_name": "Eric Edsinger",
+            "display_name": "Eric Edsinger",
+            "team": "T01FQQGKPLH",
+            "name": "000generic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716278216.376089",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x9H9y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think wildDISCO perfused solutions in whole animals - at least for the publication - vs. it sounds like you are incubating?  This difference might be relevant? CUBIC-HV details various methods for dealing with the rim of labeling \/ increasing penetration for incubation of tissues in antibody solutions without perfusion methods. Also DEEP-clear can work well in this regard - they have an old-school acetone step to open things up, for example.\n\nMaybe wildDISCO CHAPS for perm x CUBIC-HV or DEEP-clear methods could be something to explore for permeabilization. Also, I think CUBIC and DEEP-clear include quadrol or similar for depigmentation, if that is an issue at all."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

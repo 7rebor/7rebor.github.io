@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1679399788.103549",
+        "client_msg_id": "c3c52356-8743-4589-9a2f-15abe70b070b",
+        "text": "30 days only? good to know.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679071184.365359",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fl0h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "30 days only? good to know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

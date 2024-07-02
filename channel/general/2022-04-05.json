@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1649162959.717719",
+        "client_msg_id": "d141d0df-3972-4058-9995-deae37d365f6",
+        "text": "Dear all, I`m having another go with imaging CLARITY\/PACT samples; using the L-sheet Lavision UMII I need al lot of imaging solution (130ml) and my best choice is general the one made with Histodenz (RIMS), that however is expensive; sRIMS with Sorbitol is ok, but more tricky to prepare and I got many issues with gradients and bad solutions..; are you aware of any good (cheaper, more stable,.) alternative to Histodenz? Thanks!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o+D0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear all, I`m having another go with imaging CLARITY\/PACT samples; using the L-sheet Lavision UMII I need al lot of imaging solution (130ml) and my best choice is general the one made with Histodenz (RIMS), that however is expensive; sRIMS with Sorbitol is ok, but more tricky to prepare and I got many issues with gradients and bad solutions..; are you aware of any good (cheaper, more stable,.) alternative to Histodenz? Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01J1KG0MK4",
+        "type": "message",
+        "ts": "1649168729.223669",
+        "client_msg_id": "748fab29-6f85-494a-a455-ea0fdfee0f40",
+        "text": "I can't remember the price difference, but we purchased Nycodenz as an alternative to Histodenz.  Here is what I ordered about a year ago.  Nycodenz Cat. No. 1002424, 500 g, Progen Biotechnik. <https:\/\/www.proteogenix.science\/product\/nycodenz-ag\/>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g864cc411cdd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/864cc411cdde7d3514da4ed12f44fbf0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Jenny Schafer",
+            "display_name": "Jenny Schafer",
+            "team": "T01FQQGKPLH",
+            "name": "jenny.c.schafer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1649168729.223669",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1649434587.670639",
+        "reply_users": [
+            "U01GHGN71UL",
+            "U01J1KG0MK4"
+        ],
+        "replies": [
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1649241187.124039"
+            },
+            {
+                "user": "U01J1KG0MK4",
+                "ts": "1649363999.280739"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1649434587.670639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.proteogenix.science\/product\/nycodenz-ag\/",
+                "image_url": "https:\/\/www.proteogenix.science\/wp-content\/uploads\/2020\/02\/nycodenz-reflet.png",
+                "image_width": 157,
+                "image_height": 250,
+                "image_bytes": 24278,
+                "service_icon": "https:\/\/www.proteogenix.science\/wp-content\/uploads\/2019\/05\/cropped-favicon_ptgx_science-270x270.png",
+                "id": 1,
+                "original_url": "https:\/\/www.proteogenix.science\/product\/nycodenz-ag\/",
+                "fallback": "ProteoGenix: Nycodenz® (Cat# 1002424) Universal Density Gradient Medium",
+                "text": "Nycodenz® (Cat# 1002424) is a Universal Density Gradient Medium, manufactured under GMP Conditions. Buy Nycodenz® at the Best Price Here, Fast Delivery!",
+                "title": "Nycodenz® (Cat# 1002424) Universal Density Gradient Medium",
+                "title_link": "https:\/\/www.proteogenix.science\/product\/nycodenz-ag\/",
+                "service_name": "ProteoGenix",
+                "fields": [
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PgQe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't remember the price difference, but we purchased Nycodenz as an alternative to Histodenz.  Here is what I ordered about a year ago.  Nycodenz Cat. No. 1002424, 500 g, Progen Biotechnik. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.proteogenix.science\/product\/nycodenz-ag\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

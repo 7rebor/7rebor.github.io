@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1618958632.002100",
+        "client_msg_id": "19493177-9409-401c-9bee-ed06c62be368",
+        "text": "Hi all, does anybody have any insights to using something like BigStitcher for fusing multiview SPIM data of small spheroids?\nI haven't looked at this avenue for many years, and wondered if there are any go to resources beyond the BigStitcher help?\n\nThat being said, are there other multiview stitch and decon software options you'd recommend?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, does anybody have any insights to using something like BigStitcher for fusing multiview SPIM data of small spheroids?\nI haven't looked at this avenue for many years, and wondered if there are any go to resources beyond the BigStitcher help?\n\nThat being said, are there other multiview stitch and decon software options you'd recommend?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

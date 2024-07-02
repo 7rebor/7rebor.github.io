@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U050AD5LDT3",
+        "type": "message",
+        "ts": "1696333566.236149",
+        "text": "Hi everyone! We're working on a platform that aims to connect startup founders and top-level IT talents: developers, designers, product managers, etc.\n\nToday we've launched on Product Hunt and would appreciate your feedback!\n<https:\/\/www.producthunt.com\/posts\/expert-remote>\n\nP.S. if anyone lost jobs in the current market, feel free to leave your CV here: <https:\/\/developers.expertremote.io> :wink:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "0461f953ef6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-23\/4992809697910_0461f953ef6f3a9c398d_72.jpg",
+            "first_name": "Aleksey",
+            "real_name": "Aleksey Chepovoi",
+            "display_name": "Aleksey Chepovoi",
+            "team": "T01FQQGKPLH",
+            "name": "alex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696333566.236149",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696599139.506799",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U059LQCN1HN"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1696419093.670119"
+            },
+            {
+                "user": "U059LQCN1HN",
+                "ts": "1696599139.506799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/ph-files.imgix.net\/ef66af1b-ab0b-468b-98ee-8e8b1419509c.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+                "image_width": 1024,
+                "image_height": 512,
+                "image_bytes": 179364,
+                "from_url": "https:\/\/www.producthunt.com\/posts\/expert-remote",
+                "service_icon": "https:\/\/ph-static.imgix.net\/ph-ios-icon.png?format=auto&amp;compress=auto",
+                "id": 1,
+                "original_url": "https:\/\/www.producthunt.com\/posts\/expert-remote",
+                "fallback": "Product Hunt: Expert Remote - Hire remote developers vetted for tech &amp; soft skills | Product Hunt",
+                "text": "Choose from 400+ developers, AI\/ML engineers, data scientists, UI\/UX designers, product managers, DevOps, QAs, etc. All our talents have been vetted for technical and communication skills. Sign up this week to get a 10% discount on all hiring for 1 year!",
+                "title": "Expert Remote - Hire remote developers vetted for tech &amp; soft skills | Product Hunt",
+                "title_link": "https:\/\/www.producthunt.com\/posts\/expert-remote",
+                "service_name": "Product Hunt"
+            },
+            {
+                "from_url": "https:\/\/developers.expertremote.io\/",
+                "service_icon": "https:\/\/developers.expertremote.io\/wp-content\/uploads\/2022\/09\/cropped-Frame-7-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/developers.expertremote.io",
+                "fallback": "Expert Remote: Careers - Expert Remote",
+                "text": "Join Expert Remote and get matched with the best US\/EU startups. Only long-term well-paid projects with payment guarantee.",
+                "title": "Careers - Expert Remote",
+                "title_link": "https:\/\/developers.expertremote.io\/",
+                "service_name": "Expert Remote"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVZr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! We're working on a platform that aims to connect startup founders and top-level IT talents: developers, designers, product managers, etc.\n\nToday we've launched on Product Hunt and would appreciate your feedback!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.producthunt.com\/posts\/expert-remote"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nP.S. if anyone lost jobs in the current market, feel free to leave your CV here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developers.expertremote.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

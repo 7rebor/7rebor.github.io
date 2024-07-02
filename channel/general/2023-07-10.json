@@ -1,0 +1,232 @@
+[
+    {
+        "user": "U058WJ0Q4RG",
+        "type": "message",
+        "ts": "1688977921.554859",
+        "client_msg_id": "1a959fed-278e-4561-8508-7d11509c41b2",
+        "text": "Hi <@U04RH8K303Y> - we have customers imaging whole cleared mice on our Bruker LCS system. We did a webinar about it which can be seen here; <https:\/\/www.bruker.com\/en\/news-and-events\/webinars\/2022\/cellular-mapping-of-an-entire-organism-using-whole-body-tissue-clearing-and-light-sheet-microscopy\/watch-fm8ao.html#ID_cell-mapping-of-whole-organism|https:\/\/www.bruker.com\/en\/news-and-events\/webinars\/2022\/cellular-mapping-of-an-entir[…]y-tissue-clearing-and-light-sheet-microscopy\/watch-fm8ao.html> and at around 40 minutes he mentions how the mouse is mounted in the cuvette, although it's only a light touch. I can put you in touch with my colleagues if you would like to get some more details from them, just drop me a message.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gb071ce9a095",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b071ce9a09582170b46d96029c8126dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Phil",
+            "real_name": "Phil Golding",
+            "display_name": "Phil Golding",
+            "team": "T01FQQGKPLH",
+            "name": "philip.golding",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.bruker.com\/en\/news-and-events\/webinars\/2022\/cellular-mapping-of-an-entire-organism-using-whole-body-tissue-clearing-and-light-sheet-microscopy\/watch-fm8ao\/_jcr_content\/teaserImage.coreimg.jpeg\/1655248818331\/cellular-mapping-of-an-entire-organism-webinar-on-demand-teaser.jpeg",
+                "image_width": 400,
+                "image_height": 225,
+                "image_bytes": 100887,
+                "from_url": "https:\/\/www.bruker.com\/en\/news-and-events\/webinars\/2022\/cellular-mapping-of-an-entire-organism-using-whole-body-tissue-clearing-and-light-sheet-microscopy\/watch-fm8ao.html#ID_cell-mapping-of-whole-organism",
+                "service_icon": "https:\/\/www.bruker.com\/etc.clientlibs\/bruker\/clientlibs\/clientlib-favicons\/resources\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bruker.com\/en\/news-and-events\/webinars\/2022\/cellular-mapping-of-an-entire-organism-using-whole-body-tissue-clearing-and-light-sheet-microscopy\/watch-fm8ao.html#ID_cell-mapping-of-whole-organism",
+                "fallback": "On-Demand Session: Cellular Mapping of an Entire Organism Using Whole-Body Tissue Clearing and Light-Sheet Microscopy",
+                "text": "Light-sheet fluorescence microscopy experts discuss and demonstrate whole-body imaging with combined tissue clearing and light-sheet microscopy methods",
+                "title": "On-Demand Session: Cellular Mapping of an Entire Organism Using Whole-Body Tissue Clearing and Light-Sheet Microscopy",
+                "title_link": "https:\/\/www.bruker.com\/en\/news-and-events\/webinars\/2022\/cellular-mapping-of-an-entire-organism-using-whole-body-tissue-clearing-and-light-sheet-microscopy\/watch-fm8ao.html#ID_cell-mapping-of-whole-organism",
+                "service_name": "bruker.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tqa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04RH8K303Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - we have customers imaging whole cleared mice on our Bruker LCS system. We did a webinar about it which can be seen here; "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bruker.com\/en\/news-and-events\/webinars\/2022\/cellular-mapping-of-an-entire-organism-using-whole-body-tissue-clearing-and-light-sheet-microscopy\/watch-fm8ao.html#ID_cell-mapping-of-whole-organism",
+                                "text": "https:\/\/www.bruker.com\/en\/news-and-events\/webinars\/2022\/cellular-mapping-of-an-entir[…]y-tissue-clearing-and-light-sheet-microscopy\/watch-fm8ao.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and at around 40 minutes he mentions how the mouse is mounted in the cuvette, although it's only a light touch. I can put you in touch with my colleagues if you would like to get some more details from them, just drop me a message."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1689016789.883589",
+        "client_msg_id": "5be29f3f-46b7-4e8a-b87a-e557c28293b4",
+        "text": "<https:\/\/www.bbc.co.uk\/news\/science-environment-66119980|https:\/\/www.bbc.co.uk\/news\/science-environment-66119980>\n\nAli Ertürk's group hit the front page of the BBC!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1689016789.883589",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1689844523.599249",
+        "reply_users": [
+            "U04UTRSQXNE",
+            "U01GHGN71UL",
+            "U04M5SGCM5J",
+            "U05E47A1DV0"
+        ],
+        "replies": [
+            {
+                "user": "U04UTRSQXNE",
+                "ts": "1689021367.575529"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1689073344.344669"
+            },
+            {
+                "user": "U04UTRSQXNE",
+                "ts": "1689074154.728759"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1689148428.695499"
+            },
+            {
+                "user": "U05E47A1DV0",
+                "ts": "1689844523.599249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/10068\/production\/_130304656_mouse.jpg",
+                "image_width": 1024,
+                "image_height": 576,
+                "image_bytes": 61551,
+                "from_url": "https:\/\/www.bbc.co.uk\/news\/science-environment-66119980",
+                "service_icon": "https:\/\/www.bbc.co.uk\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.bbc.co.uk\/news\/science-environment-66119980",
+                "fallback": "BBC News: Transparent mouse could improve cancer drug tests",
+                "text": "Scientists say a new scanning method that can identify tiny tumours could revolutionise medical research.",
+                "title": "Transparent mouse could improve cancer drug tests",
+                "title_link": "https:\/\/www.bbc.co.uk\/news\/science-environment-66119980",
+                "service_name": "BBC News"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LDfz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bbc.co.uk\/news\/science-environment-66119980",
+                                "text": "https:\/\/www.bbc.co.uk\/news\/science-environment-66119980"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAli Ertürk's group hit the front page of the BBC!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U04RH8K303Y",
+                    "U01J3L7PL4A"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U058WJ0Q4RG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04UTRSQXNE",
+        "type": "message",
+        "ts": "1689021367.575529",
+        "client_msg_id": "fff42e5e-2272-459e-85f4-b527e4584aed",
+        "text": "Love the picture with the caption \"Prof Ali Ertürk about to dip a transparent mouse into chemicals that highlight specific tissues\" :laughing:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ef732a54ec22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4992512058769_ef732a54ec2204fdabcc_72.jpg",
+            "first_name": "Sunny",
+            "real_name": "Sunny Keqing Dai",
+            "display_name": "Sunny",
+            "team": "T01FQQGKPLH",
+            "name": "keqingdai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1689016789.883589",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+LsAk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love the picture with the caption \"Prof Ali Ertürk about to dip a transparent mouse into chemicals that highlight specific tissues\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

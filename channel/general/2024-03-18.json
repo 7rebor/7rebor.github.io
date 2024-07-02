@@ -1,0 +1,117 @@
+[
+    {
+        "text": "Hi Everyone, In collaboration with the Mesoscopic Imaging Facility (MIF) at EMBL Barcelona, Bruker Luxendo are running a free 3-Day Light-Sheet Bioimaging Summer School in Barcelona 17th - 19th of June. The school will feature presentations by globally renowned experts, interactive imaging workshops, and a variety of additional activities with plenty of time for discussions and insights. We will have 3x of our light sheet systems there; the MuVi (flexible, live and cleared), LCS (Large Cleared Samples) and TruLive (long-term, live imaging), all supported by our HIVE data management system. You can also bring your own samples. Details on how to register are on the attached PDF and we are excited to work with the community on this event!",
+        "files": [
+            {
+                "id": "F06Q3H3PS3W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U058WJ0Q4RG",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uVZmM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone, In collaboration with the Mesoscopic Imaging Facility (MIF) at EMBL Barcelona, Bruker Luxendo are running a free 3-Day Light-Sheet Bioimaging Summer School in Barcelona 17th - 19th of June. The school will feature presentations by globally renowned experts, interactive imaging workshops, and a variety of additional activities with plenty of time for discussions and insights. We will have 3x of our light sheet systems there; the MuVi (flexible, live and cleared), LCS (Large Cleared Samples) and TruLive (long-term, live imaging), all supported by our HIVE data management system. You can also bring your own samples. Details on how to register are on the attached PDF and we are excited to work with the community on this event!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710760993.880469",
+        "client_msg_id": "ed0d6bcb-512f-4a86-a993-ea7ce35c8ef9",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04M5SGCM5J",
+                    "U01J3L7PL4A",
+                    "U05VCMTECAG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01J3L7PL4A",
+                    "U01GHGN71UL",
+                    "U05VCMTECAG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1710761992.199409",
+        "client_msg_id": "006e49e5-8c55-4bad-b066-0eebd554f642",
+        "text": "Hi all, sorry for the delay, buy I got lost in demo and maills...Yes, we have tested\/demoed both AxL 3i and Miltenyi Blaze; many differeneces, pros and cons and still analyzing the data; I`m still rushing but happy to give you a feedback (via chat or maybe e dedicated Zoom meetinh); hopefully soon..",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706875498.373419",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/afvr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, sorry for the delay, buy I got lost in demo and maills...Yes, we have tested\/demoed both AxL 3i and Miltenyi Blaze; many differeneces, pros and cons and still analyzing the data; I`m still rushing but happy to give you a feedback (via chat or maybe e dedicated Zoom meetinh); hopefully soon.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

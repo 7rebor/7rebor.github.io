@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U01H3QDBEGY",
+        "type": "message",
+        "ts": "1616520045.008100",
+        "client_msg_id": "8f858304-0416-4eb9-bc45-a8bab796f838",
+        "text": "Hi everyone, we are looking for a permanent imaging specialist at the University of Birmingham working with Confocal, Airyscan and Z1 light sheet. <https:\/\/www.jobs.ac.uk\/job\/CER701\/imaging-technical-specialist>. This separate to my role in COMPARE which will be coming up soon.  I will post this here too as soon as that advert is live. Happy to answer any informal enquiries.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a05a27bf7ce8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1557871841974_a05a27bf7ce833e05a41_72.jpg",
+            "first_name": "Dee",
+            "real_name": "Dee Kavanagh",
+            "display_name": "Dee Kavanagh",
+            "team": "T01FQQGKPLH",
+            "name": "d.m.kavanagh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Jobs.ac.uk",
+                "title": "Imaging Technical Specialist at University of Birmingham",
+                "title_link": "https:\/\/www.jobs.ac.uk\/job\/CER701\/imaging-technical-specialist",
+                "fallback": "Jobs.ac.uk: Imaging Technical Specialist at University of Birmingham",
+                "image_url": "https:\/\/www.jobs.ac.uk\/images\/global\/jobs_ac_uk-logo-with-strapline.jpg",
+                "image_width": 551,
+                "image_height": 250,
+                "from_url": "https:\/\/www.jobs.ac.uk\/job\/CER701\/imaging-technical-specialist",
+                "image_bytes": 134658,
+                "service_icon": "https:\/\/www.jobs.ac.uk\/jobs-touch-icon-144x144.png",
+                "id": 1,
+                "original_url": "https:\/\/www.jobs.ac.uk\/job\/CER701\/imaging-technical-specialist"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LaLy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, we are looking for a permanent imaging specialist at the University of Birmingham working with Confocal, Airyscan and Z1 light sheet. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jobs.ac.uk\/job\/CER701\/imaging-technical-specialist"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". This separate to my role in COMPARE which will be coming up soon.  I will post this here too as soon as that advert is live. Happy to answer any informal enquiries."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

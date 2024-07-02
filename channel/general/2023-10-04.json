@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1696419093.670119",
+        "client_msg_id": "5acee71f-14e8-41bf-be26-2b5dab865911",
+        "text": "Does this have anything to do with lightsheet microscopy?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696333566.236149",
+        "parent_user_id": "U050AD5LDT3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bOAa6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does this have anything to do with lightsheet microscopy?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U059LQCN1HN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

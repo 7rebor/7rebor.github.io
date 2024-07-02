@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1615387549.000100",
+        "client_msg_id": "8bd5e75c-797b-410e-9c72-89df2b1921e1",
+        "text": "Me too.  I should point out for completeness that it's being hosted by <https:\/\/www.bioimagingna.org\/> but I wasn't able to find on their website.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1615321327.000100",
+        "parent_user_id": "U01H3QDBEGY",
+        "attachments": [
+            {
+                "service_name": "BINA",
+                "title": "Bioimaging | BioImaging North America",
+                "title_link": "https:\/\/www.bioimagingna.org\/",
+                "text": "BINA is an intergrated network of optical imaging scientists, students and innovators across North America. We aim to bring together the bioimaging community in Canada, the US, and Mexico and partner with imaging communities from around the world.",
+                "fallback": "BINA: Bioimaging | BioImaging North America",
+                "from_url": "https:\/\/www.bioimagingna.org\/",
+                "service_icon": "https:\/\/static.parastorage.com\/client\/pfavico.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.bioimagingna.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IuH1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too.  I should point out for completeness that it's being hosted by "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bioimagingna.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but I wasn't able to find on their website."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01H3QDBEGY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

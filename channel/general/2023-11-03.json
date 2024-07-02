@@ -1,0 +1,192 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04M5SGCM5J",
+        "thread_ts": "1697537409.068019",
+        "root": {
+            "user": "U01HDFX11PT",
+            "type": "message",
+            "ts": "1697537409.068019",
+            "client_msg_id": "e8afa3f1-13a5-46a5-845c-8245c3554026",
+            "text": "<!channel> The next meeting will be at 3pm UK time on Friday 3rd.\nI am looking for *2-3 people to give 5-10 minute presentations on their favourite visualisation software\/tools*, specifically something in FIJI, Napari and Imaris\/arivis but others also very welcome! Please volunteer by commenting on this thread.\nWith agreement from those in the meeting, we will record the session for our colleagues in Australasia and aim to alternate with morning meetings next time.",
+            "team": "T01FQQGKPLH",
+            "thread_ts": "1697537409.068019",
+            "reply_count": 11,
+            "reply_users_count": 8,
+            "latest_reply": "1699106929.045989",
+            "reply_users": [
+                "U01J7PX21GB",
+                "U04UNL1LCP8",
+                "U061XQ16U4C",
+                "U01GHGN71UL",
+                "U04M5SGCM5J",
+                "U01HDFX11PT",
+                "U059LQCN1HN",
+                "U059N2A340Y"
+            ],
+            "replies": [
+                {
+                    "user": "U01J7PX21GB",
+                    "ts": "1697548229.004139"
+                },
+                {
+                    "user": "U04UNL1LCP8",
+                    "ts": "1697648155.971309"
+                },
+                {
+                    "user": "U061XQ16U4C",
+                    "ts": "1697726919.526369"
+                },
+                {
+                    "user": "U01GHGN71UL",
+                    "ts": "1697730208.153309"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1698752046.325159"
+                },
+                {
+                    "user": "U04UNL1LCP8",
+                    "ts": "1698806680.198949"
+                },
+                {
+                    "user": "U01HDFX11PT",
+                    "ts": "1698828037.246189"
+                },
+                {
+                    "user": "U059LQCN1HN",
+                    "ts": "1698848432.508599"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1699023481.452989"
+                },
+                {
+                    "user": "U059N2A340Y",
+                    "ts": "1699084219.358669"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1699106929.045989"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "\/HC\/u",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " The next meeting will be at 3pm UK time on Friday 3rd.\nI am looking for "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "2-3 people to give 5-10 minute presentations on their favourite visualisation software\/tools",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ", specifically something in FIJI, Napari and Imaris\/arivis but others also very welcome! Please volunteer by commenting on this thread.\nWith agreement from those in the meeting, we will record the session for our colleagues in Australasia and aim to alternate with morning meetings next time."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1699023481.452989",
+        "client_msg_id": "b9b9f09b-fe0f-4686-8200-9d853c7cb58c",
+        "text": "Meeting starting in 3 mins :slightly_smiling_face:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f1SU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meeting starting in 3 mins "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U059LQCN1HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U059LQCN1HN",
+        "type": "message",
+        "ts": "1699028621.348479",
+        "client_msg_id": "79ef56db-4b77-4712-acca-9e38512d1502",
+        "text": "Thanks all! Nice to meet everyone",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "798070bfed71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-22\/5326828856608_798070bfed71fa61b19d_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael S. Nelson",
+            "display_name": "Michael S. Nelson",
+            "team": "T01FQQGKPLH",
+            "name": "msnelson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0kYEY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks all! Nice to meet everyone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04M5SGCM5J",
+                    "U0595LLHA5S"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

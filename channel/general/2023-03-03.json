@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1677857981.215019",
+        "client_msg_id": "215fcffb-e5e4-439c-9646-4d912543275f",
+        "text": "Hi all, and welcome on- board the newcomers! Thanks already about the new inputs and community ideas..A lot to discuss; just to let you know that we`ll wait till 12 pm (today, Friday 3\/3) and then we`ll confirm (here), latest Mon morning,  the date for Zoom + link; have a good weekend\/imaging",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=mPI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, and welcome on- board the newcomers! Thanks already about the new inputs and community ideas..A lot to discuss; just to let you know that we`ll wait till 12 pm (today, Friday 3\/3) and then we`ll confirm (here), latest Mon morning,  the date for Zoom + link; have a good weekend\/imaging"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

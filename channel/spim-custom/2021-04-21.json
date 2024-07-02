@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01J7PX21GB",
+        "type": "message",
+        "ts": "1619015166.002900",
+        "client_msg_id": "65f5eecb-062b-4b07-b544-6b0c778d0354",
+        "text": "Did you try mounting your sample in FEP tubes?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "fef5f4aac9bf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3836005644179_fef5f4aac9bf62f56973_72.jpg",
+            "first_name": "",
+            "real_name": "Michael Weber",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "weber.michael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1618534784.001700",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z8wq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you try mounting your sample in FEP tubes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

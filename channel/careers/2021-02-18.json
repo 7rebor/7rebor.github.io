@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1613642766.000100",
+        "client_msg_id": "09c9d982-0005-4de4-abb8-ef7f214c9b67",
+        "text": "details <https:\/\/atsv7.wcn.co.uk\/search_engine\/jobs.cgi?owner=5062452&amp;ownertype=fair&amp;jcode=1875064&amp;vt_template=1457&amp;adminview=1>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1613127872.003300",
+        "parent_user_id": "U01HDFX11PT",
+        "attachments": [
+            {
+                "title": "University of Warwick Job Search: Imaging Specialist (79189-0221)",
+                "title_link": "https:\/\/atsv7.wcn.co.uk\/search_engine\/jobs.cgi?owner=5062452&ownertype=fair&jcode=1875064&vt_template=1457&adminview=1",
+                "text": "University of Warwick Job Search: Imaging Specialist (79189-0221)",
+                "fallback": "University of Warwick Job Search: Imaging Specialist (79189-0221)",
+                "from_url": "https:\/\/atsv7.wcn.co.uk\/search_engine\/jobs.cgi?owner=5062452&ownertype=fair&jcode=1875064&vt_template=1457&adminview=1",
+                "service_icon": "https:\/\/atsv7.wcn.co.uk\/favicon.ico",
+                "service_name": "atsv7.wcn.co.uk",
+                "id": 1,
+                "original_url": "https:\/\/atsv7.wcn.co.uk\/search_engine\/jobs.cgi?owner=5062452&amp;ownertype=fair&amp;jcode=1875064&amp;vt_template=1457&amp;adminview=1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p96",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "details "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atsv7.wcn.co.uk\/search_engine\/jobs.cgi?owner=5062452&ownertype=fair&jcode=1875064&vt_template=1457&adminview=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01GMRWNLGZ",
+        "text": "<@U01GMRWNLGZ> has joined the channel",
+        "type": "message",
+        "ts": "1613669044.000200"
+    }
+]

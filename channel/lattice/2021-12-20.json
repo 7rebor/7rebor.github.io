@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1639997723.003000",
+        "client_msg_id": "c197b97b-203c-4c7b-a6d2-21f27aa7e618",
+        "text": "very interesting! We also had a quick test on the Zeiss Lattice, but I still have some questions; I`ll contact you for sure (likey after Christmas..)!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1639747458.002700",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=NGv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "very interesting! We also had a quick test on the Zeiss Lattice, but I still have some questions; I`ll contact you for sure (likey after Christmas..)!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1688469968.481009",
+        "client_msg_id": "dbc1de12-3635-4b71-abc7-442275c983d5",
+        "text": "Awesome! Sorry I couldn't be of help, is Ali Erturk's lab of any help - <https:\/\/pubmed.ncbi.nlm.nih.gov\/36697871\/>\n\nMaybe try messaging one of those people, I think they are really the only people I know of doing routine whole mouse imaging?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pf\/fL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! Sorry I couldn't be of help, is Ali Erturk's lab of any help - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/36697871\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMaybe try messaging one of those people, I think they are really the only people I know of doing routine whole mouse imaging?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

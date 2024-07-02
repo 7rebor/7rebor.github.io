@@ -1,0 +1,498 @@
+[
+    {
+        "text": "*Sample prep for Leica SP8 DLS multi-view tissue using rotation mount*\n\nJust sharing a protocol with the community. I have been playing around with sample mounting on the Leica SP8 DLS. I needed to image some cleared mouse eyes (see <#C04U9JFUU1M|clearing> channel for more conversation on that).\n\nI just put this protocol together from my notes and photos. If these messages end up lasting forever, I hope this resource is useful for somebody in the future :slightly_smiling_face:\n\nI've attached some example data of nuclear labelling (non-specific) to the end of the protocol and also here, we just want to identify the cells in the inner layer (LUT adjusted in last image). The data is good with the 5x\/0.15 NA objective imaging in CUBIC-2 with the BABB\/Gly mirrors. My biggest problems now are bubbles caught in the messy tissue and maybe some inconsistencies in the CUBIC solution, although the recommendation was to use Cargille Type FF immersion oil, I feel it is a waste.\n\nFor those not familiar, the DLS (digital light sheet) is an add-on to the SP8 confocal that mounts a detection objective opposite (above) the normal inverted objective turret used for confocal. The illumination comes from the bottom objective to two tiny mirrors attached to the detection objective, this turns the beam 90 degrees and perpendicular to the detection objective for a lightsheet (when scanned). Sample sizes can be up to 4 mm wide (parallel to the sheet) and 4 mm thick (axial), and quite long (cm? not very limited in that direction).",
+        "files": [
+            {
+                "id": "F04UALQ146B",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04UR39VBSP",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F04UR3RE5DH",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0500TS7WKA",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ChNl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sample prep for Leica SP8 DLS multi-view tissue using rotation mount",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nJust sharing a protocol with the community. I have been playing around with sample mounting on the Leica SP8 DLS. I needed to image some cleared mouse eyes (see "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C04U9JFUU1M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel for more conversation on that).\n\nI just put this protocol together from my notes and photos. If these messages end up lasting forever, I hope this resource is useful for somebody in the future "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI've attached some example data of nuclear labelling (non-specific) to the end of the protocol and also here, we just want to identify the cells in the inner layer (LUT adjusted in last image). The data is good with the 5x\/0.15 NA objective imaging in CUBIC-2 with the BABB\/Gly mirrors. My biggest problems now are bubbles caught in the messy tissue and maybe some inconsistencies in the CUBIC solution, although the recommendation was to use Cargille Type FF immersion oil, I feel it is a waste.\n\nFor those not familiar, the DLS (digital light sheet) is an add-on to the SP8 confocal that mounts a detection objective opposite (above) the normal inverted objective turret used for confocal. The illumination comes from the bottom objective to two tiny mirrors attached to the detection objective, this turns the beam 90 degrees and perpendicular to the detection objective for a lightsheet (when scanned). Sample sizes can be up to 4 mm wide (parallel to the sheet) and 4 mm thick (axial), and quite long (cm? not very limited in that direction)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1679313484.488329",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1679313783.000000"
+        },
+        "client_msg_id": "15063948-38fc-4e13-8848-0223c10e9540",
+        "thread_ts": "1679313484.488329",
+        "reply_count": 19,
+        "reply_users_count": 3,
+        "latest_reply": "1684163691.936089",
+        "reply_users": [
+            "U04RCBZLRJT",
+            "U04M5SGCM5J",
+            "U01JZAQRXHN"
+        ],
+        "replies": [
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679323796.958739"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679323833.033779"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679323876.890949"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679323916.447429"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679323929.184699"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679323936.245079"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679326679.296999"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679326919.369529"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679393425.005589"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679397678.526069"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679397751.380199"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679397834.822989"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679397935.500779"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679398280.998179"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679399500.719729"
+            },
+            {
+                "user": "U01JZAQRXHN",
+                "ts": "1684159057.455319"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1684163519.191289"
+            },
+            {
+                "user": "U01JZAQRXHN",
+                "ts": "1684163599.394009"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1684163691.936089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1679323796.958739",
+        "client_msg_id": "7bb4f2d8-9569-4202-bbba-55be7da28106",
+        "text": "Why are you imaging in this very sticky CUBIC-2 Solution? A 1:1 mixture of mineral oil and silicone oil is the prefered imaging solution.  RI=1.48. You can even reach higher RI if needed.\nSiliconöl AP 100 (Sigma-Aldrich, 10838)\nand\nMineralöl (Sigma-Aldrich, M8410)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vbqP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why are you imaging in this very sticky CUBIC-2 Solution? A 1:1 mixture of mineral oil and silicone oil is the prefered imaging solution.  RI=1.48. You can even reach higher RI if needed.\nSiliconöl AP 100 (Sigma-Aldrich, 10838)\nand\nMineralöl (Sigma-Aldrich, M8410)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1679323833.033779",
+        "client_msg_id": "4915064f-ad54-49a2-a962-e720ac7255ce",
+        "text": "to avoid air bubbles i'm always store the sample in a vacuum excicator during following the clering protocol",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wQxy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to avoid air bubbles i'm always store the sample in a vacuum excicator during following the clering protocol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1679323876.890949",
+        "client_msg_id": "16585f06-37ac-4823-a51e-077a20ab8c42",
+        "text": "to avoid air bubbles i'm always store the sample in a vacuum excicator during following the clering protocol",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8=HF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to avoid air bubbles i'm always store the sample in a vacuum excicator during following the clering protocol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F04UURJLX6G",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04RCBZLRJT",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1679323916.447429",
+        "client_msg_id": "e1993329-42a8-4582-b125-48f974dba4ee",
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1679323929.184699",
+        "client_msg_id": "7d310024-9685-4ece-aa8d-8929e24dae0c",
+        "text": "if you prepare the oil mixture you can remove air bubbles by using such a nice device",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVUB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you prepare the oil mixture you can remove air bubbles by using such a nice device"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F04US829S5R",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04RCBZLRJT",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1679323936.245079",
+        "client_msg_id": "19e29122-9710-481f-9a78-0d73985278da",
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "reactions": [
+            {
+                "name": "question",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1679326679.296999",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1679327110.000000"
+        },
+        "client_msg_id": "4e9e979e-1d19-498d-823d-d37e516e14f6",
+        "text": "&gt; Why are you imaging in this very sticky CUBIC-2 Solution? A 1:1 mixture of mineral oil and silicone oil is the prefered imaging solution. RI=1.48. You can even reach higher RI if needed.\n&gt; Siliconöl AP 100 (Sigma-Aldrich, 10838)\n&gt; and\n&gt; Mineralöl (Sigma-Aldrich, M8410)\nBecause I'm a newby :slightly_smiling_face: - I could image in TDE\/H2O straight away as I have some laying around. Any preference between TDE and the mix of silicone\/mineral? I have a refractometer to get it all matched RI",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8LZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why are you imaging in this very sticky CUBIC-2 Solution? A 1:1 mixture of mineral oil and silicone oil is the prefered imaging solution. RI=1.48. You can even reach higher RI if needed.\nSiliconöl AP 100 (Sigma-Aldrich, 10838)\nand\nMineralöl (Sigma-Aldrich, M8410)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBecause I'm a newby "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I could image in TDE\/H2O straight away as I have some laying around. Any preference between TDE and the mix of silicone\/mineral? I have a refractometer to get it all matched RI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1679326919.369529",
+        "client_msg_id": "a61f178a-a229-4bbb-aa90-1475ffef801d",
+        "text": "<@U04RCBZLRJT> do you store the sealed samples, as well as any solutions, in a vacuum desiccator? Do you have the vacuum constantly on, and what is the source of your vacuum - a pump? Is this sustainable, or just before you image them, then they go... for disposal?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQkG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04RCBZLRJT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you store the sealed samples, as well as any solutions, in a vacuum desiccator? Do you have the vacuum constantly on, and what is the source of your vacuum - a pump? Is this sustainable, or just before you image them, then they go... for disposal?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1701896464.802309",
+        "client_msg_id": "7630fa53-310f-4158-94f1-39e106b75a59",
+        "text": "Hi Laura, we have a Lifecanvas SmartSPIM system and we use their clearing method but we do not use SmartBatch, we do everything manually. We haven't tried to do immunostaining for whole brain as we have endogenous signal. We did tho immunostaining on sliced brains, after reverse clearing of Lifecanvas. If you have any more questions please send me an email :)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701896464.802309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1701952905.716389",
+        "reply_users": [
+            "U01JLA9M0J3"
+        ],
+        "replies": [
+            {
+                "user": "U01JLA9M0J3",
+                "ts": "1701952905.716389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CpmeZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Laura, we have a Lifecanvas SmartSPIM system and we use their clearing method but we do not use SmartBatch, we do everything manually. We haven't tried to do immunostaining for whole brain as we have endogenous signal. We did tho immunostaining on sliced brains, after reverse clearing of Lifecanvas. If you have any more questions please send me an email :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U059LQCN1HN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01JLA9M0J3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

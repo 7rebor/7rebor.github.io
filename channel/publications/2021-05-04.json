@@ -1,0 +1,71 @@
+[
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1620136312.000800",
+        "client_msg_id": "dd5b0be7-a19d-4ef3-88aa-448bffb6b5ad",
+        "text": "<https:\/\/www.nature.com\/articles\/s41593-018-0301-3>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1620136312.000800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1621610035.000100",
+        "reply_users": [
+            "U01GHGN71UL"
+        ],
+        "replies": [
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1621610035.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621610035.000100",
+        "attachments": [
+            {
+                "service_name": "Nature Neuroscience",
+                "title": "Panoptic imaging of transparent mice reveals whole-body neuronal projections and skull–meninges connections",
+                "title_link": "https:\/\/www.nature.com\/articles\/s41593-018-0301-3",
+                "text": "A nanobody-based immunolabeling method, vDISCO, boosts the signal of fluorescent proteins and allows imaging of subcellular details in intact transparent mice. It uncovers neuronal projections and skull–meninges connections in whole adult mice.",
+                "fallback": "Nature Neuroscience: Panoptic imaging of transparent mice reveals whole-body neuronal projections and skull–meninges connections",
+                "thumb_url": "https:\/\/media.springernature.com\/m685\/springer-static\/image\/art%3A10.1038%2Fs41593-018-0301-3\/MediaObjects\/41593_2018_301_Fig1_HTML.png",
+                "from_url": "https:\/\/www.nature.com\/articles\/s41593-018-0301-3",
+                "thumb_width": 560,
+                "thumb_height": 685,
+                "id": 1,
+                "original_url": "https:\/\/www.nature.com\/articles\/s41593-018-0301-3"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1bZx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nature.com\/articles\/s41593-018-0301-3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1718973434.754439",
+        "client_msg_id": "c6db6e87-e020-43e7-9c6d-096dfcfc341c",
+        "text": "my experiences in short form:\n• 1-2 h or even one night Eci pre-incubation is beneficial \n• Do not leave the sample in Eci after imaging but in PMS\n• PMS is a very good substitute but more expensive!\n• Eci dissolves plastic but also bad coatings from cuvettes. (in our case the coating of a LaVIsion cuvette had come off)\n• I get headaches when I work with ECI all day\nbut: non-toxic so ideal for multi user facilities ;-)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714739394.175589",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxVZF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my experiences in short form:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1-2 h or even one night Eci pre-incubation is beneficial "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do not leave the sample in Eci after imaging but in PMS"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PMS is a very good substitute but more expensive!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Eci dissolves plastic but also bad coatings from cuvettes. (in our case the coating of a LaVIsion cuvette had come off)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I get headaches when I work with ECI all day"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but: non-toxic so ideal for multi user facilities ;-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

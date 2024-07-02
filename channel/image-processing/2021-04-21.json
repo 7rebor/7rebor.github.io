@@ -1,0 +1,47 @@
+[
+    {
+        "text": "This is a pretty 'donut' of spheroids.  I'm not sure if there's an easy way to apply rotations and offsets to each of the series in BigStitcher... :thinking_face:\nI guess I could write a macro to downsample the data, find the centroid of the spheroid in x, y, and projections and use those points, plus the offset from the stage position, and the rotations to get things semi overlapping for registration... :exploding_head:",
+        "files": [
+            {
+                "id": "F01V20S0Q3V",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01G21ASDAL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gDsT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a pretty 'donut' of spheroids.  I'm not sure if there's an easy way to apply rotations and offsets to each of the series in BigStitcher... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI guess I could write a macro to downsample the data, find the centroid of the spheroid in x, y, and projections and use those points, plus the offset from the stage position, and the rotations to get things semi overlapping for registration... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head",
+                                "unicode": "1f92f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1619033672.004700"
+    }
+]

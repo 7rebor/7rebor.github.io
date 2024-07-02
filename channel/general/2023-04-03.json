@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1680527694.683569",
+        "client_msg_id": "e564f550-1dac-4ab9-a6f1-3d136e9a2c6f",
+        "text": "Generally samples are embedded in LMA (SERVA - 2% ; made in H20, filtered with 200 um filters and kept in aliquots at 4 deg – not sure is really necessary to have LM agar..) before going to CUBIC-2; sample and agar block are basically cleared together; once they are in CUBIC2 and well clear, I switch to the oil-mix making (1 wash in the oil mix + leave in oil) ; then, for precaution I generally wait at least 1 our before the imaging (to let the sample equilibrate), but I get the feeling that OIL and CUBIC really do not mix; they have slightly different RIs, but probably also because the agar block has quite flat borders, I do not see many RI-mismatch aberration (just need to realign a bit the ligh-sheets); sorry for the delay, I`m stuck at the FOM meeting (that btw I super L-sheet interesting!); hope it helps!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680177970.814839",
+        "parent_user_id": "U04VDJ71CL8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QkE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Generally samples are embedded in LMA (SERVA - 2% ; made in H20, filtered with 200 um filters and kept in aliquots at 4 deg – not sure is really necessary to have LM agar..) before going to CUBIC-2; sample and agar block are basically cleared together; once they are in CUBIC2 and well clear, I switch to the oil-mix making (1 wash in the oil mix + leave in oil) ; then, for precaution I generally wait at least 1 our before the imaging (to let the sample equilibrate), but I get the feeling that OIL and CUBIC really do not mix; they have slightly different RIs, but probably also because the agar block has quite flat borders, I do not see many RI-mismatch aberration (just need to realign a bit the ligh-sheets); sorry for the delay, I`m stuck at the FOM meeting (that btw I super L-sheet interesting!); hope it helps!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1680528511.214789",
+        "client_msg_id": "da61f045-62ca-4ac5-8b42-0a2c338ba4af",
+        "text": "Glad to tell you that Light-sheet is happily scattering at the FOM meeting with an honour place at the 1st day plenary lecture (other mesmerizing J Huisken lecture) and 3 light-sheet dedicated sessions today!! Program and abstracts here <https:\/\/www.focusonmicroscopy.org\/2023-program-online\/?event_id=1791>  + updates on Twitter #FOM2023 <https:\/\/twitter.com\/hashtag\/FOM2023?src=hashtag_click>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680528511.214789",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1680601581.359319",
+        "reply_users": [
+            "U04M5SGCM5J"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1680601581.359319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Glad to tell you that Light-sheet is happily scattering at the FOM meeting with an honour place at the 1st day plenary lecture (other mesmerizing J Huisken lecture) and 3 light-sheet dedicated sessions today!! Program and abstracts here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.focusonmicroscopy.org\/2023-program-online\/?event_id=1791"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  + updates on Twitter #FOM2023 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/hashtag\/FOM2023?src=hashtag_click"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04UTRSQXNE",
+                    "U04M5SGCM5J"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

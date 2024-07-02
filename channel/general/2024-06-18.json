@@ -1,0 +1,353 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1718726146.271969",
+        "client_msg_id": "d42d0062-2907-4eb6-a2d3-dba0e9cce7a5",
+        "text": "Sheet Question: *Are downstream analysis workflows for whole-brain imaging with light-sheet microscopy distinct from those of other microscopy techniques?* For instance, while software like Brain Globe is commonly used to register features to the Allen Brain Atlas for block-face serial section microscopy, can similar workflows be adapted for light-sheet microscopy?\n\nAnd don't forget our next meeting is on Friday 28th June, 3pm UK time",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e9rNB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sheet Question: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Are downstream analysis workflows for whole-brain imaging with light-sheet microscopy distinct from those of other microscopy techniques?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " For instance, while software like Brain Globe is commonly used to register features to the Allen Brain Atlas for block-face serial section microscopy, can similar workflows be adapted for light-sheet microscopy?\n\nAnd don't forget our next meeting is on Friday 28th June, 3pm UK time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VCMTECAG",
+        "type": "message",
+        "ts": "1718746647.847659",
+        "client_msg_id": "ba611b9d-8f53-4ef3-9cb0-61c72ea2cdfd",
+        "text": "we use brainglobe for registering lightsheet datasets of the brain",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ge7fff81e654",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7fff81e654515363109c9559ffdd91d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Pradeep",
+            "real_name": "Pradeep Rajasekhar",
+            "display_name": "Pradeep",
+            "team": "T01FQQGKPLH",
+            "name": "rajasekhar.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hC6iV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we use brainglobe for registering lightsheet datasets of the brain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VCMTECAG",
+        "type": "message",
+        "ts": "1718746655.611779",
+        "client_msg_id": "db405e42-f949-41c3-980f-a5b974e38d7c",
+        "text": "they have a new lsfm mouse brain atlas",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ge7fff81e654",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7fff81e654515363109c9559ffdd91d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Pradeep",
+            "real_name": "Pradeep Rajasekhar",
+            "display_name": "Pradeep",
+            "team": "T01FQQGKPLH",
+            "name": "rajasekhar.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v+tJq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they have a new lsfm mouse brain atlas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VCMTECAG",
+        "type": "message",
+        "ts": "1718746694.746649",
+        "client_msg_id": "baab2421-8c77-4d74-918e-2f01cc640260",
+        "text": "Gubra's LSFM mouse brain atlas at 20 micron resolution",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ge7fff81e654",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7fff81e654515363109c9559ffdd91d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Pradeep",
+            "real_name": "Pradeep Rajasekhar",
+            "display_name": "Pradeep",
+            "team": "T01FQQGKPLH",
+            "name": "rajasekhar.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mpkdB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gubra's LSFM mouse brain atlas at 20 micron resolution"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VCMTECAG",
+        "type": "message",
+        "ts": "1718746696.500529",
+        "client_msg_id": "082ae121-dcb0-48f6-a99c-f43df3703ff2",
+        "text": "<https:\/\/github.com\/brainglobe\/brainglobe-atlasapi?tab=readme-ov-file#atlases-available>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ge7fff81e654",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7fff81e654515363109c9559ffdd91d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Pradeep",
+            "real_name": "Pradeep Rajasekhar",
+            "display_name": "Pradeep",
+            "team": "T01FQQGKPLH",
+            "name": "rajasekhar.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "plz70",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/brainglobe\/brainglobe-atlasapi?tab=readme-ov-file#atlases-available"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VCMTECAG",
+        "type": "message",
+        "ts": "1718746707.058579",
+        "client_msg_id": "4b2e159b-5955-4cba-a3df-24548264a848",
+        "text": "<https:\/\/github.com\/Gubra-ApS\/LSFM-mouse-brain-atlas>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ge7fff81e654",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7fff81e654515363109c9559ffdd91d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Pradeep",
+            "real_name": "Pradeep Rajasekhar",
+            "display_name": "Pradeep",
+            "team": "T01FQQGKPLH",
+            "name": "rajasekhar.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iThKu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Gubra-ApS\/LSFM-mouse-brain-atlas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VCMTECAG",
+        "type": "message",
+        "ts": "1718746734.937089",
+        "client_msg_id": "22e6e2b0-b0f6-4c05-896c-ea2a81c2e565",
+        "text": "It works fairly well, however, it can be a challenge evaluating how well the registration worked..",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ge7fff81e654",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7fff81e654515363109c9559ffdd91d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Pradeep",
+            "real_name": "Pradeep Rajasekhar",
+            "display_name": "Pradeep",
+            "team": "T01FQQGKPLH",
+            "name": "rajasekhar.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Xh77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It works fairly well, however, it can be a challenge evaluating how well the registration worked.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VCMTECAG",
+        "type": "message",
+        "ts": "1718775310.781769",
+        "client_msg_id": "640da609-4709-4f5a-a9e5-5a014608730c",
+        "text": "Can't seem to add Walter and Eliza Hall Institute of Medical Research, Melbourne, Australia",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ge7fff81e654",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7fff81e654515363109c9559ffdd91d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Pradeep",
+            "real_name": "Pradeep Rajasekhar",
+            "display_name": "Pradeep",
+            "team": "T01FQQGKPLH",
+            "name": "rajasekhar.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1717163467.939029",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwv+X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can't seem to add Walter and Eliza Hall Institute of Medical Research, Melbourne, Australia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

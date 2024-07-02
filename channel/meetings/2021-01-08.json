@@ -1,0 +1,49 @@
+[
+    {
+        "user": "U01JZAQRXHN",
+        "type": "message",
+        "ts": "1610105685.009000",
+        "client_msg_id": "7f63a9bf-a856-4ccc-a3db-e8ac39c843ac",
+        "text": "The next meeting for the LSFM community is not planned yet. I have to contact the previous 2 groups who show some interest, namely Prof Pavone in Italy and Arne Seitz in Switzerland and will report here. We alaos informaly started to discuss the possibility to have a more structured community as the community has grown a bit and many sub topics have appeared...",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2074bddfd928",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1618435752197_2074bddfd92855c3919f_72.jpg",
+            "first_name": "",
+            "real_name": "Emmanuel Reynaud",
+            "display_name": "Emmanuel Reynaud",
+            "team": "T01FQQGKPLH",
+            "name": "emmanuel.reynaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2tIse",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The next meeting for the LSFM community is not planned yet. I have to contact the previous 2 groups who show some interest, namely Prof Pavone in Italy and Arne Seitz in Switzerland and will report here. We alaos informaly started to discuss the possibility to have a more structured community as the community has grown a bit and many sub topics have appeared..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01H3QDBEGY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

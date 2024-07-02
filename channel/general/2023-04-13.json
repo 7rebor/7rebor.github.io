@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1681373258.235069",
+        "client_msg_id": "5df6b775-a678-4dde-a94b-4198ec6aca40",
+        "text": "I have created a Google Drive folder for any documents you want to save from the slack site before our pro upgrade runs out (3 days) - also going forward feel free to use it to upload sharable resources.\n<https:\/\/drive.google.com\/drive\/folders\/1B2D4aXatfdKyD9doJHCESpNwz6xb40o1?usp=sharing>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7lM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have created a Google Drive folder for any documents you want to save from the slack site before our pro upgrade runs out (3 days) - also going forward feel free to use it to upload sharable resources.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1B2D4aXatfdKyD9doJHCESpNwz6xb40o1?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01GHGN71UL",
+                    "U04UNL1LCP8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

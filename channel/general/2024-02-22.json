@@ -1,0 +1,389 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1708601016.082039",
+        "client_msg_id": "c8e4ee4a-ac76-42bb-85ab-0cc7aa978b9e",
+        "text": "*Figure making best practices (+ reporting your analyses)*\n\n<https:\/\/www.bioimagingnorthamerica.org\/events\/figure-making-best-practices\/>\nA really useful virtual event run by BioImaging North America\n\nI will be attending to make sure I'm up to scratch :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.bioimagingnorthamerica.org\/wp-content\/uploads\/2023\/10\/The-Goblin-cells-BINA-Frederic-BONNET-1024x1024.png",
+                "image_width": 1024,
+                "image_height": 1024,
+                "image_bytes": 1537528,
+                "from_url": "https:\/\/www.bioimagingnorthamerica.org\/events\/figure-making-best-practices\/",
+                "service_icon": "https:\/\/www.bioimagingnorthamerica.org\/wp-content\/themes\/bina\/img\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bioimagingnorthamerica.org\/events\/figure-making-best-practices\/",
+                "fallback": "BioImaging North America Site: Figure Making Best Practices - Checklists &amp; Demo",
+                "text": "Join the BINA Early Career WG and QUAREP-LiMi WG 12 to learn about correct and effective scientific figure making for microscopy",
+                "title": "Figure Making Best Practices - Checklists &amp; Demo",
+                "title_link": "https:\/\/www.bioimagingnorthamerica.org\/events\/figure-making-best-practices\/",
+                "service_name": "BioImaging North America Site",
+                "fields": [
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HpEF6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Figure making best practices (+ reporting your analyses)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bioimagingnorthamerica.org\/events\/figure-making-best-practices\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nA really useful virtual event run by BioImaging North America\n\nI will be attending to make sure I'm up to scratch "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE",
+                    "U059LQCN1HN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01HDFX11PT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04M5SGCM5J",
+        "thread_ts": "1702057184.740659",
+        "root": {
+            "text": "*Viewing old Slack messages*\n\n 0.  <@U01HDFX11PT> or other Admins must make a backup at least once every 90 days - we can set up a repeating reminder in Slack for this. The backup is a .zip file of .json files and one for the entire history until Apr 2023 was uploaded here: <https:\/\/drive.google.com\/drive\/folders\/1B2D4aXatfdKyD9doJHCESpNwz6xb40o1>\n1. If you don't already have Python and know what you're doing, install Anaconda Distribution: <https:\/\/docs.anaconda.com\/free\/anaconda\/install\/>, then find and run 'Anaconda Prompt' from your OS.\n2. Type 'pip install slack-export-viewer' in, press enter, and let it install\n3. Type 'slack-export-viewer -z [File location of .zip of Slack archive]', press enter\n4. Navigate the webpage that opens as though it was Slack (see screenshot) :slightly_smiling_face: \nNotes:\n• The .zip must directly contain all of the channel folders and .json files like 'channels.json' and 'users.json'. If you download from Google drive, you will receive a .zip with a single folder inside, which then contains all of the information on the next level down, unzip that single folder and re-zip just the contents inside it to get the correct .zip for slack-export-viewer (see video for an example of the correct and incorrect .zip structure)\nWe should never need to worry about using the 'free' version ever again",
+            "files": [
+                {
+                    "id": "F0694T0RQKY",
+                    "created": 1702056802,
+                    "timestamp": 1702056802,
+                    "name": "Screen sharing - 2023-12-08 5:33:20 PM.webm",
+                    "title": "Screen sharing - 2023-12-08 5:33:20 PM.webm",
+                    "mimetype": "video\/webm",
+                    "filetype": "webm",
+                    "pretty_type": "WebM",
+                    "user": "U04M5SGCM5J",
+                    "user_team": "T01FQQGKPLH",
+                    "editable": false,
+                    "size": 3258825,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "subtype": "slack_video",
+                    "transcription": {
+                        "status": "none"
+                    },
+                    "mp4": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F0694T0RQKY-e21d909663\/screen_sharing_-_2023-12-08_5_33_20_pm.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                    "url_private": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F0694T0RQKY-e21d909663\/screen_sharing_-_2023-12-08_5_33_20_pm.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                    "url_private_download": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F0694T0RQKY-e21d909663\/download\/screen_sharing_-_2023-12-08_5_33_20_pm.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                    "hls": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F0694T0RQKY-e21d909663\/file.m3u8?_xcb=5dcdf&t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                    "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9ODI2MzczLEFWRVJBR0UtQkFORFdJRFRIPTc5ODkxMSxDT0RFQ1M9ImF2YzEuNjQwMDI4LG1wNGEuNDAuNSIsUkVTT0xVVElPTj0xOTIweDEwODAsRlJBTUUtUkFURT0yOS45NzAKZGF0YTphcHBsaWNhdGlvbi92bmQuYXBwbGUubXBlZ3VybDtiYXNlNjQsSTBWWVZFMHpWUW9qUlZoVUxWZ3RWa1ZTVTBsUFRqb3pDaU5GV0ZRdFdDMVVRVkpIUlZSRVZWSkJWRWxQVGpvM0NpTkZXRlF0V0MxTlJVUkpRUzFUUlZGVlJVNURSVG94Q2lORldGUXRXQzFRVEVGWlRFbFRWQzFVV1ZCRk9sWlBSQW9qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhSbEZSUjB0UVRFZ3RSakEyT1RSVU1GSlJTMWt0WlRJeFpEa3dPVFkyTXk5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNUzUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4UmxGUlIwdFFURWd0UmpBMk9UUlVNRkpSUzFrdFpUSXhaRGt3T1RZMk15OW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TWk1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeFJsRlJSMHRRVEVndFJqQTJPVFJVTUZKUlMxa3RaVEl4WkRrd09UWTJNeTltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd015NTBjd29qUlZoVVNVNUdPakV1TWpBeExBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhSbEZSUjB0UVRFZ3RSakEyT1RSVU1GSlJTMWt0WlRJeFpEa3dPVFkyTXk5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdOQzUwY3dvalJWaFVMVmd0UlU1RVRFbFRWQW89CiNFWFQtWC1TVFJFQU0tSU5GOkJBTkRXSURUSD01NTc0MjYsQVZFUkFHRS1CQU5EV0lEVEg9NTM3NDc2LENPREVDUz0iYXZjMS42NDAwMWYsbXA0YS40MC41IixSRVNPTFVUSU9OPTEyODB4NzIwLEZSQU1FLVJBVEU9MjkuOTcwCmh0dHBzOi8vZmlsZXMuc2xhY2suY29tL2ZpbGVzLXRtYi9UMDFGUVFHS1BMSC1GMDY5NFQwUlFLWS1lMjFkOTA5NjYzL2ZpbGVfSF8yNjRfMTI4MHg3MjBfMzUwMEtCUFNfN1FWQlIubTN1OAo=",
+                    "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F0694T0RQKY-e21d909663\/screen_sharing_-_2023-12-08_5_33_20_pm_trans.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                    "duration_ms": 19219,
+                    "media_display_type": "video",
+                    "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F0694T0RQKY-e21d909663\/screen_sharing_-_2023-12-08_5_33_20_pm_thumb_video.jpeg?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                    "thumb_video_w": 1920,
+                    "thumb_video_h": 1080,
+                    "permalink": "https:\/\/wildsheet.slack.com\/files\/U04M5SGCM5J\/F0694T0RQKY\/screen_sharing_-_2023-12-08_5_33_20_pm.webm",
+                    "permalink_public": "https:\/\/slack-files.com\/T01FQQGKPLH-F0694T0RQKY-7b46c4f61d",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                },
+                {
+                    "id": "F069BDNVALB",
+                    "mode": "hidden_by_limit"
+                }
+            ],
+            "upload": false,
+            "user": "U04M5SGCM5J",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9qM2f",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Viewing old Slack messages",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n 0.  "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U01HDFX11PT"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " or other Admins must make a backup at least once every 90 days - we can set up a repeating reminder in Slack for this. The backup is a .zip file of .json files and one for the entire history until Apr 2023 was uploaded here: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/drive.google.com\/drive\/folders\/1B2D4aXatfdKyD9doJHCESpNwz6xb40o1"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "If you don't already have Python and know what you're doing, install Anaconda Distribution: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/docs.anaconda.com\/free\/anaconda\/install\/"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", then find and run 'Anaconda Prompt' from your OS."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Type 'pip install slack-export-viewer' in, press enter, and let it install"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Type 'slack-export-viewer -z [File location of .zip of Slack archive]', press enter"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Navigate the webpage that opens as though it was Slack (see screenshot) "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "slightly_smiling_face",
+                                            "unicode": "1f642"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNotes:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "The .zip must directly contain all of the channel folders and .json files like 'channels.json' and 'users.json'. If you download from Google drive, you will receive a .zip with a single folder inside, which then contains all of the information on the next level down, unzip that single folder and re-zip just the contents inside it to get the correct .zip for slack-export-viewer (see video for an example of the correct and incorrect .zip structure)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nWe should never need to worry about using the 'free' version ever again"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1702057184.740659",
+            "edited": {
+                "user": "U04M5SGCM5J",
+                "ts": "1702057282.000000"
+            },
+            "client_msg_id": "6f859d99-eb15-4f2f-b857-6d88e7e1b996",
+            "thread_ts": "1702057184.740659",
+            "reply_count": 4,
+            "reply_users_count": 3,
+            "latest_reply": "1708613382.144009",
+            "reply_users": [
+                "U01HDFX11PT",
+                "U04M5SGCM5J",
+                "U01GHGN71UL"
+            ],
+            "replies": [
+                {
+                    "user": "U01HDFX11PT",
+                    "ts": "1702058068.672399"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1702058581.182819"
+                },
+                {
+                    "user": "U01GHGN71UL",
+                    "ts": "1702549094.348459"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1708613382.144009"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1708613382.144009",
+        "client_msg_id": "16574fd5-b3a1-4f41-b03b-86cc7473be13",
+        "text": "Think I've one-upped myself here: <https:\/\/7rebor.github.io\/> - you can view the static html for all messages on the Slack at this website. It is only run from a snapshot that I downloaded today, so new messages won't appear. Probably possible to automate this further to be always updated :slightly_smiling_face:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irLK4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Think I've one-upped myself here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/7rebor.github.io\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - you can view the static html for all messages on the Slack at this website. It is only run from a snapshot that I downloaded today, so new messages won't appear. Probably possible to automate this further to be always updated "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01HDFX11PT",
+                    "U04UTRSQXNE",
+                    "U059LQCN1HN"
+                ],
+                "count": 3
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01J3L7PL4A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "partying_face",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

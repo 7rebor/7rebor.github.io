@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1621612430.000700",
+        "client_msg_id": "f594f605-a190-46c4-b8ac-35080b465183",
+        "text": "Even if I`m not a microscopes builder.., I agree; I can see the niche that many L-sheets are filling; a bit like the world of Clearing Methods, they are probably application\/sample specific. And I still defend the idea of multi-view: I`m impressed how the opposite double detection system (Luxendo MuVi, e.g.) is usfeul to scientists who (just on fixed samples - not caring about photo-toxicity) want to have quick full overview (even if just on the outer layer) of globuar, not transparent (!!), samples (organoids, gastruloids,..).  However, the OPM branch is exciting.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1619385439.001100",
+        "parent_user_id": "U01HPGGFV2T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AW15",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even if I`m not a microscopes builder.., I agree; I can see the niche that many L-sheets are filling; a bit like the world of Clearing Methods, they are probably application\/sample specific. And I still defend the idea of multi-view: I`m impressed how the opposite double detection system (Luxendo MuVi, e.g.) is usfeul to scientists who (just on fixed samples - not caring about photo-toxicity) want to have quick full overview (even if just on the outer layer) of globuar, not transparent (!!), samples (organoids, gastruloids,..).  However, the OPM branch is exciting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

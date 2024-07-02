@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1716192244.705239",
+        "client_msg_id": "a1e5b84f-298e-4f97-a4f5-f57c926f66d5",
+        "text": "*Want to help to shape the future of training courses available from RMS?*\n\nA new survey has just been launched by <https:\/\/www.rms.org.uk\/community\/focussed-interest-groups\/professional-development-and-training.html|the PTD-FIG at the RMS> to understand current demand for training opportunities and courses in microscopy, imaging and flow cytometry. The survey only takes around 15 minutes to complete – and as an added incentive, respondents can enter a prize draw for the chance to win a £100 Amazon voucher!\n\nThe survey will remain open until the end of July and the results will be published on the RMS website later this year.\n\n*Find out more and complete the survey: <https:\/\/www.surveymonkey.com\/r\/66TLZQW>*",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O7jHp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Want to help to shape the future of training courses available from RMS?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA new survey has just been launched by "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rms.org.uk\/community\/focussed-interest-groups\/professional-development-and-training.html",
+                                "text": "the PTD-FIG at the RMS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to understand current demand for training opportunities and courses in microscopy, imaging and flow cytometry. The survey only takes around 15 minutes to complete – and as an added incentive, respondents can enter a prize draw for the chance to win a £100 Amazon voucher!\n\nThe survey will remain open until the end of July and the results will be published on the RMS website later this year.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Find out more and complete the survey: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.surveymonkey.com\/r\/66TLZQW",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01J3L7PL4A",
+                    "U04UTRSQXNE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1716219581.752009",
+        "client_msg_id": "ceb57eeb-74df-41fb-bc2b-bbc282dfcdd5",
+        "text": "I agree with Rob. So many techniques for sample prep, and some of the techniques looks like works only once, usually for people who developed this technique and then is not reproducible. If there would be a \"database of clearing techniques\", for what kind of samples, for who did it work (nopt only once). Maybe we could keep updating it if someone change or improve something, have a contact to people that made it work for them etc etc.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715777753.401629",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mgjbx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with Rob. So many techniques for sample prep, and some of the techniques looks like works only once, usually for people who developed this technique and then is not reproducible. If there would be a \"database of clearing techniques\", for what kind of samples, for who did it work (nopt only once). Maybe we could keep updating it if someone change or improve something, have a contact to people that made it work for them etc etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

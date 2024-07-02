@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U01H3QDBEGY",
+        "type": "message",
+        "ts": "1613683085.000100",
+        "client_msg_id": "ca64d87d-e464-4b1b-bd66-fce0e2c07b76",
+        "text": "Exactly! I was surprised too, I'm going to try a comparison of acquisitions. I have some nice embryo samples coming soon :relaxed:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a05a27bf7ce8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1557871841974_a05a27bf7ce833e05a41_72.jpg",
+            "first_name": "Dee",
+            "real_name": "Dee Kavanagh",
+            "display_name": "Dee Kavanagh",
+            "team": "T01FQQGKPLH",
+            "name": "d.m.kavanagh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1613126020.001200",
+        "parent_user_id": "U01H3QDBEGY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nLk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exactly! I was surprised too, I'm going to try a comparison of acquisitions. I have some nice embryo samples coming soon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

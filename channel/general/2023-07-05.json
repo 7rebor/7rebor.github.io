@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1688565529.335979",
+        "client_msg_id": "8b6fc50e-ab4f-4d31-8a2b-48a012b8faa7",
+        "text": "Thanks a good point ! Will try to contact them. Thank you all :)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTeW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks a good point ! Will try to contact them. Thank you all :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

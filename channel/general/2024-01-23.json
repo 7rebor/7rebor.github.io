@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1706007454.167429",
+        "client_msg_id": "20b9d0d1-d3ad-4de8-bbe9-71d3b8e942b6",
+        "text": "That would be cool, I really liked your images from the Fast Green staining!\n\nDoes the iSPIM have an environmental chamber then? I was tempted to do some timepoint imaging by taking the gel in and out of the incubator for the 3i CTLS (cleared tissue light sheet).",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705510170.640179",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+KJvY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would be cool, I really liked your images from the Fast Green staining!\n\nDoes the iSPIM have an environmental chamber then? I was tempted to do some timepoint imaging by taking the gel in and out of the incubator for the 3i CTLS (cleared tissue light sheet)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

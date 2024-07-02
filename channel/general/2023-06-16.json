@@ -1,0 +1,156 @@
+[
+    {
+        "text": "Dears,\nafter chatting with <@U04M5SGCM5J>, we have finally decided to have an (open) chat on “Big Lightsheet:  what are best commercial light-sheet microscopes for cleared samples”?\nFriday 23rd of June – 3:00 – 4:00 pm (UK Time – GMT+1)\nSurely we`ll not find the answer.. but hopefully we`ll have at least ideas a bit more clear. We`ll start comparing the 3i CTLS and Blaze Miltenyi, but hopefully also other products’;\n\nAnyone else want to join? It`s open, but please, to make a fluent &amp; honest discussion:1) if you are from a company, you`ll need it to declare it 2) please keep camera ON (to know a bit better with whom we are speaking with \/make it more human);\nZoom link below\n\nAlso, in case it can help for the discussion, I attach a list of parameters I find useful to check; the Q is: what are the more important features for a light-sheet purchase?..\n\nTime: Jun 23, 2023 03:00 PM London\nJoin Zoom Meeting\n<https:\/\/crick.zoom.us\/j\/63771166279?pwd=SkVOVU5GL0cybHRtcDZURVhXdFRUQT09>\nMeeting ID: 637 7116 6279\nPasscode: 329446",
+        "files": [
+            {
+                "id": "F05D8G350BB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01GHGN71UL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dears,\nafter chatting with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04M5SGCM5J"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", we have finally decided to have an (open) chat on “Big Lightsheet:  what are best commercial light-sheet microscopes for cleared samples”?\nFriday 23rd of June – 3:00 – 4:00 pm (UK Time – GMT+1)\nSurely we`ll not find the answer.. but hopefully we`ll have at least ideas a bit more clear. We`ll start comparing the 3i CTLS and Blaze Miltenyi, but hopefully also other products’;\n\nAnyone else want to join? It`s open, but please, to make a fluent & honest discussion:1) if you are from a company, you`ll need it to declare it 2) please keep camera ON (to know a bit better with whom we are speaking with \/make it more human);\nZoom link below\n\nAlso, in case it can help for the discussion, I attach a list of parameters I find useful to check; the Q is: what are the more important features for a light-sheet purchase?..\n\nTime: Jun 23, 2023 03:00 PM London\nJoin Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/crick.zoom.us\/j\/63771166279?pwd=SkVOVU5GL0cybHRtcDZURVhXdFRUQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeeting ID: 637 7116 6279\nPasscode: 329446"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1686910432.154599",
+        "client_msg_id": "237e6ab7-7cb2-432b-aa75-b530b4baaf14",
+        "thread_ts": "1686910432.154599",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1688717562.093489",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U058W560NSX",
+            "U02L7JK42A3",
+            "U01GHGN71UL",
+            "U04RCBZLRJT"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1686914852.695459"
+            },
+            {
+                "user": "U058W560NSX",
+                "ts": "1687245151.809739"
+            },
+            {
+                "user": "U02L7JK42A3",
+                "ts": "1687414645.304409"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1687424541.896019"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1688717562.093489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01HDFX11PT",
+                    "U059ZHUUQVC",
+                    "U02L7JK42A3",
+                    "U059N2A340Y"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1686914852.695459",
+        "client_msg_id": "7c197d73-d439-4f09-8b7b-7954a166e2c1",
+        "text": "Great, thank you again Alessandro, it is in my diary :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686910432.154599",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "498C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great, thank you again Alessandro, it is in my diary "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

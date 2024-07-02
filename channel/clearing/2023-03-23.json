@@ -1,0 +1,521 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1679561027.047319",
+        "client_msg_id": "8d9a74b9-0de8-48a1-ae70-7ba00edba3d7",
+        "text": "Ah, that's useful to know about ECi softening some plastics.\n\nAt the Brno EMBO lightsheet workshop <@U01KN82Q4MN> was using Bondic with ECi\n\n<https:\/\/notaglue.com\/products\/the-bondic-starter-pack>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679512336.711499",
+        "parent_user_id": "U04RCBZLRJT",
+        "attachments": [
+            {
+                "from_url": "https:\/\/notaglue.com\/products\/the-bondic-starter-pack",
+                "service_icon": "http:\/\/cdn.shopify.com\/s\/files\/1\/0718\/5861\/t\/4\/assets\/favicon.png?v=94670945713370962281448400570",
+                "thumb_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0718\/5861\/products\/2_23170c99-92a3-45f9-b32e-9d576101b2e8_grande.png?v=1675284209",
+                "thumb_width": 600,
+                "thumb_height": 407,
+                "id": 1,
+                "original_url": "https:\/\/notaglue.com\/products\/the-bondic-starter-pack",
+                "fallback": "Bondic®: The BONDIC® Starter Pack",
+                "text": "One for you to try and love!!! One Starter Kit with additional: Bonus Refill Shaping Tool",
+                "title": "The BONDIC® Starter Pack",
+                "title_link": "https:\/\/notaglue.com\/products\/the-bondic-starter-pack",
+                "service_name": "Bondic®"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7GIE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, that's useful to know about ECi softening some plastics.\n\nAt the Brno EMBO lightsheet workshop "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01KN82Q4MN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " was using Bondic with ECi\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/notaglue.com\/products\/the-bondic-starter-pack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01KN82Q4MN",
+        "text": "<@U01KN82Q4MN> has joined the channel",
+        "inviter": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1679561033.836629"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U050AD5LDT3",
+        "text": "<@U050AD5LDT3> has joined the channel",
+        "type": "message",
+        "ts": "1679571983.796929"
+    },
+    {
+        "user": "U04VDJ71CL8",
+        "type": "message",
+        "ts": "1679572903.816959",
+        "client_msg_id": "ee4630f0-c15b-4c41-bc8e-89501dfcb705",
+        "text": "Hi!!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g346d75972bf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346d75972bf0fdae68c81b03a38d7ea6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Rosana",
+            "real_name": "Rosana Cáceres",
+            "display_name": "Rosana Cáceres",
+            "team": "T01FQQGKPLH",
+            "name": "rcaccar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04VDJ71CL8",
+        "type": "message",
+        "ts": "1679573390.695409",
+        "client_msg_id": "033a72b8-2402-4232-a349-8c288e5d29f3",
+        "text": "Does anyone have experience with CUBIC-R+? <https:\/\/www.nature.com\/articles\/s41467-020-15906-5>  When we fill the chamber with this medium we have some problems of solubility. To prepare it we mix them during 5 o 6 hours approximately, maybe we need to do it more time or change our components. We currently use Sigma products instead of TCI ones. Could this be a problem? Thanks!!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g346d75972bf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346d75972bf0fdae68c81b03a38d7ea6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Rosana",
+            "real_name": "Rosana Cáceres",
+            "display_name": "Rosana Cáceres",
+            "team": "T01FQQGKPLH",
+            "name": "rcaccar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679573390.695409",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1680172287.913319",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U04VDJ71CL8",
+            "U04RCBZLRJT"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679581405.572439"
+            },
+            {
+                "user": "U04VDJ71CL8",
+                "ts": "1679583510.093269"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679641138.491679"
+            },
+            {
+                "user": "U04VDJ71CL8",
+                "ts": "1680172287.913319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.springernature.com\/full\/springer-static\/image\/art%3A10.1038%2Fs41467-020-15906-5\/MediaObjects\/41467_2020_15906_Fig1_HTML.png",
+                "image_width": 1733,
+                "image_height": 2537,
+                "image_bytes": 814377,
+                "from_url": "https:\/\/www.nature.com\/articles\/s41467-020-15906-5",
+                "service_icon": "https:\/\/www.nature.com\/static\/images\/favicons\/nature\/apple-touch-icon-f39cb19454.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nature.com\/articles\/s41467-020-15906-5",
+                "fallback": "Nature: Versatile whole-organ\/body staining and imaging based on electrolyte-gel properties of biological tissues",
+                "text": "Nature Communications - Tissue clearing has revolutionised histology, but limited penetration of antibodies and stains into thick tissue segments is still a bottleneck. Here, the authors...",
+                "title": "Versatile whole-organ\/body staining and imaging based on electrolyte-gel properties of biological tissues",
+                "title_link": "https:\/\/www.nature.com\/articles\/s41467-020-15906-5",
+                "service_name": "Nature"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5\/6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have experience with CUBIC-R+? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nature.com\/articles\/s41467-020-15906-5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  When we fill the chamber with this medium we have some problems of solubility. To prepare it we mix them during 5 o 6 hours approximately, maybe we need to do it more time or change our components. We currently use Sigma products instead of TCI ones. Could this be a problem? Thanks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04UXLVSNKH",
+        "text": "<@U04UXLVSNKH> has joined the channel",
+        "type": "message",
+        "ts": "1679576821.422979"
+    },
+    {
+        "text": "Asking for a friend : has anybody else encountered (and potentially solved) the artifacts marked by a red arrow in iDisco cleared brains?",
+        "files": [
+            {
+                "id": "F050MV161SL",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04UXLVSNKH",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q87lj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Asking for a friend : has anybody else encountered (and potentially solved) the artifacts marked by a red arrow in iDisco cleared brains?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1679576997.327009",
+        "client_msg_id": "666908c5-15aa-4eb6-b0f0-bab2e1671905",
+        "thread_ts": "1679576997.327009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1679581181.060809",
+        "reply_users": [
+            "U04M5SGCM5J"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679581181.060809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1679581181.060809",
+        "client_msg_id": "a5ab41cc-5307-487f-bd32-fe282f003126",
+        "text": "Did it not end up being temperature shifts (as mentioned in the figure caption)? I don't do iDISCO, but would be interested to hear any answers :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679576997.327009",
+        "parent_user_id": "U04UXLVSNKH",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MEy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did it not end up being temperature shifts (as mentioned in the figure caption)? I don't do iDISCO, but would be interested to hear any answers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1679581405.572439",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1679585272.000000"
+        },
+        "client_msg_id": "804736f9-451f-46e2-80fa-4fa9fd3d70f0",
+        "text": "Hi Rosana :slightly_smiling_face:\n\nAre you saying that the solution is fine when you prepare it, but when you add it to your imaging chamber it turns cloudy? Or that it just isn't going clear at all during preparation?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679573390.695409",
+        "parent_user_id": "U04VDJ71CL8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "omRi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Rosana "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAre you saying that the solution is fine when you prepare it, but when you add it to your imaging chamber it turns cloudy? Or that it just isn't going clear at all during preparation?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04VDJ71CL8",
+        "type": "message",
+        "ts": "1679583510.093269",
+        "client_msg_id": "875663c3-83c6-474a-aa14-5cea09cc1103",
+        "text": "The point is that the solution seems to be fine when it is prepared. However, once added in the chamber, we observe a kind of sedimentation or desintegration in the media that affects to the lightsheet. We wait some minutes until it is stable but any little movement in the liquid disturb again the lightsheet.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g346d75972bf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346d75972bf0fdae68c81b03a38d7ea6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Rosana",
+            "real_name": "Rosana Cáceres",
+            "display_name": "Rosana Cáceres",
+            "team": "T01FQQGKPLH",
+            "name": "rcaccar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679573390.695409",
+        "parent_user_id": "U04VDJ71CL8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GHfEk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The point is that the solution seems to be fine when it is prepared. However, once added in the chamber, we observe a kind of sedimentation or desintegration in the media that affects to the lightsheet. We wait some minutes until it is stable but any little movement in the liquid disturb again the lightsheet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0501RNM6JX",
+        "text": "<@U0501RNM6JX> has joined the channel",
+        "type": "message",
+        "ts": "1679610176.990489"
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1679641138.491679",
+        "client_msg_id": "d1071946-cd6e-4f84-8039-b0b0d959a37e",
+        "text": "Does the sample come directly from Cubic-II solution into the cuvette with the oil mixture? I always pre incubate the sample in oil mixture to prevent a gradient in the cuvette",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679573390.695409",
+        "parent_user_id": "U04VDJ71CL8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "062FM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does the sample come directly from Cubic-II solution into the cuvette with the oil mixture? I always pre incubate the sample in oil mixture to prevent a gradient in the cuvette"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1679641180.667059",
+        "client_msg_id": "797e42a3-e48a-4a4b-919a-c21db06a931b",
+        "text": "ok..ordered",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679512336.711499",
+        "parent_user_id": "U04RCBZLRJT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VoFWt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok..ordered"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

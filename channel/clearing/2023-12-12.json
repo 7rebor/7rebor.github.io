@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Ok, here it is the protocol! More precise info, you can just write directly to <mailto:afnan.azizi@crick.ac.uk|afnan.azizi@crick.ac.uk>",
+        "files": [
+            {
+                "id": "F069M7LJ3N2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01GHGN71UL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BkCsU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, here it is the protocol! More precise info, you can just write directly to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:afnan.azizi@crick.ac.uk",
+                                "text": "afnan.azizi@crick.ac.uk",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1702401998.305479",
+        "client_msg_id": "bc8a8f22-a2b8-44d8-a1eb-f5f1f6be5a04",
+        "thread_ts": "1702290940.700699",
+        "parent_user_id": "U04M5SGCM5J"
+    }
+]

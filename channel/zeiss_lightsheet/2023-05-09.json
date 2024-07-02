@@ -1,0 +1,50 @@
+[
+    {
+        "text": "There is something from Zeiss...but it is no longer up to date and the new objectives and cuvettes are not yet included. But as a starting point possibly useful :wink:",
+        "files": [
+            {
+                "id": "F057LRHR8G0",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04RCBZLRJT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XsnK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is something from Zeiss...but it is no longer up to date and the new objectives and cuvettes are not yet included. But as a starting point possibly useful "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1683642438.803129",
+        "client_msg_id": "24b8da30-581f-4b89-ae1f-7e02d1e98364",
+        "thread_ts": "1681918662.882579",
+        "parent_user_id": "U04RUCAG9QA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04RUCAG9QA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

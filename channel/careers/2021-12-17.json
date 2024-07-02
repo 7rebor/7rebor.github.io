@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1639748185.000500",
+        "text": "",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1639746838.001300",
+                "author_id": "U01HDFX11PT",
+                "channel_team": "T01FQQGKPLH",
+                "channel_id": "C01LCEJ5H8C",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T01FQQGKPLH",
+                        "channel": "C01LCEJ5H8C",
+                        "ts": "1639746838.001300",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "S5fV",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "We are looking for an image analyst for the Oxford-Zeiss Centre of Excellence, please share with your network and feel free to reach out with questions. "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/my.corehr.com\/pls\/uoxrecruit\/erq_jobspec_version_4.display_form?p_company=10&p_form_profile_detail=&p_recruitment_id=154164&p_refresh_search=Y&p_display_apply_ind=Y&p_display_in_irish=N&p_internal_external=E&p_process_type=&p_applicant_no=",
+                                                    "text": "Post details"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1639746838001300",
+                "is_share": true,
+                "fallback": "[December 17th, 2021 1:13 PM] h.coker: We are looking for an image analyst for the Oxford-Zeiss Centre of Excellence, please share with your network and feel free to reach out with questions. <https:\/\/my.corehr.com\/pls\/uoxrecruit\/erq_jobspec_version_4.display_form?p_company=10&amp;p_form_profile_detail=&amp;p_recruitment_id=154164&amp;p_refresh_search=Y&amp;p_display_apply_ind=Y&amp;p_display_in_irish=N&amp;p_internal_external=E&amp;p_process_type=&amp;p_applicant_no=|Post details>",
+                "text": "We are looking for an image analyst for the Oxford-Zeiss Centre of Excellence, please share with your network and feel free to reach out with questions. <https:\/\/my.corehr.com\/pls\/uoxrecruit\/erq_jobspec_version_4.display_form?p_company=10&amp;p_form_profile_detail=&amp;p_recruitment_id=154164&amp;p_refresh_search=Y&amp;p_display_apply_ind=Y&amp;p_display_in_irish=N&amp;p_internal_external=E&amp;p_process_type=&amp;p_applicant_no=|Post details>",
+                "author_name": "Helena Coker",
+                "author_link": "https:\/\/wildsheet.slack.com\/team\/U01HDFX11PT",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-12-16\/1572286650630_35a3f31b82aa7118078a_48.png",
+                "author_subname": "Helena Coker",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ]
+    }
+]

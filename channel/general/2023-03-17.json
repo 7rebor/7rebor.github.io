@@ -1,0 +1,328 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1679065254.334799",
+        "client_msg_id": "96957439-5f99-4712-b367-fb7e1a225a7d",
+        "text": "<!channel> meeting on now :)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679065254.334799",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1679070664.824079",
+        "reply_users": [
+            "U01HSB5D05V",
+            "U01HDFX11PT"
+        ],
+        "replies": [
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1679068598.481549"
+            },
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1679070664.824079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SCT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " meeting on now :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HSB5D05V",
+        "type": "message",
+        "ts": "1679068598.481549",
+        "client_msg_id": "a2ab5814-e292-4fd3-865e-24b62e3c2e63",
+        "text": "Sorry, I missed it. Was stuck in another meeting...",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "7d293ecf208e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-12\/1877175095040_7d293ecf208e2a81f200_72.jpg",
+            "first_name": "Jan",
+            "real_name": "Jan Huisken",
+            "display_name": "Jan Huisken",
+            "team": "T01FQQGKPLH",
+            "name": "jhuisken",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679065254.334799",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4X9L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, I missed it. Was stuck in another meeting..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1679070664.824079",
+        "client_msg_id": "ba828a4b-2bf7-4457-b937-8a590730fa15",
+        "text": "The good news is we decided to have more meetings! :)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679065254.334799",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5lg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The good news is we decided to have more meetings! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1679071184.365359",
+        "client_msg_id": "0eab62d4-0b2f-4079-918a-9a9b9f0ca9f6",
+        "text": "Thanks to all who could make it, it was great to meet you\n• We decided to continue on Slack for now to test the platform\/engagement.\n• We will add a clearing and ZEISS lighsheet channel.\n• Before 90 days is up we decide if archiving\/another platform should be used. I will collect some info on Zulip, Discord etc. if you have experience or suggestions or time to help me find an alternative please do\nWe will have another meeting in two months - is 19th May good? Once firm I will post again on confocal listserv\nHappy weekend and St. Patrick's Day",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679071184.365359",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1679399788.103549",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U01HDFX11PT",
+            "U04RCBZLRJT"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679071516.501569"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679300008.033389"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679300050.165669"
+            },
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1679300195.193889"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679332272.529079"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679399788.103549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "awxB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks to all who could make it, it was great to meet you\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We decided to continue on Slack for now to test the platform\/engagement."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We will add a clearing and ZEISS lighsheet channel."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Before 90 days is up we decide if archiving\/another platform should be used. I will collect some info on Zulip, Discord etc. if you have experience or suggestions or time to help me find an alternative please do"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nWe will have another meeting in two months - is 19th May good? Once firm I will post again on confocal listserv\nHappy weekend and St. Patrick's Day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U026H6GPUAC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1679071516.501569",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1679071693.000000"
+        },
+        "client_msg_id": "3f1275e8-fa56-4ca0-b507-fdf300baa8c6",
+        "text": "I will share this group with the people I met at the EMBO Lightsheet workshop in Brno last year :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679071184.365359",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "joiZD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will share this group with the people I met at the EMBO Lightsheet workshop in Brno last year "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

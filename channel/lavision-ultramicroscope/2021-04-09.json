@@ -1,0 +1,195 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1617979000.007100",
+        "client_msg_id": "57e2fc3c-46f2-4071-ba9d-ac7583620b3a",
+        "text": ":+1:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616005945.010600",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qiUNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1617979518.007300",
+        "client_msg_id": "5e494a62-5a64-4cec-b258-0f0dd23b1c38",
+        "text": "HI <@U01G21ASDAL> I copy below the papers that I generally suggest to the users that start using clearing&amp;light-sheet  -----Quick Overview:\n“A beginner's guide to tissue clearing” -\n<https:\/\/pubmed.ncbi.nlm.nih.gov\/28082099\/>\nMore details\n“Clarifying Tissue Clearing”\n<https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4537058\/>\nEven more details (updated – focused on brain)\n“Whole-Brain Profiling of Cells and Circuits in Mammals by Tissue Clearing and Light-Sheet Microscopy”\n<https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0896627320301902?via%3Dihub>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617897974.006400",
+        "parent_user_id": "U01G21ASDAL",
+        "attachments": [
+            {
+                "service_name": "PubMed",
+                "title": "A beginner's guide to tissue clearing - PubMed",
+                "title_link": "https:\/\/pubmed.ncbi.nlm.nih.gov\/28082099\/",
+                "text": "The last decade has seen a proliferation of tissue clearing methods that render large biological samples transparent and allow unprecedented three-dimensional views of enormous volumes of tissue. For a scientist wondering whether these methods will be useful to address their research problems, it ca …",
+                "fallback": "PubMed: A beginner's guide to tissue clearing - PubMed",
+                "thumb_url": "https:\/\/cdn.ncbi.nlm.nih.gov\/pubmed\/persistent\/pubmed-meta-image.png",
+                "from_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/28082099\/",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/cdn.ncbi.nlm.nih.gov\/coreutils\/nwds\/img\/favicons\/favicon-57.png",
+                "id": 1,
+                "original_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/28082099\/"
+            },
+            {
+                "service_name": "PubMed Central (PMC)",
+                "title": "Clarifying Tissue Clearing",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4537058\/",
+                "text": "Biological specimens are intrinsically three dimensional; however because of the obscuring effects of light scatter, imaging deep into a tissue volume is problematic. Although efforts to eliminate the scatter by “clearing” the tissue have been ...",
+                "fallback": "PubMed Central (PMC): Clarifying Tissue Clearing",
+                "thumb_url": "https:\/\/www.ncbi.nlm.nih.gov\/corehtml\/pmc\/pmcgifs\/pmc-logo-share.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4537058\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4537058\/"
+            },
+            {
+                "title": "Whole-Brain Profiling of Cells and Circuits in Mammals by Tissue Clearing and Light-Sheet Microscopy",
+                "title_link": "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0896627320301902?via%3Dihub",
+                "text": "Tissue clearing and light-sheet microscopy have a 100-year-plus history, yet these fields have been combined only recently to facilitate novel experim…",
+                "fallback": "Whole-Brain Profiling of Cells and Circuits in Mammals by Tissue Clearing and Light-Sheet Microscopy",
+                "from_url": "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0896627320301902?via%3Dihub",
+                "thumb_url": "https:\/\/ars.els-cdn.com\/content\/image\/Dcellpress.gif",
+                "thumb_width": 80,
+                "thumb_height": 80,
+                "service_icon": "https:\/\/www.sciencedirect.com\/favicon.ico",
+                "service_name": "sciencedirect.com",
+                "id": 3,
+                "original_url": "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0896627320301902?via%3Dihub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uxe1d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HI "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01G21ASDAL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I copy below the papers that I generally suggest to the users that start using clearing&light-sheet  -----Quick Overview:\n“A beginner's guide to tissue clearing” -\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/28082099\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMore details\n“Clarifying Tissue Clearing”\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4537058\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEven more details (updated – focused on brain)\n“Whole-Brain Profiling of Cells and Circuits in Mammals by Tissue Clearing and Light-Sheet Microscopy”\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0896627320301902?via%3Dihub"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1617979612.007600",
+        "client_msg_id": "0c4e8817-c1ec-4ddc-9b1a-5d92d2ddb302",
+        "text": "About your 4 questions..those are topics for a nice review! I ll try to give you my young point of view in the next days",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617897974.006400",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Oe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "About your 4 questions..those are topics for a nice review! I ll try to give you my young point of view in the next days"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

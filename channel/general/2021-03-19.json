@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U01MQ0U4P1Q",
+        "type": "message",
+        "ts": "1616165623.001100",
+        "client_msg_id": "7488feaa-a5b5-42bc-8631-365cbddca655",
+        "text": "Does anyone know of any published protocols for QC of light sheet systems? Otherwise, do people have protocols they could share? We are working on a few things ourselves but we don't want to reinvent the wheel.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gf531a6ead63",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f531a6ead63109cf9b9e6d4c535d8ba6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Claire Brown",
+            "display_name": "Claire Brown",
+            "team": "T01FQQGKPLH",
+            "name": "claire.brown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616165623.001100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1616792288.009700",
+        "reply_users": [
+            "U01T1LX5L56",
+            "U01SWH15KS5",
+            "U01HSB5D05V"
+        ],
+        "replies": [
+            {
+                "user": "U01T1LX5L56",
+                "ts": "1616621026.007600"
+            },
+            {
+                "user": "U01SWH15KS5",
+                "ts": "1616756367.008900"
+            },
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1616792288.009700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QTWVM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know of any published protocols for QC of light sheet systems? Otherwise, do people have protocols they could share? We are working on a few things ourselves but we don't want to reinvent the wheel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01HSB5D05V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

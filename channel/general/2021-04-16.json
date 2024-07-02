@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U01J3L7PL4A",
+        "type": "message",
+        "ts": "1618564416.001200",
+        "client_msg_id": "9b5273b2-4ce5-4f3f-8826-6b2b2338f4f6",
+        "text": "Hi everyone! - a virtual image data analysis course will happen in July - see <https:\/\/www.ebi.ac.uk\/training\/events\/microscopy-data-analysis\/> . Please consider passing on this message via other channels! Thanks :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gf355a5f2263",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f355a5f22634850c7addf5db1b092228.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Georgina Fletcher",
+            "display_name": "Georgina Fletcher",
+            "team": "T01FQQGKPLH",
+            "name": "georgina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Microscopy data analysis: Machine learning and the BioImage Archive | EMBL-EBI Training",
+                "title_link": "https:\/\/www.ebi.ac.uk\/training\/events\/microscopy-data-analysis\/",
+                "text": "EMBL-EBI Train online course",
+                "fallback": "Microscopy data analysis: Machine learning and the BioImage Archive | EMBL-EBI Training",
+                "from_url": "https:\/\/www.ebi.ac.uk\/training\/events\/microscopy-data-analysis\/",
+                "service_icon": "https:\/\/ebi.emblstatic.net\/web_guidelines\/EBI-Framework\/v1.3\/images\/logos\/EMBL-EBI\/favicons\/apple-icon-114x114.png",
+                "service_name": "ebi.ac.uk",
+                "id": 1,
+                "original_url": "https:\/\/www.ebi.ac.uk\/training\/events\/microscopy-data-analysis\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VIG\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! - a virtual image data analysis course will happen in July - see "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ebi.ac.uk\/training\/events\/microscopy-data-analysis\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Please consider passing on this message via other channels! Thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

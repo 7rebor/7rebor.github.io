@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1692780784.352169",
+        "client_msg_id": "990b40f5-1f89-4d18-8b26-30e5c857add9",
+        "text": "Hi all, our *next meeting will be a week on Friday (1st September) 3pm UK*. Katarzyna Cialowicz will be talking about optimising some clearing protocols. If you have any other things you would like to chat about please just drop them in this thread. Link to come and see you then.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFDO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, our "
+                            },
+                            {
+                                "type": "text",
+                                "text": "next meeting will be a week on Friday (1st September) 3pm UK",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Katarzyna Cialowicz will be talking about optimising some clearing protocols. If you have any other things you would like to chat about please just drop them in this thread. Link to come and see you then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "microscope",
+                "users": [
+                    "U059A96017T",
+                    "U04UTRSQXNE"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U01GHGN71UL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U04RH8K303Y"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

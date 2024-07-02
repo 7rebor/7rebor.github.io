@@ -1,0 +1,257 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04UNL1LCP8",
+        "thread_ts": "1678715685.051419",
+        "root": {
+            "user": "U01HDFX11PT",
+            "type": "message",
+            "ts": "1678715685.051419",
+            "edited": {
+                "user": "U01HDFX11PT",
+                "ts": "1678797904.000000"
+            },
+            "client_msg_id": "5ea17486-a229-4fc7-b55c-d8e523f6fb4e",
+            "text": "does anyone have experience with Ce3D clearing? I have a researcher who thinks it is a great idea but I'm struggling as the only scope we have which can do RI 1.5 is LaVision UMII but at $400\/25mL we cannot fill the massive cuvette. Thanks!\n<https:\/\/pubmed.ncbi.nlm.nih.gov\/31028373\/|https:\/\/pubmed.ncbi.nlm.nih.gov\/31028373\/>",
+            "team": "T01FQQGKPLH",
+            "thread_ts": "1678715685.051419",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1679953707.127929",
+            "reply_users": [
+                "U04M5SGCM5J",
+                "U01HDFX11PT",
+                "U04UNL1LCP8"
+            ],
+            "replies": [
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1678885028.295259"
+                },
+                {
+                    "user": "U01HDFX11PT",
+                    "ts": "1678885345.412159"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1678885804.641709"
+                },
+                {
+                    "user": "U01HDFX11PT",
+                    "ts": "1678886235.424899"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1678888404.898069"
+                },
+                {
+                    "user": "U04UNL1LCP8",
+                    "ts": "1679953707.127929"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "from_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/31028373\/",
+                    "thumb_url": "https:\/\/cdn.ncbi.nlm.nih.gov\/pubmed\/persistent\/pubmed-meta-image.png",
+                    "thumb_width": 1200,
+                    "thumb_height": 1200,
+                    "service_icon": "https:\/\/cdn.ncbi.nlm.nih.gov\/coreutils\/nwds\/img\/favicons\/favicon-57.png",
+                    "id": 1,
+                    "original_url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/31028373\/",
+                    "fallback": "PubMed: High-dimensional cell-level analysis of tissues with Ce3D multiplex volume imaging - PubMed",
+                    "text": "Understanding the structure-function relationships between diverse cell types in a complex organ environment requires detailed in situ reconstruction of cell-associated molecular properties in the context of 3D, macro-scale tissue architecture. We recently developed clearing-enhanced 3D (Ce3D), a si …",
+                    "title": "High-dimensional cell-level analysis of tissues with Ce3D multiplex volume imaging - PubMed",
+                    "title_link": "https:\/\/pubmed.ncbi.nlm.nih.gov\/31028373\/",
+                    "service_name": "PubMed"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mFLn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "does anyone have experience with Ce3D clearing? I have a researcher who thinks it is a great idea but I'm struggling as the only scope we have which can do RI 1.5 is LaVision UMII but at $400\/25mL we cannot fill the massive cuvette. Thanks!\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/31028373\/",
+                                    "text": "https:\/\/pubmed.ncbi.nlm.nih.gov\/31028373\/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1679953707.127929",
+        "client_msg_id": "31d1d058-441a-450b-bcdd-806016481194",
+        "text": "Has anyone found an alternative non-toxic imaging solution for use with Ce3D-cleared samples?",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZqrCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone found an alternative non-toxic imaging solution for use with Ce3D-cleared samples?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1679958645.675569",
+        "client_msg_id": "5afd34e2-4051-4ae6-9ef5-29746bbbab04",
+        "text": "Hi William, not sure if it can help, but maybe using a oil mixture is an option; actually, similar to what done for CUBIC-2, some water-based cleared samples can be well image in an oil solution with RI similar to CUBIC (as well discussed in this thread by Matthias \/Lavision channel <https:\/\/wildsheet.slack.com\/archives\/C01G147NV2A\/p1679323796958739?thread_ts=1679313484.488329&amp;cid=C01G147NV2A> and also tested by me – on samples embedded in agar) “CUBIC Mounting: Samples were immersed in a 1:1 mixture of silicon oil TSF4300 (Momentive Performance Materials, RI = 1.498) and mineral oil (Sigma-Aldrich, RI = 1.467) (From CUBIC original paper)”.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/wildsheet.slack.com\/archives\/C01G147NV2A\/p1679323796958739?thread_ts=1679313484.488329&amp;cid=C01G147NV2A",
+                "ts": "1679323796.958739",
+                "author_id": "U04RCBZLRJT",
+                "channel_id": "C01G147NV2A",
+                "channel_team": "T01FQQGKPLH",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T01FQQGKPLH",
+                        "channel": "C01G147NV2A",
+                        "ts": "1679323796.958739",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "vbqP",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Why are you imaging in this very sticky CUBIC-2 Solution? A 1:1 mixture of mineral oil and silicone oil is the prefered imaging solution.  RI=1.48. You can even reach higher RI if needed.\nSiliconöl AP 100 (Sigma-Aldrich, 10838)\nand\nMineralöl (Sigma-Aldrich, M8410)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/wildsheet.slack.com\/archives\/C01G147NV2A\/p1679323796958739?thread_ts=1679313484.488329&amp;cid=C01G147NV2A",
+                "fallback": "[March 20th, 2023 7:49 AM] m.richter: Why are you imaging in this very sticky CUBIC-2 Solution? A 1:1 mixture of mineral oil and silicone oil is the prefered imaging solution.  RI=1.48. You can even reach higher RI if needed.\nSiliconöl AP 100 (Sigma-Aldrich, 10838)\nand\nMineralöl (Sigma-Aldrich, M8410)",
+                "text": "Why are you imaging in this very sticky CUBIC-2 Solution? A 1:1 mixture of mineral oil and silicone oil is the prefered imaging solution.  RI=1.48. You can even reach higher RI if needed.\nSiliconöl AP 100 (Sigma-Aldrich, 10838)\nand\nMineralöl (Sigma-Aldrich, M8410)",
+                "author_name": "Matthias Richter",
+                "author_link": "https:\/\/wildsheet.slack.com\/team\/U04RCBZLRJT",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_48.jpg",
+                "author_subname": "Matthias Richter",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Thread in Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xvk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi William, not sure if it can help, but maybe using a oil mixture is an option; actually, similar to what done for CUBIC-2, some water-based cleared samples can be well image in an oil solution with RI similar to CUBIC (as well discussed in this thread by Matthias \/Lavision channel "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wildsheet.slack.com\/archives\/C01G147NV2A\/p1679323796958739?thread_ts=1679313484.488329&cid=C01G147NV2A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and also tested by me – on samples embedded in agar) “CUBIC Mounting: Samples were immersed in a 1:1 mixture of silicon oil TSF4300 (Momentive Performance Materials, RI = 1.498) and mineral oil (Sigma-Aldrich, RI = 1.467) (From CUBIC original paper)”."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1679959289.761199",
+        "client_msg_id": "cf902860-a8f1-4aaa-ade1-c3d476a4854c",
+        "text": "Dear all, I was unaware of that..but a new (and lively!)  CLEARING channel has been created!! Just need to go to channels&gt;manage &gt; browse..and join!!); you can find there more interesting discussions and clearing ideas..",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9B5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear all, I was unaware of that..but a new (and lively!)  CLEARING channel has been created!! Just need to go to channels>manage > browse..and join!!); you can find there more interesting discussions and clearing ideas.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04UNBGETHC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U059KMFP5S4",
+        "text": "<@U059KMFP5S4> has joined the channel",
+        "type": "message",
+        "ts": "1684767669.728829"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U058W560NSX",
+        "text": "<@U058W560NSX> has joined the channel",
+        "type": "message",
+        "ts": "1684774195.993929"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U059A96017T",
+        "text": "<@U059A96017T> has joined the channel",
+        "type": "message",
+        "ts": "1684810501.317929"
+    }
+]

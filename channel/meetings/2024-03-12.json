@@ -1,0 +1,264 @@
+[
+    {
+        "user": "U04UTRSQXNE",
+        "type": "message",
+        "ts": "1710233726.505959",
+        "client_msg_id": "b3d24eb8-5fe1-4828-88b3-99dac1fb86bf",
+        "text": "Hello :blush: anybody going to the 3rd Bridging Nordic Microscopy Infrastructure Symposium next month? I am quite looking forward to Prof. Stelzer's talk.\n\n<https:\/\/www.mn.uio.no\/ibv\/english\/research\/news-and-events\/events\/conferences\/2023\/bnmi-conference\/index.html>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ef732a54ec22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4992512058769_ef732a54ec2204fdabcc_72.jpg",
+            "first_name": "Sunny",
+            "real_name": "Sunny Keqing Dai",
+            "display_name": "Sunny",
+            "team": "T01FQQGKPLH",
+            "name": "keqingdai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710233726.505959",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1710241709.903469",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U04UTRSQXNE"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1710240761.561319"
+            },
+            {
+                "user": "U04UTRSQXNE",
+                "ts": "1710241709.903469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.mn.uio.no\/ibv\/english\/research\/news-and-events\/events\/conferences\/2023\/bnmi-conference\/bilder\/bnmi-2024.jpeg",
+                "image_width": 1000,
+                "image_height": 563,
+                "image_bytes": 158884,
+                "from_url": "https:\/\/www.mn.uio.no\/ibv\/english\/research\/news-and-events\/events\/conferences\/2023\/bnmi-conference\/index.html",
+                "service_icon": "https:\/\/www.mn.uio.no\/vrtx\/dist\/resources\/uio2\/css\/images\/favicon\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.mn.uio.no\/ibv\/english\/research\/news-and-events\/events\/conferences\/2023\/bnmi-conference\/index.html",
+                "fallback": "BNMI symposium        - Department of Biosciences",
+                "text": "The third Bridging Nordic Microscopy Infrastructure (BNMI) network symposium will take place at Geilo, April 9th - 12th 2024",
+                "title": "BNMI symposium        - Department of Biosciences",
+                "title_link": "https:\/\/www.mn.uio.no\/ibv\/english\/research\/news-and-events\/events\/conferences\/2023\/bnmi-conference\/index.html",
+                "service_name": "mn.uio.no"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hq8p1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " anybody going to the 3rd Bridging Nordic Microscopy Infrastructure Symposium next month? I am quite looking forward to Prof. Stelzer's talk.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mn.uio.no\/ibv\/english\/research\/news-and-events\/events\/conferences\/2023\/bnmi-conference\/index.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01GHGN71UL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1710240761.561319",
+        "client_msg_id": "ed84492e-053d-4ce6-b296-2065ddf149c6",
+        "text": "Ooo, cool, that's a nice opportunity - social activities look fun too :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710233726.505959",
+        "parent_user_id": "U04UTRSQXNE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cjoP2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ooo, cool, that's a nice opportunity - social activities look fun too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04UTRSQXNE",
+        "type": "message",
+        "ts": "1710241709.903469",
+        "client_msg_id": "fc6e81fc-5801-486b-8a0a-a471f2e475ca",
+        "text": "There are 2 other events in Copenhagen this summer. Come join us if you find the program interesting :wink: and we should definitely meet up and chat!\n\n• On 24th &amp; 25th of June, symposium at University of Copenhagen. The schedule is not complete yet (I know that there's one spot for an external speaker - let me know if you would like to present!) <https:\/\/www.danishbioimaging.dk\/?tribe_events=danish-bioimaging-scientific-symposium>\n• The European Microscopy Congress, 25-30 August. <https:\/\/emc2024.eu\/> We are considering doing a small clearing &amp; light-sheet imaging pre-conference workshop at CFIM, University of Copenhagen, but still discussing the details.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ef732a54ec22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4992512058769_ef732a54ec2204fdabcc_72.jpg",
+            "first_name": "Sunny",
+            "real_name": "Sunny Keqing Dai",
+            "display_name": "Sunny",
+            "team": "T01FQQGKPLH",
+            "name": "keqingdai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710233726.505959",
+        "parent_user_id": "U04UTRSQXNE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CA619",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are 2 other events in Copenhagen this summer. Come join us if you find the program interesting "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and we should definitely meet up and chat!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On 24th & 25th of June, symposium at University of Copenhagen. The schedule is not complete yet (I know that there's one spot for an external speaker - let me know if you would like to present!) "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.danishbioimaging.dk\/?tribe_events=danish-bioimaging-scientific-symposium"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The European Microscopy Congress, 25-30 August. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/emc2024.eu\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " We are considering doing a small clearing & light-sheet imaging pre-conference workshop at CFIM, University of Copenhagen, but still discussing the details."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

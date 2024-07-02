@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U059N2A340Y",
+        "type": "message",
+        "ts": "1699084219.358669",
+        "client_msg_id": "797BCA1B-DFC7-4F9A-98C2-4C877A44187D",
+        "text": "I could not join the meeting, zoom link didn’t work for me; was there any recording of the meeting that can be shared?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gd8ae0f378bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e77cb3afcb22762687a590f0ec6c10a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Nabanita",
+            "real_name": "Nabanita Chatterjee",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "nabanita.chatterjee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697537409.068019",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qFgl0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I could not join the meeting, zoom link "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " work for me; was there any recording of the meeting that can be shared?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1699106929.045989",
+        "client_msg_id": "5376d50c-e0c4-4130-970b-f390d33ae8b4",
+        "text": "Hi nabanita, sorry about that, there is no recording, fortunately all of the information is provided in this thread and should be well documented. I did see emails saying you were trying to join an hour early, this may have been my fault with the timings? We recently went from British summer time back to GMT",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697537409.068019",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2aFK0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi nabanita, sorry about that, there is no recording, fortunately all of the information is provided in this thread and should be well documented. I did see emails saying you were trying to join an hour early, this may have been my fault with the timings? We recently went from British summer time back to GMT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

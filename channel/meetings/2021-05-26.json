@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U01JL7SDKF1",
+        "type": "message",
+        "ts": "1622015640.002200",
+        "client_msg_id": "79cd8380-464b-48a9-8273-615e9e25a0b8",
+        "text": "Dear all,",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c2a757808fee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-19\/1650698288834_c2a757808fee2b951529_72.jpg",
+            "first_name": "Mathieu",
+            "real_name": "Mathieu Ducros",
+            "display_name": "Mathieu Ducros",
+            "team": "T01FQQGKPLH",
+            "name": "mathieu.ducros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rLB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear all,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Here is an online workshop with several presentations on light sheet microscopy that could interest some of you. It is organized by the Integrated Bioimaging Facility in Osnabrück on Tuesday June 1st at 3pm CEST. Hope to \"see\" you there !",
+        "files": [
+            {
+                "id": "F023S7MCNKS",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0232DFNUGJ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01JL7SDKF1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LjapB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is an online workshop with several presentations on light sheet microscopy that could interest some of you. It is organized by the Integrated Bioimaging Facility in Osnabrück on Tuesday June 1st at 3pm CEST. Hope to \"see\" you there !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1622016000.004900",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01H3QDBEGY",
+                    "U01GHGN71UL",
+                    "U01JX1SD4L8",
+                    "U01JL7SDKF1"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1689719259.173159",
+        "client_msg_id": "3af3d86c-8a2e-459a-88e5-420484ff23c1",
+        "text": "Dears,\nhere is the link for the coming meeting\n*Friday 21st of July (in a few days!) at 3:00 pm (UK time – GMT+1) !*\n<https:\/\/crick.zoom.us\/j\/63638716548?pwd=L0RncnNXcXI1aHNOaHJHRnRYaUZGQT09>\nMeeting ID: 636 3871 6548\nPasscode: 421625\nPreliminary agenda is\n•\twelcome + news about Wildsheet\n•\t\"Lattice Lightsheet User Meeting 2023: a quick report\" kindly offered by Helena Coker (University of Oxford - UK)\n•\t\"The BBC-fully cleared mouse (threads above..) : a short JC \"  from Alessandro Ciccarelli (The Crick – UK)  (only if we have time...)\n•\thot news\/in person meetings for the light-sheet world ?\n\nNote: if you have short topic to present (15`), we are happy to find space for you (just let us know by Thursday! )\nHope to see you on the screen,\nAlessandro\n (on behalf of the Wildsheet-org)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qj8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dears,\nhere is the link for the coming meeting\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Friday 21st of July (in a few days!) at 3:00 pm (UK time – GMT+1) !",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/crick.zoom.us\/j\/63638716548?pwd=L0RncnNXcXI1aHNOaHJHRnRYaUZGQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeeting ID: 636 3871 6548\nPasscode: 421625\nPreliminary agenda is\n•\twelcome + news about Wildsheet\n•\t\"Lattice Lightsheet User Meeting 2023: a quick report\" kindly offered by Helena Coker (University of Oxford - UK)\n•\t\"The BBC-fully cleared mouse (threads above..) : a short JC \"  from Alessandro Ciccarelli (The Crick – UK)  (only if we have time...)\n•\thot news\/in person meetings for the light-sheet world ?\n\nNote: if you have short topic to present (15`), we are happy to find space for you (just let us know by Thursday! )\nHope to see you on the screen,\nAlessandro\n (on behalf of the Wildsheet-org)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U0509D3LEM6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05A1LY5CES",
+                    "U04RUCAG9QA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap::skin-tone-2",
+                "users": [
+                    "U04RH8K303Y"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

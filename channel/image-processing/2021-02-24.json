@@ -1,0 +1,99 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01G21ASDAL",
+        "text": "<@U01G21ASDAL> has joined the channel",
+        "type": "message",
+        "ts": "1614180799.000200"
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1614180877.001100",
+        "client_msg_id": "e0c56edf-0c43-4f48-a89d-f4927267768f",
+        "text": "This is cool:  <https:\/\/github.com\/datoviz\/datoviz>\nI wonder if we'll see open source options become as easy and stable as some of the commercial offerings?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "datoviz\/datoviz",
+                "title_link": "https:\/\/github.com\/datoviz\/datoviz",
+                "text": ":zap: High-performance GPU interactive scientific data visualization with Vulkan - datoviz\/datoviz",
+                "fallback": "GitHub: datoviz\/datoviz",
+                "from_url": "https:\/\/github.com\/datoviz\/datoviz",
+                "thumb_url": "https:\/\/repository-images.githubusercontent.com\/281501204\/f505ce80-705d-11eb-829d-d5967dc3e813",
+                "thumb_width": 381,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/datoviz\/datoviz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=nt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is cool:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/datoviz\/datoviz"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI wonder if we'll see open source options become as easy and stable as some of the commercial offerings?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01JU4CD5PS",
+        "text": "<@U01JU4CD5PS> has joined the channel",
+        "type": "message",
+        "ts": "1614182616.000200"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01GMRWNLGZ",
+        "text": "<@U01GMRWNLGZ> has joined the channel",
+        "type": "message",
+        "ts": "1614185968.000400"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01JDFCNVE0",
+        "text": "<@U01JDFCNVE0> has joined the channel",
+        "type": "message",
+        "ts": "1614187422.000600"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01J7PX21GB",
+        "text": "<@U01J7PX21GB> has joined the channel",
+        "type": "message",
+        "ts": "1614201207.000800"
+    }
+]

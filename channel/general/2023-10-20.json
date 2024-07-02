@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U059LQCN1HN",
+        "type": "message",
+        "ts": "1697822005.745709",
+        "client_msg_id": "68fa913a-054e-4ff6-8cb0-4f4699cbf7f8",
+        "text": "Actually, has anyone tried this in fixed samples? It would be interesting to get some non-author\/reproducibility feedback on the topic :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "798070bfed71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-22\/5326828856608_798070bfed71fa61b19d_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael S. Nelson",
+            "display_name": "Michael S. Nelson",
+            "team": "T01FQQGKPLH",
+            "name": "msnelson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XPsmF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually, has anyone tried this in fixed samples? It would be interesting to get some non-author\/reproducibility feedback on the topic "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04RN5N40J2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

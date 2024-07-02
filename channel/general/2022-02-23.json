@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1645621190.677719",
+        "client_msg_id": "dd96ede7-8165-467f-a7fa-8e35bde40dac",
+        "text": "<!channel>\nQuick reminder for tomorrow`s ‘Light-sheet bite’ at 3pm GMT.\nOn the ‘menu’ is my perspective on commercial LLSM and its place in facilities. I’ll talk a bit about my experience with the 3i and Zeiss systems and open up a discussion on usability for biological research.\nPlease bring all your questions and suggestions and hopefully see you tomorrow!\n\n *A technician's perspective on commercial LLSM*\nSpeaker: Helena Coker, University of Oxford (UK)\n\nDate: *Thursday 24th Feb 3pm GMT*\nZoom Link:\n<https:\/\/crick.zoom.us\/j\/61668404789?pwd=TlU3alBDNGdYZ083djhFR1pMR0Nmdz09> \nMeeting ID: 616 6840 4789\nPasscode: 582568\n\n_Summary_\nLattice has been an attractive technology for a few years now, particularly to those who want to use the next big thing. \n Since 2018 I have worked with a 3i Lattice Lightsheet, and more recently the Zeiss LLS7. The evolution between these designs is evident, but what does that mean practically in terms of use, training and maintenance? Is LLSM as difficult as it's rumoured to be, and could it have a place in more facilities? \n\nJoin me for a short comparison of my experience of the two instruments, then please ask all the questions you would like answered with user-centric answers, and I hope it sparks some nice discussion about the future of LLSM in facilities.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1645621190.677719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1645719658.175599",
+        "reply_users": [
+            "U01HSB5D05V"
+        ],
+        "replies": [
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1645719658.175599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nhJCu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nQuick reminder for tomorrow`s ‘Light-sheet bite’ at 3pm GMT.\nOn the ‘menu’ is my perspective on commercial LLSM and its place in facilities. I’ll talk a bit about my experience with the 3i and Zeiss systems and open up a discussion on usability for biological research.\nPlease bring all your questions and suggestions and hopefully see you tomorrow!\n\n "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A technician's perspective on commercial LLSM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSpeaker: Helena Coker, University of Oxford (UK)\n\nDate: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Thursday 24th Feb 3pm GMT",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nZoom Link:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/crick.zoom.us\/j\/61668404789?pwd=TlU3alBDNGdYZ083djhFR1pMR0Nmdz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nMeeting ID: 616 6840 4789\nPasscode: 582568\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Summary",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLattice has been an attractive technology for a few years now, particularly to those who want to use the next big thing. \n Since 2018 I have worked with a 3i Lattice Lightsheet, and more recently the Zeiss LLS7. The evolution between these designs is evident, but what does that mean practically in terms of use, training and maintenance? Is LLSM as difficult as it's rumoured to be, and could it have a place in more facilities? \n\nJoin me for a short comparison of my experience of the two instruments, then please ask all the questions you would like answered with user-centric answers, and I hope it sparks some nice discussion about the future of LLSM in facilities."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01H3QDBEGY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

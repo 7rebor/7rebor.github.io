@@ -1,0 +1,183 @@
+[
+    {
+        "user": "U01JN9SDP5X",
+        "type": "message",
+        "ts": "1685004396.445169",
+        "client_msg_id": "8046d280-ab70-478f-a01e-6e9ef138d6ec",
+        "text": "Hello, thank you for very much useful info regarding 3i CTLS. We had now remote demo session and we liked it a lot. However you mentioned some really good points we even forgot to ask them:)..",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gc73f665acc4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c73f665acc4600ebed3270f728bf3e2d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Helena Chmelova",
+            "display_name": "Helena Chmelova",
+            "team": "T01FQQGKPLH",
+            "name": "helena.chmelova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682437162.297399",
+        "parent_user_id": "U01JN9SDP5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B0a2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, thank you for very much useful info regarding 3i CTLS. We had now remote demo session and we liked it a lot. However you mentioned some really good points we even forgot to ask them:).."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1685008346.794009",
+        "client_msg_id": "05781dd3-cc81-4632-92ca-7781124e6baa",
+        "text": "Dear all,\nquick reminder for tomorrow`s General meeting\n\nFriday, May 26, 2023 03:00 PM London\/UK Time (GMT+1)\n<https:\/\/crick.zoom.us\/j\/64489691142?pwd=ZHlTMjRQUlRNOGdkYm9oTGhmY1pldz09>\nMeeting ID: 644 8969 1142\nPasscode: 314069\n\nThat`s the short agenda\n•           Welcome\n•           Update on Slack platform\n•           Talk and discussion: “The Clearing Jungle - 5 years of successes, illusions and hopes – A Ciccarelli (my self..)– The Crick (UK)”\n•           News and events highlight\n•           AOB\n•           Next meeting: proposed date 14 July. Topic suggestions?\n\nHope to see you on the screen!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1685008346.794009",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1685718429.473779",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U01GHGN71UL"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1685113113.493989"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1685113180.854349"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1685113193.027519"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1685113216.196419"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1685718346.355059"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1685718429.473779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear all,\nquick reminder for tomorrow`s General meeting\n\nFriday, May 26, 2023 03:00 PM London\/UK Time (GMT+1)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/crick.zoom.us\/j\/64489691142?pwd=ZHlTMjRQUlRNOGdkYm9oTGhmY1pldz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeeting ID: 644 8969 1142\nPasscode: 314069\n\nThat`s the short agenda\n•           Welcome\n•           Update on Slack platform\n•           Talk and discussion: “The Clearing Jungle - 5 years of successes, illusions and hopes – A Ciccarelli (my self..)– The Crick (UK)”\n•           News and events highlight\n•           AOB\n•           Next meeting: proposed date 14 July. Topic suggestions?\n\nHope to see you on the screen!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04UTRSQXNE",
+                    "U059LQCN1HN",
+                    "U04UNBGETHC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U059N2A340Y",
+                    "U059UPN75CP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01HPF9CD9D",
+        "type": "message",
+        "ts": "1685030781.536449",
+        "client_msg_id": "a996f349-0757-4204-a545-322be00f78f0",
+        "text": "Thanks, I'll investigate the config file.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g99cd7c2fd15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/99cd7c2fd150423705bfb429211a4f4b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Dave Johnston",
+            "display_name": "Dave Johnston",
+            "team": "T01FQQGKPLH",
+            "name": "daj1u06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684862761.612479",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CMjU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, I'll investigate the config file."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

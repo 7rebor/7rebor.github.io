@@ -1,0 +1,155 @@
+[
+    {
+        "user": "U01JLA9M0J3",
+        "type": "message",
+        "ts": "1673597805.792189",
+        "client_msg_id": "D69021DD-C6F2-402C-B150-89AF55417403",
+        "text": "Happy New Year to everyone! I am looking for companies selling large quartz polished plates for custom specimens holders ",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g7eb0354e089",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7eb0354e089dc7c17fdc5f1147e15925.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Laura Batti",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "laura.batti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FsX9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy New Year to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "everyone!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am looking for companies selling large quartz polished plates for custom "
+                            },
+                            {
+                                "type": "text",
+                                "text": "specimens"
+                            },
+                            {
+                                "type": "text",
+                                "text": " holders "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Something like this ",
+        "files": [
+            {
+                "id": "F04K54VDR2M",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01JLA9M0J3",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dp9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Something like this "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1673597879.641259",
+        "client_msg_id": "7E3BBAC3-A0B8-497F-A30E-AA24863D2817",
+        "thread_ts": "1673597879.641259",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673600778.187819",
+        "reply_users": [
+            "U01HSB5D05V"
+        ],
+        "replies": [
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1673600778.187819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U01HSB5D05V",
+        "type": "message",
+        "ts": "1673600778.187819",
+        "client_msg_id": "bf808cd9-644b-4dc2-8ac3-606c373d5e9f",
+        "text": "Happy New Year <@U01JLA9M0J3>! I know that Hellma does a lot of custom glass work and they may already have what you are looking for. They also do custom cuvettes of an size and quality. <https:\/\/www.hellma.com\/en\/optical-components\/flat-optics\/plano-parallel-plates\/>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "7d293ecf208e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-12\/1877175095040_7d293ecf208e2a81f200_72.jpg",
+            "first_name": "Jan",
+            "real_name": "Jan Huisken",
+            "display_name": "Jan Huisken",
+            "team": "T01FQQGKPLH",
+            "name": "jhuisken",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673597879.641259",
+        "parent_user_id": "U01JLA9M0J3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy New Year "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JLA9M0J3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I know that Hellma does a lot of custom glass work and they may already have what you are looking for. They also do custom cuvettes of an size and quality. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hellma.com\/en\/optical-components\/flat-optics\/plano-parallel-plates\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

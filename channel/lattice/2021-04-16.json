@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U01UDURFVT4",
+        "type": "message",
+        "ts": "1618573190.006100",
+        "client_msg_id": "d5db5828-9d7b-4ce5-b367-dec82cf58570",
+        "text": "Hi al! I work at the microscopy innovation centre at KCL and find myself with an almost finished LLS build. <@U01HDFX11PT> kindly pointed me in the direction of this channel. I was hoping to find out if people have a fixed perfusion system in use and if so could give any recommendations?\nAnd secondly I saw the above discussion about dyes for the dye alignment. In addition to that, what do you tend do for different laser lines - do you align them to the 488 laser and fine tune them with tetraspeck bead samples or do you use additional dyes for them? \nThanks in advance for any pointers :)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g1244310a683",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1244310a683eceb9d597faa6b7893682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Dylan Herzog",
+            "display_name": "Dylan Herzog",
+            "team": "T01FQQGKPLH",
+            "name": "dylan.b.herzog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1618573190.006100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1621940873.000100",
+        "reply_users": [
+            "U01JL7SDKF1",
+            "U01UDURFVT4"
+        ],
+        "replies": [
+            {
+                "user": "U01JL7SDKF1",
+                "ts": "1619616479.006400"
+            },
+            {
+                "user": "U01UDURFVT4",
+                "ts": "1621940873.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aYMX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi al! I work at the microscopy innovation centre at KCL and find myself with an almost finished LLS build. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01HDFX11PT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " kindly pointed me in the direction of this channel. I was hoping to find out if people have a fixed perfusion system in use and if so could give any recommendations?\nAnd secondly I saw the above discussion about dyes for the dye alignment. In addition to that, what do you tend do for different laser lines - do you align them to the 488 laser and fine tune them with tetraspeck bead samples or do you use additional dyes for them? \nThanks in advance for any pointers :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

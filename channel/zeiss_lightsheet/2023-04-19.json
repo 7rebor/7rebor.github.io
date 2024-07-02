@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U04RUCAG9QA",
+        "type": "message",
+        "ts": "1681918662.882579",
+        "client_msg_id": "f456af48-e1fe-49ad-a9bf-97e4e71f19a7",
+        "text": "Does anyone have a user-friendly table with the different combinations of objectives, chambers, rings, filter wheel\/slider, etc, for the Z1? I want to make one, but just wondering if people have that already",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "fe705347a503",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-01\/4878440822018_fe705347a5035798d014_72.jpg",
+            "first_name": "Carina",
+            "real_name": "Carina Mónico",
+            "display_name": "Carina Mónico",
+            "team": "T01FQQGKPLH",
+            "name": "cimonico",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1681918662.882579",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1683642438.803129",
+        "reply_users": [
+            "U04RCBZLRJT"
+        ],
+        "replies": [
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1683642438.803129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=oUQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have a user-friendly table with the different combinations of objectives, chambers, rings, filter wheel\/slider, etc, for the Z1? I want to make one, but just wondering if people have that already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

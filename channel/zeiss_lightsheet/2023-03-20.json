@@ -1,0 +1,142 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U04M5SGCM5J",
+        "text": "<@U04M5SGCM5J> has joined the channel",
+        "type": "message",
+        "ts": "1679299991.152369"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01JL7SDKF1",
+        "text": "<@U01JL7SDKF1> has joined the channel",
+        "type": "message",
+        "ts": "1679305549.562989"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04VDJ71CL8",
+        "text": "<@U04VDJ71CL8> has joined the channel",
+        "type": "message",
+        "ts": "1679311428.241569"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04RCBZLRJT",
+        "text": "<@U04RCBZLRJT> has joined the channel",
+        "type": "message",
+        "ts": "1679316353.735259"
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1679317318.896379",
+        "client_msg_id": "3e63e793-4ec4-4243-b5e8-33bbb431879f",
+        "text": "ok, first post: we have, the Zeiss Z.1 upgraded to L7, with all available cuvettes and objectives...even the mesoscale cuvette with 2.5x Objective from transclucence :wink:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679317318.896379",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1679398577.149469",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U04RCBZLRJT"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1679326561.323469"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679398577.149469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dco",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, first post: we have, the Zeiss Z.1 upgraded to L7, with all available cuvettes and objectives...even the mesoscale cuvette with 2.5x Objective from transclucence "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1679326561.323469",
+        "client_msg_id": "ae21c1ac-1fea-4a1f-975d-693a18417fe2",
+        "text": "What are the maximum sample sizes you usually image? I don't have a Zeiss system, but interested to know in practice what sort of things you're imaging, mainly interested in cleared tissue",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679317318.896379",
+        "parent_user_id": "U04RCBZLRJT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UBdH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What are the maximum sample sizes you usually image? I don't have a Zeiss system, but interested to know in practice what sort of things you're imaging, mainly interested in cleared tissue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1643628703.335349",
+        "client_msg_id": "83676968-0b8e-461a-9539-a752c1f0d28c",
+        "text": "Thank you to all who joined Ale for our first light-sheet bite last Friday, we hope you enjoyed the discussion. Our next one will be *Thursday* 10th Feb at 3pm GMT. If you have any feedback for us, or suggestions for future talks, please get in touch either via chat to admin on here or at <mailto:wildlightsheet@gmail.com|wildlightsheet@gmail.com>.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1643628703.335349",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1643671005.518549",
+        "reply_users": [
+            "U01GHGN71UL"
+        ],
+        "replies": [
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1643671005.518549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YOiY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you to all who joined Ale for our first light-sheet bite last Friday, we hope you enjoyed the discussion. Our next one will be "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Thursday ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "10th Feb at 3pm GMT. If you have any feedback for us, or suggestions for future talks, please get in touch either via chat to admin on here or at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:wildlightsheet@gmail.com",
+                                "text": "wildlightsheet@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1643671005.518549",
+        "client_msg_id": "1d5133d1-7e36-4f61-938f-cf18f4541e81",
+        "text": "Thanks to the people who joined the meeting! I got some useful feedbacks about multiview imaging and was nice to hear that I`m not alone struggling to fuse big volumes..Hope we can keep the discussion alive via DM or email; also, if you need any of the slides I showed or info about the processing pipelines,  just let me know",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1643628703.335349",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UKz5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks to the people who joined the meeting! I got some useful feedbacks about multiview imaging and was nice to hear that I`m not alone struggling to fuse big volumes..Hope we can keep the discussion alive via DM or email; also, if you need any of the slides I showed or info about the processing pipelines,  just let me know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

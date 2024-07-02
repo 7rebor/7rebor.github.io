@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U01SSTAT9PE",
+        "type": "message",
+        "ts": "1617025832.010400",
+        "client_msg_id": "047c6082-5f4d-4bef-9d04-863b2f342249",
+        "text": "Looking for a career on Imaging Core with an extensive experience in Microscopy.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gf82440834b0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f82440834b048dacae54ac0604c61eb2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Dibyendu Sasmal",
+            "display_name": "Dibyendu Sasmal",
+            "team": "T01FQQGKPLH",
+            "name": "sasmal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gv\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking for a career on Imaging Core with an extensive experience in Microscopy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

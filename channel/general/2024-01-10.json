@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U01J3L7PL4A",
+        "type": "message",
+        "ts": "1704901888.184039",
+        "client_msg_id": "64c40fda-7bb5-4393-9853-3fce5f131a70",
+        "text": "A little reminder of the above happening next Thursday from 2-6pm CET !\nAll info is here <https:\/\/forum.image.sc\/t\/image-sc-live-around-the-world\/89596>\nWe'll use Gathertown and meet here *<https:\/\/j.mp\/imagesc-island>*",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gf355a5f2263",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f355a5f22634850c7addf5db1b092228.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Georgina Fletcher",
+            "display_name": "Georgina Fletcher",
+            "team": "T01FQQGKPLH",
+            "name": "georgina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702465666.942799",
+        "parent_user_id": "U01J3L7PL4A",
+        "attachments": [
+            {
+                "image_url": "https:\/\/app.gather.town\/images\/site\/site_preview.png",
+                "image_width": 1060,
+                "image_height": 642,
+                "image_bytes": 204379,
+                "from_url": "https:\/\/j.mp\/imagesc-island",
+                "service_icon": "https:\/\/app.gather.town\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/j.mp\/imagesc-island",
+                "fallback": "Gather",
+                "text": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+                "title": "Gather",
+                "title_link": "https:\/\/j.mp\/imagesc-island",
+                "service_name": "app.gather.town"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OzEoo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A little reminder of the above happening next Thursday from 2-6pm CET !\nAll info is here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forum.image.sc\/t\/image-sc-live-around-the-world\/89596"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe'll use Gathertown and meet here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/j.mp\/imagesc-island",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

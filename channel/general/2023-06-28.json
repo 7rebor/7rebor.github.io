@@ -1,0 +1,133 @@
+[
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1687978771.946619",
+        "client_msg_id": "2bde938a-56d0-42b5-ae63-4d7dc31104c9",
+        "text": "Hi All, Anyone imaging whole cleared mouse? I'm planning to image it on SmartSPIM and looking for some ideas how to mount the whole mouse, custom 3D printed bigger holder etc. Would appreciate any help :)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "reply_count": 17,
+        "reply_users_count": 6,
+        "latest_reply": "1689178644.337819",
+        "reply_users": [
+            "U01HDFX11PT",
+            "U04M5SGCM5J",
+            "U04RH8K303Y",
+            "U01GHGN71UL",
+            "U04RCBZLRJT",
+            "U058WJ0Q4RG"
+        ],
+        "replies": [
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1688116778.585819"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1688120559.484019"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1688150672.274319"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1688150932.247789"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1688399984.547939"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1688469968.481009"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1688565529.335979"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1688650685.863839"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1688650895.800219"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1688655174.337179"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1688656317.992609"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1688657442.175969"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1688715827.223689"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1688717399.817419"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1688717443.107079"
+            },
+            {
+                "user": "U058WJ0Q4RG",
+                "ts": "1688977921.554859"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1689178644.337819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxbZh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, Anyone imaging whole cleared mouse? I'm planning to image it on SmartSPIM and looking for some ideas how to mount the whole mouse, custom 3D printed bigger holder etc. Would appreciate any help :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

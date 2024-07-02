@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U02NBJHD00H",
+        "type": "message",
+        "ts": "1637316175.001100",
+        "client_msg_id": "a6b8f9e8-d657-4c66-b2d0-b574405e2875",
+        "text": "Hello everyone, glad to be part of this Workspace!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a2ac0e3faf6d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-19\/2770766546192_a2ac0e3faf6d4baf216c_72.jpg",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Renier",
+            "display_name": "Nicolas Renier",
+            "team": "T01FQQGKPLH",
+            "name": "nicolas.renier",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qKdV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, glad to be part of this Workspace!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01HSB5D05V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1637329662.002700",
+        "client_msg_id": "3cb00683-698c-4584-bd62-8ebbdc7319b3",
+        "text": "Hi, welcome Nicolas! The Workspace is a bit sleepy at the moment...but we are looking for ways to wake it up!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JIc7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, welcome Nicolas! The Workspace is a bit sleepy at the moment...but we are looking for ways to wake it up!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01HSB5D05V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

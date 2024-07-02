@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U0509D3LEM6",
+        "type": "message",
+        "ts": "1689734208.138139",
+        "client_msg_id": "9D8D58A1-0A60-4931-BAB5-FBE241B06C88",
+        "text": "Hello :bow: ",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c6be580d2ebd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-21\/4982812715925_c6be580d2ebd522228e6_72.png",
+            "first_name": "Xiyu",
+            "real_name": "Xiyu Yi",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "xiyu.yi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p52",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U059LQCN1HN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

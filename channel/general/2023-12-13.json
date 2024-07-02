@@ -1,0 +1,268 @@
+[
+    {
+        "text": "Community surveys often point to the biggest bottleneck in excellent bioimaging science being image analysis. That’s why the RMS DAIM committee and their friends across the world are putting the fantastic <http:\/\/image.sc|image.sc> forum “on the road” and staging a first of its kind event which we’re calling *“<http:\/\/Image.sc|Image.sc> LIVE! around the world”.*\n\nAll the info you need is here: <http:\/\/Image.sc|Image.sc><https:\/\/forum.image.sc\/t\/image-sc-live-around-the-world\/89596| LIVE around the world! - Announcements - ><http:\/\/Image.sc|Image.sc><https:\/\/forum.image.sc\/t\/image-sc-live-around-the-world\/89596| Forum> and in the attached poster. Any questions email <mailto:Georgina@rms.org.uk|Georgina@rms.org.uk>\n\n_Do you have a bioimage analysis question that you would like to discuss with an expert in a live consultation? You are in luck! The “*<http:\/\/Image.sc|Image.sc> LIVE! around the world*” event is coming!_\n_Mark your calendar for *January 18th (Europe, Africa, Americas)-19th (Asia, Aus, NZ)*- we’ll meet on GatherTown and you will be able to chat directly to our image analysis experts (more details about the exact timetable to be confirmed shortly)._\n_Post your questions in advance here on <http:\/\/image.sc|image.sc> to help us match you with the best person and time zone, ideally before January 11th. In the post please tell us:_\n_1.      what is your question (no question is too small to ask)_\n_2.      how does your data look - please include a raw data example if possible_\n_3.      what software you would like to use (Fiji, Icy, Cell Profiler, QuPath, Napari, something else?)_\n_4.      which time zones would work best for you_",
+        "files": [
+            {
+                "id": "F069RM9SWLW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01J3L7PL4A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mu5D7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Community surveys often point to the biggest bottleneck in excellent bioimaging science being image analysis. That’s why the RMS DAIM committee and their friends across the world are putting the fantastic "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/image.sc",
+                                "text": "image.sc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " forum “on the road” and staging a first of its kind event which we’re calling "
+                            },
+                            {
+                                "type": "text",
+                                "text": "“",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Image.sc",
+                                "text": "Image.sc",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " LIVE! around the world”.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAll the info you need is here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Image.sc",
+                                "text": "Image.sc"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forum.image.sc\/t\/image-sc-live-around-the-world\/89596",
+                                "text": " LIVE around the world! - Announcements - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Image.sc",
+                                "text": "Image.sc"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forum.image.sc\/t\/image-sc-live-around-the-world\/89596",
+                                "text": " Forum"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and in the attached poster. Any questions email "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:Georgina@rms.org.uk",
+                                "text": "Georgina@rms.org.uk",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Do you have a bioimage analysis question that you would like to discuss with an expert in a live consultation? You are in luck! The “",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Image.sc",
+                                "text": "Image.sc",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " LIVE! around the world",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "” event is coming!",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mark your calendar for ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "January 18th (Europe, Africa, Americas)-19th (Asia, Aus, NZ)",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "- we’ll meet on GatherTown and you will be able to chat directly to our image analysis experts (more details about the exact timetable to be confirmed shortly).",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Post your questions in advance here on ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/image.sc",
+                                "text": "image.sc",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to help us match you with the best person and time zone, ideally before January 11th. In the post please tell us:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.      what is your question (no question is too small to ask)",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2.      how does your data look - please include a raw data example if possible",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3.      what software you would like to use (Fiji, Icy, Cell Profiler, QuPath, Napari, something else?)",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4.      which time zones would work best for you",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1702465666.942799",
+        "client_msg_id": "63bb6dd3-9841-4b7b-9ef0-aa86b8d70c67",
+        "thread_ts": "1702465666.942799",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1704901888.184039",
+        "reply_users": [
+            "U01J3L7PL4A"
+        ],
+        "replies": [
+            {
+                "user": "U01J3L7PL4A",
+                "ts": "1704901888.184039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01GHGN71UL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U01JX1SD4L8",
+        "type": "message",
+        "ts": "1677592344.679009",
+        "client_msg_id": "736be989-316b-45dc-9e6c-d5838719bcf4",
+        "text": "Dear all,\nIf you know someone who is interested in starting a career in a core facility as a microscopist\/image analyst, here we go:\n\nWhat: Project with a research group and a microscopy company involving light sheet microscopy and spatial transcriptomics.\nWhere: BIOP @EPFL, Lausanne, Switzerland\nWhen: ASAP\nDetails: <https:\/\/recruiting.epfl.ch\/Vacancies\/2834\/Description\/2>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "8b869372df8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4868942940357_8b869372df8cf054cca9_72.jpg",
+            "first_name": "",
+            "real_name": "Anjalie Schlaeppi",
+            "display_name": "Anjalie Schlaeppi",
+            "team": "T01FQQGKPLH",
+            "name": "anja.schlaeppi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zHH3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear all,\nIf you know someone who is interested in starting a career in a core facility as a microscopist\/image analyst, here we go:\n\nWhat: Project with a research group and a microscopy company involving light sheet microscopy and spatial transcriptomics.\nWhere: BIOP @EPFL, Lausanne, Switzerland\nWhen: ASAP\nDetails: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/recruiting.epfl.ch\/Vacancies\/2834\/Description\/2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01GHGN71UL",
+                    "U01J3L7PL4A"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

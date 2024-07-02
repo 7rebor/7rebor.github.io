@@ -1,0 +1,36 @@
+[
+    {
+        "text": "Dear Alessandro and Jan,\n\nThank you for your comments and suggestions. I am sharing an ROI from the raw data, in false colour. The horizontal lines appear across the whole embryo.\nI cleared the sample by iDISCO+, which worked very well: all my samples are completely transparent, except for the eye (black) and the liver (slightly yellow). I imaged in ethyl cinnamate, using dual side illumination (3 sheets from each side, sagittally), and no horizontal dynamic focus. \nI thought the lines looked much too regular to be shadowing, although I am not sure. I can see quite obvious shadowing around the eye (which has not cleared), for example.\nAs you can tell I am very much a LS novice, these are the first samples of my first UMII project!",
+        "files": [
+            {
+                "id": "F01SMQJ8D7A",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01HXPBHQBY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UjymP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear Alessandro and Jan,\n\nThank you for your comments and suggestions. I am sharing an ROI from the raw data, in false colour. The horizontal lines appear across the whole embryo.\nI cleared the sample by iDISCO+, which worked very well: all my samples are completely transparent, except for the eye (black) and the liver (slightly yellow). I imaged in ethyl cinnamate, using dual side illumination (3 sheets from each side, sagittally), and no horizontal dynamic focus. \nI thought the lines looked much too regular to be shadowing, although I am not sure. I can see quite obvious shadowing around the eye (which has not cleared), for example.\nAs you can tell I am very much a LS novice, these are the first samples of my first UMII project!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1616249923.013000",
+        "client_msg_id": "7e7912b2-6e7c-4a71-8abd-24922bb0f170",
+        "thread_ts": "1615307194.003000",
+        "parent_user_id": "U01HXPBHQBY"
+    }
+]

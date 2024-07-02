@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U01JX1SD4L8",
+        "type": "message",
+        "ts": "1685453614.514539",
+        "text": "",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "8b869372df8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4868942940357_8b869372df8cf054cca9_72.jpg",
+            "first_name": "",
+            "real_name": "Anjalie Schlaeppi",
+            "display_name": "Anjalie Schlaeppi",
+            "team": "T01FQQGKPLH",
+            "name": "anja.schlaeppi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/wildsheet.slack.com\/archives\/C01FJARA38C\/p1685453570169539",
+                "ts": "1685453570.169539",
+                "author_id": "U01JX1SD4L8",
+                "channel_id": "C01FJARA38C",
+                "channel_team": "T01FQQGKPLH",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T01FQQGKPLH",
+                        "channel": "C01FJARA38C",
+                        "ts": "1685453570.169539",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "2bHy",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Dear all,\nWe're organizing a LATTICE LIGHTSHEET 7 User Meeting!\nWhat to expect:\n• Outlook on further developments\n • Learn more about the software\/hardware solutions of other users\n • Forum to discuss use cases, problems, and exchange experiences!\n\nTo register for the user meeting, please follow this link:\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.epfl.ch\/research\/facilities\/ptbiop\/ptbiop\/ll7-user-meeting\/"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n\nYou can also contact Arne Seitz for more info"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[May 30th, 2023 3:32 PM] anja.schlaeppi: Dear all,\nWe're organizing a LATTICE LIGHTSHEET 7 User Meeting!\nWhat to expect:\n• Outlook on further developments\n • Learn more about the software\/hardware solutions of other users\n • Forum to discuss use cases, problems, and exchange experiences!\n\nTo register for the user meeting, please follow this link:\n<https:\/\/www.epfl.ch\/research\/facilities\/ptbiop\/ptbiop\/ll7-user-meeting\/>\n\nYou can also contact Arne Seitz for more info",
+                "text": "Dear all,\nWe're organizing a LATTICE LIGHTSHEET 7 User Meeting!\nWhat to expect:\n• Outlook on further developments\n • Learn more about the software\/hardware solutions of other users\n • Forum to discuss use cases, problems, and exchange experiences!\n\nTo register for the user meeting, please follow this link:\n<https:\/\/www.epfl.ch\/research\/facilities\/ptbiop\/ptbiop\/ll7-user-meeting\/>\n\nYou can also contact Arne Seitz for more info",
+                "author_name": "Anjalie Schlaeppi",
+                "author_link": "https:\/\/wildsheet.slack.com\/team\/U01JX1SD4L8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4868942940357_8b869372df8cf054cca9_48.jpg",
+                "author_subname": "Anjalie Schlaeppi",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01HDFX11PT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U04UNL1LCP8",
+        "type": "message",
+        "ts": "1697648155.971309",
+        "client_msg_id": "ccec7b61-089a-441a-ab03-e3fd73e02030",
+        "text": "I don't know if napari is my favorite, but I think its attenuated MIP option is severely underrated. Here's a six minute video on it: <https:\/\/www.youtube.com\/watch?v=WHdYXDemd4M>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g4948a2112bd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4948a2112bd8966707caa39dcb5b4d27.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "William",
+            "real_name": "William Giang",
+            "display_name": "William Giang",
+            "team": "T01FQQGKPLH",
+            "name": "wgiang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697537409.068019",
+        "parent_user_id": "U01HDFX11PT",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=WHdYXDemd4M",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/WHdYXDemd4M\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/WHdYXDemd4M?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Demo: Napari&#39;s attenuated max intensity projection\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=WHdYXDemd4M",
+                "fallback": "YouTube Video: Demo: Napari's attenuated max intensity projection",
+                "title": "Demo: Napari's attenuated max intensity projection",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=WHdYXDemd4M",
+                "author_name": "William Giang",
+                "author_link": "https:\/\/www.youtube.com\/@willgiang7",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Egtme",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know if napari is my favorite, but I think its attenuated MIP option is severely underrated. Here's a six minute video on it: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=WHdYXDemd4M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

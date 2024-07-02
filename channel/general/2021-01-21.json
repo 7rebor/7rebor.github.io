@@ -1,0 +1,113 @@
+[
+    {
+        "user": "U01JU7S74CE",
+        "type": "message",
+        "ts": "1611217278.002600",
+        "client_msg_id": "4afe519f-13ac-4a00-b7ab-853e27720e2a",
+        "text": "Hi all\nI am Rémi Galland working at the Interdisciplinary Institute for Neuroscience at Bordeaux, France. I developed the so called soSPIM technology and I would be happy to share ideas and tricks with you about light-sheet imaging !!\nThanks <@U01HSJG82G7> for the invitation!!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "9a135faa9167",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-21\/1656154323285_9a135faa9167adf09747_72.jpg",
+            "first_name": "Remi",
+            "real_name": "Remi Galland",
+            "display_name": "Remi Galland",
+            "team": "T01FQQGKPLH",
+            "name": "remi.galland",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eaP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all\nI am Rémi Galland working at the Interdisciplinary Institute for Neuroscience at Bordeaux, France. I developed the so called soSPIM technology and I would be happy to share ideas and tricks with you about light-sheet imaging !!\nThanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01HSJG82G7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the invitation!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01HSJG82G7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1611272875.004800",
+        "client_msg_id": "31a7da5d-ed3d-4407-967b-6017a74920a9",
+        "text": "A big HI! to all those joining us this week (and everybody else).  It's lovely to read all your intros; I'm intrigued to know more.\n\nOne of the ideas we had for the first few meetings would be to have a bunch of 5 min presentations about your light sheet world.  That would be a lot of fun.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b=MY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A big HI! to all those joining us this week (and everybody else).  It's lovely to read all your intros; I'm intrigued to know more.\n\nOne of the ideas we had for the first few meetings would be to have a bunch of 5 min presentations about your light sheet world.  That would be a lot of fun."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01HXQ9FECE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01H3QDBEGY",
+                    "U01J1KG0MK4",
+                    "U01JX1SD4L8"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

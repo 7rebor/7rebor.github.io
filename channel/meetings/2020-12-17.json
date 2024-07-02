@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1608195828.000100",
+        "client_msg_id": "178ff4cc-e9a4-47c5-833a-2d09c1e4eaef",
+        "text": "Good idea. As yet diary is still quite free apart from the RMS Facility Meeting 5th\/6th. Kind of things I'd like to discuss:\n• making sure the Slack channels covers what people had in mind. (Thanks Neil for setting it up!)\n• Decide where\/how we advertise and\n• whether to do a small conference style meeting to introduce our science to each other.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608175128.003700",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QwxM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good idea. As yet diary is still quite free apart from the RMS Facility Meeting 5th\/6th. Kind of things I'd like to discuss:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "making sure the Slack channels covers what people had in mind. (Thanks Neil for setting it up!)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Decide where\/how we advertise and"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "whether to do a small conference style meeting to introduce our science to each other."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1608202815.000300",
+        "client_msg_id": "2cf3e22d-56f6-4b79-857a-2542c90259c7",
+        "text": "I agree; before advertising I think another meeting between us (to know ecaheotehr and our science) will probably help. Maybe in the week form the 11 to 15 january? We could maybe organize a couple of Zoom flash talks (2 people show in 10` eacheone, pros and cons of their L-sheet experiences?..). I m open to better ideas!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608175128.003700",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CfMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree; before advertising I think another meeting between us (to know ecaheotehr and our science) will probably help. Maybe in the week form the 11 to 15 january? We could maybe organize a couple of Zoom flash talks (2 people show in 10` eacheone, pros and cons of their L-sheet experiences?..). I m open to better ideas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

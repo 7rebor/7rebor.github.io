@@ -1,0 +1,359 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1609923183.000500",
+        "client_msg_id": "686e2298-26ec-4331-a936-dafce572263b",
+        "text": "either good with me",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608175128.003700",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IVM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "either good with me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1609926624.000700",
+        "client_msg_id": "11a0b1ff-a5a6-474a-9023-331fc3bb1c1a",
+        "text": "Ok for me also both days!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608175128.003700",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9JWu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok for me also both days!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1609928975.000900",
+        "client_msg_id": "8bcd0d16-f205-45bb-8aa1-c63126f89481",
+        "text": "Sorry, change of preferences! I can only friday 15\/1! Actaully on Thursday there is this nice Webinar course that I woudl like to join <http:\/\/eubias.org\/NEUBIAS\/training-schools\/neubias-academy-home\/>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608175128.003700",
+        "parent_user_id": "U01G21ASDAL",
+        "attachments": [
+            {
+                "title": "NEUBIAS Academy @Home - NEUBIAS: Network of BioImage Analysts",
+                "title_link": "http:\/\/eubias.org\/NEUBIAS\/training-schools\/neubias-academy-home\/",
+                "fallback": "NEUBIAS Academy @Home - NEUBIAS: Network of BioImage Analysts",
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "7 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "http:\/\/eubias.org\/NEUBIAS\/training-schools\/neubias-academy-home\/",
+                "service_icon": "http:\/\/eubias.org\/NEUBIAS\/wp-content\/uploads\/2016\/07\/NEUBIAS_circle_color.png",
+                "service_name": "eubias.org",
+                "id": 1,
+                "original_url": "http:\/\/eubias.org\/NEUBIAS\/training-schools\/neubias-academy-home\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AW2Eg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, change of preferences! I can only friday 15\/1! Actaully on Thursday there is this nice Webinar course that I woudl like to join "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/eubias.org\/NEUBIAS\/training-schools\/neubias-academy-home\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01H3QDBEGY",
+        "type": "message",
+        "ts": "1609933728.001200",
+        "client_msg_id": "4f19f07e-fe1e-42e8-94b7-ceb4819384f2",
+        "text": "I can do the 15th also. Thanks for the info on the webinar, I have just signed up,",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a05a27bf7ce8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1557871841974_a05a27bf7ce833e05a41_72.jpg",
+            "first_name": "Dee",
+            "real_name": "Dee Kavanagh",
+            "display_name": "Dee Kavanagh",
+            "team": "T01FQQGKPLH",
+            "name": "d.m.kavanagh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608175128.003700",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jIxC6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can do the 15th also. Thanks for the info on the webinar, I have just signed up,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1609939081.001400",
+        "client_msg_id": "1b56abcc-fbe0-444f-8a80-3a86b2fccacd",
+        "text": "15th 2pm? I have lab meeting at 1pm",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608175128.003700",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ugf4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15th 2pm? I have lab meeting at 1pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01J3L7PL4A",
+        "text": "<@U01J3L7PL4A> has joined the channel",
+        "type": "message",
+        "ts": "1609939343.001700"
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1609941054.001800",
+        "client_msg_id": "30b0058c-6125-4300-b741-91c17ffa3675",
+        "text": "How's 2.30 or 3pm GMT sound?  I can make 2pm GMT, but might have to help 'Granny Care' get setup in the morning, and may need to step out or be a few minutes late.  Whatever works",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608175128.003700",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How's 2.30 or 3pm GMT sound?  I can make 2pm GMT, but might have to help 'Granny Care' get setup in the morning, and may need to step out or be a few minutes late.  Whatever works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U01HDFX11PT",
+                    "U01GHGN71UL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01J15W9DGV",
+        "text": "<@U01J15W9DGV> has joined the channel",
+        "type": "message",
+        "ts": "1609951858.002200"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01HPF9CD9D",
+        "text": "<@U01HPF9CD9D> has joined the channel",
+        "type": "message",
+        "ts": "1609951961.002400"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01J1630LTF",
+        "text": "<@U01J1630LTF> has joined the channel",
+        "type": "message",
+        "ts": "1609951988.002600"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01JU4CD5PS",
+        "text": "<@U01JU4CD5PS> has joined the channel",
+        "type": "message",
+        "ts": "1609952219.002800"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01J49QUKJ6",
+        "text": "<@U01J49QUKJ6> has joined the channel",
+        "type": "message",
+        "ts": "1609952591.003000"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01HPGGFV2T",
+        "text": "<@U01HPGGFV2T> has joined the channel",
+        "type": "message",
+        "ts": "1609952641.003200"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01J4C3UPL2",
+        "text": "<@U01J4C3UPL2> has joined the channel",
+        "type": "message",
+        "ts": "1609954184.003400"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01HXLNJD9U",
+        "text": "<@U01HXLNJD9U> has joined the channel",
+        "type": "message",
+        "ts": "1609955528.003600"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01HXPBHQBY",
+        "text": "<@U01HXPBHQBY> has joined the channel",
+        "type": "message",
+        "ts": "1609957293.003800"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01HXQ9FECE",
+        "text": "<@U01HXQ9FECE> has joined the channel",
+        "type": "message",
+        "ts": "1609957921.004000"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01JHBGTV97",
+        "text": "<@U01JHBGTV97> has joined the channel",
+        "type": "message",
+        "ts": "1609962076.004400"
+    }
+]

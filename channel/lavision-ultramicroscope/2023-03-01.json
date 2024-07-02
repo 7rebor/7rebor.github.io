@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1677685410.265769",
+        "client_msg_id": "05af5c0e-784f-4dc6-8a4f-c405ad9b727d",
+        "text": "someone here? History is empty due to the 90days limit.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677685410.265769",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1677686188.708629",
+        "reply_users": [
+            "U01HDFX11PT"
+        ],
+        "replies": [
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1677686188.708629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "someone here? History is empty due to the 90days limit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1677686188.708629",
+        "client_msg_id": "7B3ECB51-5AF3-439A-8CF7-3A6E9254FDA4",
+        "text": "Hopefully we can decide a more suitable place to migrate to in the upcoming meeting ",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677685410.265769",
+        "parent_user_id": "U04RCBZLRJT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3QzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hopefully we can decide a more suitable place to migrate to in the upcoming meeting "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

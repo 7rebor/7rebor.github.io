@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1685111922.658349",
+        "client_msg_id": "7c4d41c7-9e99-45a1-abd6-3eefcc70e8ec",
+        "text": "Cargille Type FF can be used instead of CUBIC-2 or mineral oil (cheapest). In the UK 120 mL can be £100 from some suppliers, but I found 480 mL for £160 - maybe I'm missing something and that it is different from normal Type FF... but seems to be legit.\n\n<https:\/\/mccroneuk.co.uk\/product\/type-ff-cat-16212\/>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/mccroneuk.co.uk\/product\/type-ff-cat-16212\/",
+                "ts": 1481646936,
+                "thumb_url": "https:\/\/mccroneuk.co.uk\/wp-content\/uploads\/2016\/08\/IMG_1800.jpg",
+                "thumb_width": 640,
+                "thumb_height": 480,
+                "service_icon": "https:\/\/mccroneuk.co.uk\/wp-content\/uploads\/2022\/03\/favicon-1.png",
+                "id": 1,
+                "original_url": "https:\/\/mccroneuk.co.uk\/product\/type-ff-cat-16212\/",
+                "fallback": "Mccrone UK |: Type FF and Type HF | Mccrone UK",
+                "text": "Type FF is virtually fluorescence free but not ISO-compliant. It has a viscosity of 170 cSt Cat # 16212\n\n \n\nCatalogue reference number for Type FF is 16212 and for Type HF IS 16245\n\n \n\nPlease specify the type under special comments when placing the order, or email to us.",
+                "title": "Type FF and Type HF | Mccrone UK",
+                "title_link": "https:\/\/mccroneuk.co.uk\/product\/type-ff-cat-16212\/",
+                "service_name": "Mccrone UK |"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kBEPL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cargille Type FF can be used instead of CUBIC-2 or mineral oil (cheapest). In the UK 120 mL can be £100 from some suppliers, but I found 480 mL for £160 - maybe I'm missing something and that it is different from normal Type FF... but seems to be legit.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mccroneuk.co.uk\/product\/type-ff-cat-16212\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1685112573.575699",
+        "client_msg_id": "907b99b7-321b-4b77-a5b2-32a010374480",
+        "text": "Refractometer that I use (UK supplier), but only up to RI of 1.53: <https:\/\/www.labunlimited.co.uk\/s\/ALL\/4AJ-6230350\/Digital-Handrefractometer-Dr-201-95-A.-Kruss-Optronic-DR-201-95>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tt=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Refractometer that I use (UK supplier), but only up to RI of 1.53: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.labunlimited.co.uk\/s\/ALL\/4AJ-6230350\/Digital-Handrefractometer-Dr-201-95-A.-Kruss-Optronic-DR-201-95"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

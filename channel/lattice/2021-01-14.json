@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1610613521.000100",
+        "client_msg_id": "66642808-6062-4072-864e-8cd5d7a45871",
+        "text": "After dye I only wash once over the objectives for 30 seconds or so and perhaps wipe with a drop of ethanol on lens tissue if someone actually wants to image in far-red. To be honest I don't think there is any way to get the objectives squeaky clean without taking the temperature shielding off which is only done at the end of the day...and taking the objectives off completely which I do periodically or when the PSF degrades enough to prompt me to do it. The bath I just take out and tip half a wash bottle of DI water over. You're going to know my secret that nothing is very precise!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1610473379.003600",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CWG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "After dye I only wash once over the objectives for 30 seconds or so and perhaps wipe with a drop of ethanol on lens tissue if someone actually wants to image in far-red. To be honest I don't think there is any way to get the objectives squeaky clean without taking the temperature shielding off which is only done at the end of the day...and taking the objectives off completely which I do periodically or when the PSF degrades enough to prompt me to do it. The bath I just take out and tip half a wash bottle of DI water over. You're going to know my secret that nothing is very precise!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01JY24KY00",
+        "text": "<@U01JY24KY00> has joined the channel",
+        "type": "message",
+        "ts": "1610658090.000400"
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1610681167.000500",
+        "client_msg_id": "e722b68b-4e6f-4499-b2b3-7c04e3c952b5",
+        "text": "Very cool!  I remember reading this paper when it came out.  Time flies.  Thanks for the details.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1610577337.018900",
+        "parent_user_id": "U01JHBGTV97",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mnug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very cool!  I remember reading this paper when it came out.  Time flies.  Thanks for the details."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

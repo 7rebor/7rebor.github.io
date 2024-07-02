@@ -1,0 +1,59 @@
+[
+    {
+        "text": "For who is joining the CBIAS (<https:\/\/www.crick.ac.uk\/whats-on\/crick-bioimage-analysis-symposium-2021>) meeting..some nice L-sheet data are coming this afternoon!",
+        "files": [
+            {
+                "id": "F02NDPKQE3E",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01GHGN71UL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2F0f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For who is joining the CBIAS ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.crick.ac.uk\/whats-on\/crick-bioimage-analysis-symposium-2021"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") meeting..some nice L-sheet data are coming this afternoon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1637667693.004600",
+        "client_msg_id": "4a638aa1-5be3-4502-af61-8395e77ba243",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.crick.ac.uk\/whats-on\/crick-bioimage-analysis-symposium-2021",
+                "service_name": "Crick",
+                "title": "Crick BioImage Analysis Symposium 2021",
+                "title_link": "https:\/\/www.crick.ac.uk\/whats-on\/crick-bioimage-analysis-symposium-2021",
+                "text": "Showcasing image analysis techniques to biomedical researchers.",
+                "image_url": "https:\/\/www.crick.ac.uk\/sites\/default\/files\/2020-01\/CBIAS%20Logo.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 181622,
+                "fallback": "Crick: Crick BioImage Analysis Symposium 2021",
+                "service_icon": "https:\/\/www.crick.ac.uk\/themes\/custom\/crick\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.crick.ac.uk\/whats-on\/crick-bioimage-analysis-symposium-2021"
+            }
+        ]
+    }
+]

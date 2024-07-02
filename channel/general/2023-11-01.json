@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1698828037.246189",
+        "client_msg_id": "c2b536f3-24ff-488c-b0b5-35ef57cf59b4",
+        "text": "<@U04UNL1LCP8> thanks for the update, we hope you can join for the discussion but no worries if not. We don't expect to only hear from 'experts', any input is welcome (like sharing the video, thank you). In the end this group is just about sharing experiences.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697537409.068019",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d03ol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04UNL1LCP8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for the update, we hope you can join for the discussion but no worries if not. We don't expect to only hear from 'experts', any input is welcome (like sharing the video, thank you). In the end this group is just about sharing experiences."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RN5N40J2",
+        "type": "message",
+        "ts": "1698844413.548409",
+        "client_msg_id": "b99cb163-9f04-4c64-88c4-56fc47eb8ceb",
+        "text": "I contacted the authors and they kindly offered the following information. For context, I was specifically asking them about staining collagen hydrogels containing cells for the purpose of imaging cell migration in 3D. They said that they had not specifically tried staining hydrogels, but that staining in aqueous conditions (PBS or water, didn't matter) required much higher amounts of the dye as it was less efficient. They recommended staining with 100 ug\/mL (again, in either PBS or water) and follow that up with a few washes before imaging.\n\nWe will be trying this out very soon and will post results here!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g9e80f3b16bf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9e80f3b16bf12d434d5391b86d7f8765.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Mel",
+            "real_name": "Mel Symeonides",
+            "display_name": "Mel Symeonides",
+            "team": "T01FQQGKPLH",
+            "name": "msymeoni",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697715502.522879",
+        "parent_user_id": "U04RN5N40J2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yy1fo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I contacted the authors and they kindly offered the following information. For context, I was specifically asking them about staining collagen hydrogels containing cells for the purpose of imaging cell migration in 3D. They said that they had not specifically tried staining hydrogels, but that staining in aqueous conditions (PBS or water, didn't matter) required much higher amounts of the dye as it was less efficient. They recommended staining with 100 ug\/mL (again, in either PBS or water) and follow that up with a few washes before imaging.\n\nWe will be trying this out very soon and will post results here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059LQCN1HN",
+        "type": "message",
+        "ts": "1698848432.508599",
+        "client_msg_id": "d00de377-6e6e-49df-b610-46901d985380",
+        "text": "I can try to get remote access to a system with Imaris, but it will be remote at the time. I'm also nervous about committing due to other meetings at the same time :)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "798070bfed71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-22\/5326828856608_798070bfed71fa61b19d_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael S. Nelson",
+            "display_name": "Michael S. Nelson",
+            "team": "T01FQQGKPLH",
+            "name": "msnelson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697537409.068019",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "teD17",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can try to get remote access to a system with Imaris, but it will be remote at the time. I'm also nervous about committing due to other meetings at the same time :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,550 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1714738989.680049",
+        "client_msg_id": "bd3925fe-36df-4446-aab1-94de4f1d377e",
+        "text": "Next online meeting 3pm UK (GMT+1)  Friday 28th June.\nPlease put it in your calendars. Link will be shared closer to the time.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DXZ0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Next online meeting 3pm UK (GMT+1)  Friday 28th June.\nPlease put it in your calendars. Link will be shared closer to the time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partying_face",
+                "users": [
+                    "U04UTRSQXNE",
+                    "U04M5SGCM5J"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1714739213.807599",
+        "client_msg_id": "7390be82-1797-4dfe-8796-7f4b4f0e9f08",
+        "text": "*Sheet Questions*\nThose who attended our Light Sheet in Action symposium will know I promised to share the submitted 'Sheet Questions' her to get some more answers and to start discussions. I am going to post the questions in the lead up to our next online meeting at the end of June so that hopefully the answers can inform the live discuss. Important: *please reply in the thread* for each question to keep the discussion tidy and easy to follow.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RLMN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sheet Questions",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThose who attended our Light Sheet in Action symposium will know I promised to share the submitted 'Sheet Questions' her to get some more answers and to start discussions. I am going to post the questions in the lead up to our next online meeting at the end of June so that hopefully the answers can inform the live discuss. Important: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "please reply in the thread",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for each question to keep the discussion tidy and easy to follow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05GNK8D64T",
+        "type": "message",
+        "ts": "1714739343.229419",
+        "edited": {
+            "user": "B05GR6ADQ04",
+            "ts": "1718773523.000000"
+        },
+        "bot_id": "B05GR6ADQ04",
+        "app_id": "A0HFW7MR6",
+        "text": "Sheet Question: How should we be spelling lightsheet \/ light-sheet \/ light sheet?",
+        "team": "T01FQQGKPLH",
+        "bot_profile": {
+            "id": "B05GR6ADQ04",
+            "app_id": "A0HFW7MR6",
+            "name": "Simple Poll",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_72.png"
+            },
+            "deleted": false,
+            "updated": 1689160716,
+            "team_id": "T01FQQGKPLH"
+        },
+        "thread_ts": "1714739343.229419",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714740466.720429",
+        "reply_users": [
+            "U01HDFX11PT"
+        ],
+        "replies": [
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1714740466.720429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-7c7947df-4756-4dea-8d7d-1a80a4db0551-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Sheet Question: How should we be spelling lightsheet \/ light-sheet \/ light sheet?*",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-7c7947df-4756-4dea-8d7d-1a80a4db0551-vote-52318463",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Light Sheet (two words)    `4`\n<@U04RN5N40J2>, <@U04UTRSQXNE>, <@U01HSB5D05V>, <@U06VCC365UM>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-52318463",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-7c7947df-4756-4dea-8d7d-1a80a4db0551-vote-52318464",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Lightsheet (one word)    `7`\n<@U0716HR7W0H>, <@U01J3L7PL4A>, <@U0713505282>, <@U059LQCN1HN>, <@U021SJSTCNQ>, <@U04M5SGCM5J>, <@U0705GD9UUV>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-52318464",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-7c7947df-4756-4dea-8d7d-1a80a4db0551-vote-52318465",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Light-sheet (hyphenated)    `8`\n<@U01HDFX11PT>, <@U06SRTJGH5Z>, <@U01HUTRPHMM>, <@U04RH8K303Y>, <@U04UTRSQXNE>, <@U01GHGN71UL>, <@U04M5SGCM5J>, <@U0773SQJ771>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-52318465",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "nQv1M",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Respondents:* `17`",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "add_option_to_poll&7c7947df-4756-4dea-8d7d-1a80a4db0551",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "open_unified_modal",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Open",
+                            "emoji": true
+                        },
+                        "style": "primary"
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "NMvcR",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U01HDFX11PT> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1714739394.175589",
+        "client_msg_id": "8ebccfdd-b372-473b-b808-2de78864d2c0",
+        "text": "Sheet Question: Are there any real issues in using ECI instead of DBE\/BABB for imaging cleared samples?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714739394.175589",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1718973434.754439",
+        "reply_users": [
+            "U059DSF5VTK",
+            "U04RH8K303Y",
+            "U05VCMTECAG",
+            "U04M5SGCM5J",
+            "U04RCBZLRJT"
+        ],
+        "replies": [
+            {
+                "user": "U059DSF5VTK",
+                "ts": "1714742706.961169"
+            },
+            {
+                "user": "U059DSF5VTK",
+                "ts": "1714743517.303529"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1714760215.981839"
+            },
+            {
+                "user": "U05VCMTECAG",
+                "ts": "1714810044.047759"
+            },
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1715202117.278889"
+            },
+            {
+                "user": "U059DSF5VTK",
+                "ts": "1715248536.739989"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1715688762.265959"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1718973434.754439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cqtAn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sheet Question: Are there any real issues in using ECI instead of DBE\/BABB for imaging cleared samples?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1714740466.720429",
+        "client_msg_id": "2e709fee-dba4-4b91-b5bd-3b3dcbdcc3c8",
+        "text": "perhaps I should have said: how do you like to write it? or do we know there is a right and wrong answer already??",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714739343.229419",
+        "parent_user_id": "U05GNK8D64T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I1aNR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perhaps I should have said: how do you like to write it? or do we know there is a right and wrong answer already??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059DSF5VTK",
+        "type": "message",
+        "ts": "1714742706.961169",
+        "client_msg_id": "1b7e81e8-3099-4cc0-ae76-2dffb171502d",
+        "text": "With my limited experience with it, I didn't get as nice images, but this isn't heavily tested. Oh and the smell is a bit :nauseated_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "22f5dcf25cb4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-12\/6946985673910_22f5dcf25cb4674b23f4_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Gordon",
+            "display_name": "Peter Gordon",
+            "team": "T01FQQGKPLH",
+            "name": "peter.gordon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714739394.175589",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FL05z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "With my limited experience with it, I didn't get as nice images, but this isn't heavily tested. Oh and the smell is a bit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nauseated_face",
+                                "unicode": "1f922"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Dark core even with dual sided illumination, I'm just about to re-try the ECi approach in the coming weeks though.",
+        "files": [
+            {
+                "id": "F071YKUE952",
+                "created": 1714743464,
+                "timestamp": 1714743464,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U059DSF5VTK",
+                "user_team": "T01FQQGKPLH",
+                "editable": false,
+                "size": 853360,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01FQQGKPLH-F071YKUE952\/image.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01FQQGKPLH-F071YKUE952\/download\/image.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F071YKUE952-587859171a\/image_64.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F071YKUE952-587859171a\/image_80.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F071YKUE952-587859171a\/image_360.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_360_w": 355,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F071YKUE952-587859171a\/image_480.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_480_w": 473,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F071YKUE952-587859171a\/image_160.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F071YKUE952-587859171a\/image_720.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_720_w": 710,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F071YKUE952-587859171a\/image_800.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_800_w": 800,
+                "thumb_800_h": 811,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F071YKUE952-587859171a\/image_960.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_960_w": 946,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F071YKUE952-587859171a\/image_1024.png?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_1024_w": 1010,
+                "thumb_1024_h": 1024,
+                "original_w": 1119,
+                "original_h": 1135,
+                "thumb_tiny": "AwAwAC\/Mp6p60iDnNPJpktinGOgoU4FMJozQKwrAHtUZ4qQGmsOAaBoVelFIh7UvfigBDRS4oxQAdKRvu0daH6CgB0LIpO9d3HHtUsoI2jtjj6VWBwcipjMrJ8y\/NkY\/rQhSWtxrfKKFBwM0rbiuQPlqylt8il24xTsS5JLUhWIMjHkNjjHeq5OauSOiR5DDeRwB2FU6TKg29T\/\/2Q==",
+                "permalink": "https:\/\/wildsheet.slack.com\/files\/U059DSF5VTK\/F071YKUE952\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01FQQGKPLH-F071YKUE952-cd65ca5511",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U059DSF5VTK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKTeU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dark core even with dual sided illumination, I'm just about to re-try the ECi approach in the coming weeks though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714743517.303529",
+        "client_msg_id": "0eeca806-57ae-476a-b551-a05cdc4b42ba",
+        "thread_ts": "1714739394.175589",
+        "parent_user_id": "U01HDFX11PT"
+    },
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1714760215.981839",
+        "client_msg_id": "eb343b75-8356-4ca1-a8ce-851497ad586b",
+        "text": "So far so good, do not see any issues with the image when imaging iDISCO in Eci on our SmartSPIM, Lifecanvas. We also do the ClearMap analysis on those brains and it works great.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714739394.175589",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fXKKs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So far so good, do not see any issues with the image when imaging iDISCO in Eci on our SmartSPIM, Lifecanvas. We also do the ClearMap analysis on those brains and it works great."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

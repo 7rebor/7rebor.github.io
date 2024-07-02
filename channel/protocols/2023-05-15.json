@@ -1,0 +1,196 @@
+[
+    {
+        "user": "U01JZAQRXHN",
+        "type": "message",
+        "ts": "1684159057.455319",
+        "client_msg_id": "c4013c1a-fea3-471d-96dd-e5930dc274e7",
+        "text": "I wish Leica was more supportive of those protocols , I will forward it to the product manager..",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2074bddfd928",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1618435752197_2074bddfd92855c3919f_72.jpg",
+            "first_name": "",
+            "real_name": "Emmanuel Reynaud",
+            "display_name": "Emmanuel Reynaud",
+            "team": "T01FQQGKPLH",
+            "name": "emmanuel.reynaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AoyU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wish Leica was more supportive of those protocols , I will forward it to the product manager.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1684163519.191289",
+        "client_msg_id": "e0415746-b9a0-443e-ab3a-e83ae8b80b70",
+        "text": "I guess this wasn't their original intention of the rotation device, but it kinda works... :face_with_diagonal_mouth:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vk=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess this wasn't their original intention of the rotation device, but it kinda works... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_diagonal_mouth",
+                                "unicode": "1fae4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01JZAQRXHN",
+        "type": "message",
+        "ts": "1684163599.394009",
+        "client_msg_id": "2b72fd9f-9766-4e81-8f05-87ac0867a3d6",
+        "text": "I think it was and we showed them in our course in 2018 and here is the link <https:\/\/www.leica-microsystems.com\/science-lab\/life-science\/using-a-rotation-device-for-light-sheet-sample-mounting\/>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2074bddfd928",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1618435752197_2074bddfd92855c3919f_72.jpg",
+            "first_name": "",
+            "real_name": "Emmanuel Reynaud",
+            "display_name": "Emmanuel Reynaud",
+            "team": "T01FQQGKPLH",
+            "name": "emmanuel.reynaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.leica-microsystems.com\/science-lab\/life-science\/using-a-rotation-device-for-light-sheet-sample-mounting\/",
+                "service_icon": "https:\/\/www.leica-microsystems.com\/typo3conf\/ext\/t3mtheme_site\/Resources\/Public\/Images\/Favicon\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/www.leica-microsystems.com\/fileadmin\/academy\/user_upload\/DLS-Sample-Mounting-SL-Intro.jpg",
+                "thumb_width": 900,
+                "thumb_height": 600,
+                "id": 1,
+                "original_url": "https:\/\/www.leica-microsystems.com\/science-lab\/life-science\/using-a-rotation-device-for-light-sheet-sample-mounting\/",
+                "fallback": "Using a Rotation Device for Light Sheet Sample Mounting",
+                "text": "The TCS SP8 DLS from Leica Microsystems is an innovative concept to integrate the Light Sheet Microscopy technology into the confocal microscope. Due to its unique optical architecture samples can be mounted on standard glass bottom petri dishes and require only little adaptations when compared to conventional mounting procedures, as for confocal imaging.",
+                "title": "Using a Rotation Device for Light Sheet Sample Mounting",
+                "title_link": "https:\/\/www.leica-microsystems.com\/science-lab\/life-science\/using-a-rotation-device-for-light-sheet-sample-mounting\/",
+                "service_name": "leica-microsystems.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUY\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it was and we showed them in our course in 2018 and here is the link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.leica-microsystems.com\/science-lab\/life-science\/using-a-rotation-device-for-light-sheet-sample-mounting\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1684163691.936089",
+        "client_msg_id": "7198e003-477f-4916-90da-28a828e2ec87",
+        "text": "I meant for imaging large pieces of cleared tissue, easier with a small sample inside the capillary - hope to do that soon!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1679313484.488329",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Otv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I meant for imaging large pieces of cleared tissue, easier with a small sample inside the capillary - hope to do that soon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

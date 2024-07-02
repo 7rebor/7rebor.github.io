@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1716892719.537919",
+        "client_msg_id": "d9e26276-a0a9-4a3a-80c1-2b04659cc299",
+        "text": "Easy Sheet Question today: *What are the pros and cons of lightsheet versus traditional or spinning disc confocal microscopy for imaging cleared tissue?*",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716892719.537919",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1717020196.210709",
+        "reply_users": [
+            "U01J1KG0MK4",
+            "U04M5SGCM5J"
+        ],
+        "replies": [
+            {
+                "user": "U01J1KG0MK4",
+                "ts": "1716995589.706419"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1717020196.210709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wt03P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Easy Sheet Question today: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "What are the pros and cons of lightsheet versus traditional or spinning disc confocal microscopy for imaging cleared tissue?",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

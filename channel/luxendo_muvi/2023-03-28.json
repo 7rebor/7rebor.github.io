@@ -1,0 +1,23 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01JU4CD5PS",
+        "text": "<@U01JU4CD5PS> has joined the channel",
+        "type": "message",
+        "ts": "1679991953.242729"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04RM1Q6XE2",
+        "text": "<@U04RM1Q6XE2> has joined the channel",
+        "type": "message",
+        "ts": "1679992569.707959"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U04UNBGETHC",
+        "text": "<@U04UNBGETHC> has joined the channel",
+        "type": "message",
+        "ts": "1680026612.341579"
+    }
+]

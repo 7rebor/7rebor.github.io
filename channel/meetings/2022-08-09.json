@@ -1,0 +1,115 @@
+[
+    {
+        "user": "U01J3L7PL4A",
+        "type": "message",
+        "ts": "1660051873.669769",
+        "client_msg_id": "4cf77a34-bb5b-4acf-b238-e57059cfe325",
+        "text": "Hello all, especially but not exclusively UK-based people !\nThe BioImagingUK Community Meeting will be held in-person at the Francis Crick Institute in London on Fri 16th Sept and there are a few spaces remaining!\nRegister here: <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScH0wg9HHb7IKZljrJAzmSSSdVuz32tzksbnxhhU1PTQlZVwg\/viewform?usp=sf_link>\nWe have a mix of talks and interactive discussion groups with lots of opportunity to network. The meeting is focused around the following areas:\n1. Linking the UK bioimaging community up again after Covid\n2. Career paths, particularly for ECRs and technical staff\n3. Infrastructure, focusing on Research Data Management and Data Nodes\n4. Multi-modality and forging new collaborations across disciplines\n5. Horizon scanning\/new tech development opportunities\nIf you have any questions, please get in touch :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gf355a5f2263",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f355a5f22634850c7addf5db1b092228.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Georgina Fletcher",
+            "display_name": "Georgina Fletcher",
+            "team": "T01FQQGKPLH",
+            "name": "georgina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K00",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all, especially but not exclusively UK-based people !\nThe BioImagingUK Community Meeting will be held in-person at the Francis Crick Institute in London on Fri 16th Sept and there are a few spaces remaining!\nRegister here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScH0wg9HHb7IKZljrJAzmSSSdVuz32tzksbnxhhU1PTQlZVwg\/viewform?usp=sf_link"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nWe have a mix of talks and interactive discussion groups with lots of opportunity to network. The meeting is focused around the following areas:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Linking the UK bioimaging community up again after Covid"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Career paths, particularly for ECRs and technical staff"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Infrastructure, focusing on Research Data Management and Data Nodes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Multi-modality and forging new collaborations across disciplines"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Horizon scanning\/new tech development opportunities"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have any questions, please get in touch "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1643279353.560769",
+        "client_msg_id": "c8dac192-7fc8-45ee-a6ed-4f8cd237e674",
+        "text": "Dears, quick reminder for tomorrow`s first “Light-sheet bite”!! The “Menu” is about “Multiview imaging”; hope you it is gonna be a useful and interactive meeting;\nplease bring all your questions and suggestions and see you hopefully tomorrow!\n\n1) Multiview imaging and data fusion: a personal journey with BigStitcher and friends\nSpeaker: Alessandro Ciccarelli - The Francis Crick Institute (UK)\nDate: Friday 28-01-2022 h15:00-16:00 (GMT)\nZoom Link:\n<https:\/\/crick.zoom.us\/j\/66385131149?pwd=MlF2Q2srRnpXaXNLOC9zZWExRXJYUT09>\nMeeting ID: 663 8513 1149\nPasscode: 379234\n\nFull details and next events here\n<https:\/\/docs.google.com\/document\/d\/1MwdHe-Pfd7UmVU89UCI_GR8YjTxaIMh-uuMeiISwa0g\/edit>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0M2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dears, quick reminder for tomorrow`s first “Light-sheet bite”!! The “Menu” is about “Multiview imaging”; hope you it is gonna be a useful and interactive meeting;\nplease bring all your questions and suggestions and see you hopefully tomorrow!\n\n1) Multiview imaging and data fusion: a personal journey with BigStitcher and friends\nSpeaker: Alessandro Ciccarelli - The Francis Crick Institute (UK)\nDate: Friday 28-01-2022 h15:00-16:00 (GMT)\nZoom Link:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/crick.zoom.us\/j\/66385131149?pwd=MlF2Q2srRnpXaXNLOC9zZWExRXJYUT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeeting ID: 663 8513 1149\nPasscode: 379234\n\nFull details and next events here\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1MwdHe-Pfd7UmVU89UCI_GR8YjTxaIMh-uuMeiISwa0g\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text": "My question of the week: I ve beeen playing a bit with deconvolution (Huygens) for light-sheet data (from MuVi spim and Lavision UMII); I then realized that both have lenses and pixels giving downsampling and making deconvolution quite inefficient; I then realized that just with a \" background substraction\" I can get very nice results(See picture)! Do you see any big drwabacks\/hiddedn dangers in using this basic filtering? And if you have positive experience with light-sheet-deconvolution, maybe we can one day doscsuss about it..",
+        "files": [
+            {
+                "id": "F01HH5SAE9X",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01GHGN71UL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+Yo3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My question of the week: I ve beeen playing a bit with deconvolution (Huygens) for light-sheet data (from MuVi spim and Lavision UMII); I then realized that both have lenses and pixels giving downsampling and making deconvolution quite inefficient; I then realized that just with a \" background substraction\" I can get very nice results(See picture)! Do you see any big drwabacks\/hiddedn dangers in using this basic filtering? And if you have positive experience with light-sheet-deconvolution, maybe we can one day doscsuss about it.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1608203382.005200",
+        "thread_ts": "1608203382.005200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1608566138.000300",
+        "reply_users": [
+            "U01HDFX11PT",
+            "U01GHGN71UL"
+        ],
+        "replies": [
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1608295442.000100"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1608565799.000100"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1608566138.000300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

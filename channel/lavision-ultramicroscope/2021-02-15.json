@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1613390736.000100",
+        "client_msg_id": "59c53f25-fe7e-42e1-a1c5-81012ddab045",
+        "text": "Thanks! Yes, I ve seen that super paper! I actually it would be nice to discuss more about it..I found noteworthy that to get teh best resolution with the UMII they don t use the dynamic focus, they crop a lot the picture and use just the central beam!!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1613126020.001200",
+        "parent_user_id": "U01H3QDBEGY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cw83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! Yes, I ve seen that super paper! I actually it would be nice to discuss more about it..I found noteworthy that to get teh best resolution with the UMII they don t use the dynamic focus, they crop a lot the picture and use just the central beam!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

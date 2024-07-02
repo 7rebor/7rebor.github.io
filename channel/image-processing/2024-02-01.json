@@ -1,0 +1,159 @@
+[
+    {
+        "user": "U05E47A1DV0",
+        "type": "message",
+        "ts": "1706799684.853929",
+        "client_msg_id": "3719d190-3bfd-450b-acf4-8e92850e5497",
+        "text": "Hello all, I was wondering if anyone had advice on how to manage\/open large data files? Many of my files are in the 10s-100s of GB, and I am struggling with how to manage them so they can be run through our segmentation pipeline. Either advice on breaking up the files to be passed through fiji\/cellpose and then reconstructed or another method of segmentation that works on large files would be really appreciated! Thanks",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g9de2e49bd3a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9de2e49bd3a961c54f215b4289aea398.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Ren",
+            "real_name": "Ren Moon",
+            "display_name": "Ren Moon",
+            "team": "T01FQQGKPLH",
+            "name": "lm840",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706799684.853929",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1706866679.958189",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U05E47A1DV0"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1706804481.155309"
+            },
+            {
+                "user": "U05E47A1DV0",
+                "ts": "1706866679.958189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Z\/dk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all, I was wondering if anyone had advice on how to manage\/open large data files? Many of my files are in the 10s-100s of GB, and I am struggling with how to manage them so they can be run through our segmentation pipeline. Either advice on breaking up the files to be passed through fiji\/cellpose and then reconstructed or another method of segmentation that works on large files would be really appreciated! Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1706804481.155309",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1706804499.000000"
+        },
+        "client_msg_id": "df7e2841-efa9-4769-9800-7923a9048e17",
+        "text": "Hi Ren, I've been wondering the same thing. My users often want to analyse their data, but they don't have the computing resource to load the fully stitched, full resolution dataset. I guess one question is whether you need the full bit depth and resolution of your images? A 2x resolution downsample in 3D is 8x less data, and 8-bit is half of 16-bit. I'm sure these are things you've already considered.\n\nIf you can output some kind of transform file that describes the stitch, maybe you could carry out processing on each of the tiles and then stitch afterwards using the transform file (assuming you've stitched in the first place).\n\nYou could of course design your own analysis code, depending on how in-depth you want to go. But it looks like cellpose can <https:\/\/github.com\/kevinjohncutler\/cellpose-omni\/blob\/00cc23b49e1a381cdd8db74be4c631214511fa82\/cellpose_omni\/contrib\/distributed_segmentation.py|segment in chunks>, found this from the <http:\/\/image.sc|image.sc> forums <https:\/\/forum.image.sc\/t\/question-how-to-merge-image-tiles-with-labels-from-instance-segmentation\/90348\/2|here>.\n\nI'm watching this thread to see what advice people have :slightly_smiling_face: - might be worth posting on the <http:\/\/image.sc|image.sc> forum instead for this particular question - as your question applies to most types of data, not just light-sheet.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706799684.853929",
+        "parent_user_id": "U05E47A1DV0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kCMiC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Ren, I've been wondering the same thing. My users often want to analyse their data, but they don't have the computing resource to load the fully stitched, full resolution dataset. I guess one question is whether you need the full bit depth and resolution of your images? A 2x resolution downsample in 3D is 8x less data, and 8-bit is half of 16-bit. I'm sure these are things you've already considered.\n\nIf you can output some kind of transform file that describes the stitch, maybe you could carry out processing on each of the tiles and then stitch afterwards using the transform file (assuming you've stitched in the first place).\n\nYou could of course design your own analysis code, depending on how in-depth you want to go. But it looks like cellpose can "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/kevinjohncutler\/cellpose-omni\/blob\/00cc23b49e1a381cdd8db74be4c631214511fa82\/cellpose_omni\/contrib\/distributed_segmentation.py",
+                                "text": "segment in chunks"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", found this from the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/image.sc",
+                                "text": "image.sc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " forums "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forum.image.sc\/t\/question-how-to-merge-image-tiles-with-labels-from-instance-segmentation\/90348\/2",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nI'm watching this thread to see what advice people have "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - might be worth posting on the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/image.sc",
+                                "text": "image.sc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " forum instead for this particular question - as your question applies to most types of data, not just light-sheet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U059LQCN1HN",
+                    "U05E47A1DV0"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

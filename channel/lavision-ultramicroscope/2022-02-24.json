@@ -1,0 +1,60 @@
+[
+    {
+        "text": "Dear all, other update: I think we are getting better with DF and finally we get very nice results (see beow)! Just using central beam, 1 side illum, exp 50 ms; we still have a big with the software (half sample imaged, but it can be solved just restaring the acquisitions); so, please do not spend tiem in answering my previous doubts; notably I ve tested the \"Renier\" appproach: instead of using the DF I did many tiles (using a narrow ROI): the results are good, but I didn save time (it takes in both cases 10`) and I see the artefacts of sticthing tiling; am I doing something wrong?...Btw, at the moment I`ll keep using the classic DF blend mode;",
+        "files": [
+            {
+                "id": "F034K3TPGEQ",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F0356GMT940",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AEXND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear all, other update: I think we are getting better with DF and finally we get very nice results (see beow)! Just using central beam, 1 side illum, exp 50 ms; we still have a big with the software (half sample imaged, but it can be solved just restaring the acquisitions); so, please do not spend tiem in answering my previous doubts; notably I ve tested the \"Renier\" appproach: instead of using the DF I did many tiles (using a narrow ROI): the results are good, but I didn save time (it takes in both cases 10`) and I see the artefacts of sticthing tiling; am I doing something wrong?...Btw, at the moment I`ll keep using the classic DF blend mode;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1645706208.368129",
+        "client_msg_id": "238d1133-0f64-49b9-83e9-99aab19d68cf",
+        "thread_ts": "1645706208.368129",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1679324065.102429",
+        "reply_users": [
+            "U04RCBZLRJT"
+        ],
+        "replies": [
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679324002.830339"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679324042.626639"
+            },
+            {
+                "user": "U04RCBZLRJT",
+                "ts": "1679324065.102429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

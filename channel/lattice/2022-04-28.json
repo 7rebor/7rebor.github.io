@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1651149525.472979",
+        "client_msg_id": "5D4968C3-081F-4661-A143-E3B55D673016",
+        "text": "Wiley webinar today\n‘Join us for a live webinar, focusing on the development of Lattice Light-Sheet Microscopy through time. Leading researchers will present their experiences with long-term volumetric imaging of living cells using this technology. \nListen to first-hand experience reports how Lattice Lightsheet evolved from initial prototypes to established instruments in core facilites and research labs. \n\nTODAY I 04:30-05:30 pm CET\n\nFree registration:\n<https:\/\/events.bizzabo.com\/WASconferenceSpring22|https:\/\/events.bizzabo.com\/WASconferenceSpring22>\n‘",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/events.bizzabo.com\/WASconferenceSpring22",
+                "thumb_url": "https:\/\/res.cloudinary.com\/bizzaboprod\/image\/upload\/q_auto:best,c_crop,g_custom\/v1634927713\/hqmyg01stuzyyxuwcicw.png",
+                "thumb_width": 286,
+                "thumb_height": 212,
+                "service_icon": "https:\/\/res.cloudinary.com\/bizzaboprod\/image\/upload\/q_auto:best,c_crop,g_custom\/v1634166320\/gfol9sqkpeipety6aidd.png",
+                "id": 1,
+                "original_url": "https:\/\/events.bizzabo.com\/WASconferenceSpring22",
+                "fallback": "WAS Virtual Conference – Spring 2022",
+                "text": "For the fourth time, the Wiley Analytical Science Virtual Conference will bring together researchers and practitioners to share current developments in science and industry. We expect a global audience and exciting presentations from experts in the fields of analytical and bioanalytical chemistry, pharmaceutical research, materials science, lab automation, and related disciplines. Register now to join us for the event, and learn about recent developments and applications of microscopy, spectroscopy, mass spectrometry and separation science.",
+                "title": "WAS Virtual Conference – Spring 2022",
+                "title_link": "https:\/\/events.bizzabo.com\/WASconferenceSpring22",
+                "service_name": "events.bizzabo.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7kAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wiley webinar today\n‘Join us for a live webinar, focusing on the development of Lattice Light-Sheet Microscopy through time. Leading researchers will present their experiences with long-term volumetric imaging of living cells using this technology. \nListen to first-hand experience reports how Lattice Lightsheet evolved from initial prototypes to established instruments in core facilites and research labs. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "TODAY I 04:30-05:30 pm CET\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Free registration:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/events.bizzabo.com\/WASconferenceSpring22",
+                                "text": "https:\/\/events.bizzabo.com\/WASconferenceSpring22"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n‘"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

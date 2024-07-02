@@ -1,0 +1,147 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01GHGN71UL",
+        "text": "<@U01GHGN71UL> has joined the channel",
+        "inviter": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1608174371.000300"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01GLGFLJNM",
+        "text": "<@U01GLGFLJNM> has joined the channel",
+        "inviter": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1608174371.000500"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01GMRWNLGZ",
+        "text": "<@U01GMRWNLGZ> has joined the channel",
+        "inviter": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1608174371.000700"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01H3QDBEGY",
+        "text": "<@U01H3QDBEGY> has joined the channel",
+        "inviter": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1608174371.000900"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01HDFX11PT",
+        "text": "<@U01HDFX11PT> has joined the channel",
+        "inviter": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1608174372.001100"
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1608175128.003700",
+        "client_msg_id": "e4af2e91-0550-4360-8d01-519f70945876",
+        "text": "Hi <!channel>, would you like to meet in the new year to talk about potential next steps.  Was about to advertise the group on µForum, but thought that maybe the group would like to talk about more of the details before rolling it out, so to speak.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608175128.003700",
+        "reply_count": 11,
+        "reply_users_count": 4,
+        "latest_reply": "1610038489.005300",
+        "reply_users": [
+            "U01HDFX11PT",
+            "U01GHGN71UL",
+            "U01G21ASDAL",
+            "U01H3QDBEGY"
+        ],
+        "replies": [
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1608195828.000100"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1608202815.000300"
+            },
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1609445818.000100"
+            },
+            {
+                "user": "U01H3QDBEGY",
+                "ts": "1609860427.000100"
+            },
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1609923183.000500"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1609926624.000700"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1609928975.000900"
+            },
+            {
+                "user": "U01H3QDBEGY",
+                "ts": "1609933728.001200"
+            },
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1609939081.001400"
+            },
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1609941054.001800"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1610038489.005300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1610038489.005300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hqIpE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", would you like to meet in the new year to talk about potential next steps.  Was about to advertise the group on µForum, but thought that maybe the group would like to talk about more of the details before rolling it out, so to speak."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

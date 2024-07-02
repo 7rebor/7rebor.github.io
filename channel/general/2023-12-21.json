@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U058WJ0Q4RG",
+        "type": "message",
+        "ts": "1703160121.258359",
+        "client_msg_id": "fea970e0-6c75-41f9-a8bf-50bdf5c8d994",
+        "text": "Hi Alessandro, Gubra are a light sheet customer of ours (multiple, high-throughput dedicated cleared systems) and have been highly successful in their business from a commercial and scientific standpoint. I'd recommend them to anyone wanting to explore an industry position.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gb071ce9a095",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b071ce9a09582170b46d96029c8126dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Phil",
+            "real_name": "Phil Golding",
+            "display_name": "Phil Golding",
+            "team": "T01FQQGKPLH",
+            "name": "philip.golding",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702549273.250749",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1JwK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Alessandro, Gubra are a light sheet customer of ours (multiple, high-throughput dedicated cleared systems) and have been highly successful in their business from a commercial and scientific standpoint. I'd recommend them to anyone wanting to explore an industry position."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1703166972.500639",
+        "client_msg_id": "c444e041-dceb-4ec9-b51a-4c18e9e78df6",
+        "text": "Interesting, thanks for letting me know!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702549273.250749",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E30+d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting, thanks for letting me know!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

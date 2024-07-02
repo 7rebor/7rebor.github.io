@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1608295442.000100",
+        "client_msg_id": "da574d7f-9d75-4920-a3f4-3d6c6a8d44bc",
+        "text": "This is a great example and why we need to get analysis people in this group ASAP!\n\nfrom my limited experience, and what I've gleaned from Claire and Laura in CAMDU, it very much depends what your aim is from the processed data. If it's just a pretty picture then you're okay but tracking\/segmentation you might want to be a bit more careful and from FIJIs guidance on that plugin: \"As a rule of thumb, for 8-bit or RGB images it should be at least as large as the radius of the largest object in the image that is not part of the background.\"\nIf you want to do something quantitative then it's another ball game.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608203382.005200",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jT6xJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a great example and why we need to get analysis people in this group ASAP!\n\nfrom my limited experience, and what I've gleaned from Claire and Laura in CAMDU, it very much depends what your aim is from the processed data. If it's just a pretty picture then you're okay but tracking\/segmentation you might want to be a bit more careful and from FIJIs guidance on that plugin: \"As a rule of thumb, for 8-bit or RGB images it should be at least as large as the radius of the largest object in the image that is not part of the background.\"\nIf you want to do something quantitative then it's another ball game."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

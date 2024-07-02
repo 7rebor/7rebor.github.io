@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U01J3L7PL4A",
+        "type": "message",
+        "ts": "1669380079.383899",
+        "client_msg_id": "1ee8a72c-c88e-4751-b329-ff5dae405c68",
+        "text": "<https:\/\/www.rms.org.uk\/rms-event-calendar\/imaging-oneworld-28-november.html>\n*Customized, modular, multiscale microscopy inside and outside the optics lab - Jan Huisken*\nThis Monday's Imaging ONEWORLD is all about light-sheet! 1pm GMT online, register above.\n_ABSTRACT: In our lab, we develop and optimise imaging technology to address technically challenging problems in the life sciences. Our primarily tool is advanced, customised light sheet microscopy (LSFM, SPIM). Instantaneous optical sectioning is achieved by illuminating the sample with a sheet of light and generating fluorescence in a thin slice, which is then imaged with a fast camera. Phototoxicity is negligible even at high acquisition rates, making SPIM the ideal platform for long time-lapse experiments. The ability to custom design a light sheet microscope around a sample has empowered many research labs to do experiments that have been impossible with commercial instruments. Unfortunately, only few have been able to custom design such an instrument to enable demanding biological applications. Consequently, a wide gap has emerged between the technologies commonly available to biologists and the cutting-edge. We have addressed this issue by developing the Flamingo, a modular, shareable light sheet microscope suited to a new model of scientific collaboration. Each microscope is customized for a given application, equipped to travel from lab to lab and to provide widespread access to advanced microscopy. The Flamingo's modularity allows a variety of sample mounting techniques (tube, dish, gel, clearing, etc.). A horizontal arrangement offers single-sided illumination (L- SPIM), double-sided illumination (T-SPIM) and double- sided detection (X-SPIM), all within the same framework. The system will evolve over time, driven by the community's feedback and input. We believe that the Flamingo is a powerful alternative to commercial solutions, open-source microscopes, and conventional imaging facilities._",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gf355a5f2263",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f355a5f22634850c7addf5db1b092228.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Georgina Fletcher",
+            "display_name": "Georgina Fletcher",
+            "team": "T01FQQGKPLH",
+            "name": "georgina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.rms.org.uk\/rms-event-calendar\/imaging-oneworld-28-november.html",
+                "thumb_url": "https:\/\/pixl8-cloud-rms.s3.eu-west-2.amazonaws.com\/prod\/public\/f7dbd0fd-317d-4b84-9db2b3bdf0649103\/socialmediaimage_1d7df6a0396421b23f8e1b8419de187b\/Synaptonemal-complex.jpg",
+                "thumb_width": 600,
+                "thumb_height": 314,
+                "service_icon": "https:\/\/www.rms.org.uk\/assets\/img\/icons\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rms.org.uk\/rms-event-calendar\/imaging-oneworld-28-november.html",
+                "fallback": "Imaging ONEWORLD",
+                "text": "Jan Huisken, Georg-August-University Göttingen, Germany",
+                "title": "Imaging ONEWORLD",
+                "title_link": "https:\/\/www.rms.org.uk\/rms-event-calendar\/imaging-oneworld-28-november.html",
+                "service_name": "rms.org.uk"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CaW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rms.org.uk\/rms-event-calendar\/imaging-oneworld-28-november.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Customized, modular, multiscale microscopy inside and outside the optics lab - Jan Huisken",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThis Monday's Imaging ONEWORLD is all about light-sheet! 1pm GMT online, register above.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ABSTRACT: In our lab, we develop and optimise imaging technology to address technically challenging problems in the life sciences. Our primarily tool is advanced, customised light sheet microscopy (LSFM, SPIM). Instantaneous optical sectioning is achieved by illuminating the sample with a sheet of light and generating fluorescence in a thin slice, which is then imaged with a fast camera. Phototoxicity is negligible even at high acquisition rates, making SPIM the ideal platform for long time-lapse experiments. The ability to custom design a light sheet microscope around a sample has empowered many research labs to do experiments that have been impossible with commercial instruments. Unfortunately, only few have been able to custom design such an instrument to enable demanding biological applications. Consequently, a wide gap has emerged between the technologies commonly available to biologists and the cutting-edge. We have addressed this issue by developing the Flamingo, a modular, shareable light sheet microscope suited to a new model of scientific collaboration. Each microscope is customized for a given application, equipped to travel from lab to lab and to provide widespread access to advanced microscopy. The Flamingo's modularity allows a variety of sample mounting techniques (tube, dish, gel, clearing, etc.). A horizontal arrangement offers single-sided illumination (L- SPIM), double-sided illumination (T-SPIM) and double- sided detection (X-SPIM), all within the same framework. The system will evolve over time, driven by the community's feedback and input. We believe that the Flamingo is a powerful alternative to commercial solutions, open-source microscopes, and conventional imaging facilities.",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

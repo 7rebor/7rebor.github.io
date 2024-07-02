@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U05VA8MGCUS",
+        "type": "message",
+        "ts": "1697120187.632649",
+        "client_msg_id": "06160493-8962-498b-8710-a9ab0cbaaa39",
+        "text": "Maybe my measurements are just fine but i wanted to double check everything",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gb982a0dda83",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b982a0dda835a41607bcb42a49813102.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Lovro",
+            "real_name": "Lovro Gudlin",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "lgudlin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696527229.604869",
+        "parent_user_id": "U05VA8MGCUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fm1o\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe my measurements are just fine but i wanted to double check everything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "text": "Hi all, I have been using the UMII recently to image cleared mouse embryos, with immunolabelled blood vessels.\nLooking at the data, I can see quite a few \"lines\" of noise traversing the sample horizontally (see attached picture), does anyone have any experience of this type of noise? And, ideally, of any ways to remove it?\nUnsure whether here or <#C01LCEJ5H8C|image-processing> was the most appropriate place to post this.\nThanks everyone in advance!",
+        "files": [
+            {
+                "id": "F01QNK5KW4S",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01HXPBHQBY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4iP6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, I have been using the UMII recently to image cleared mouse embryos, with immunolabelled blood vessels.\nLooking at the data, I can see quite a few \"lines\" of noise traversing the sample horizontally (see attached picture), does anyone have any experience of this type of noise? And, ideally, of any ways to remove it?\nUnsure whether here or "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01LCEJ5H8C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " was the most appropriate place to post this.\nThanks everyone in advance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1615307194.003000",
+        "client_msg_id": "63f4ecf6-e8e9-40ac-b1fc-67bb6400ae7f",
+        "thread_ts": "1615307194.003000",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1624568910.000400",
+        "reply_users": [
+            "U01GHGN71UL",
+            "U01HSB5D05V",
+            "U01HXPBHQBY",
+            "U01H3QDBEGY"
+        ],
+        "replies": [
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1615565175.000100"
+            },
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1615565818.000300"
+            },
+            {
+                "user": "U01HXPBHQBY",
+                "ts": "1616249923.013000"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1616780618.000700"
+            },
+            {
+                "user": "U01H3QDBEGY",
+                "ts": "1624568910.000400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

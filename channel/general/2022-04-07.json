@@ -1,0 +1,41 @@
+[
+    {
+        "text": "Here is the protocol\/recipe we use to make RIMS, and the RI is 1.47.  We just double checked it too.  :wink:",
+        "files": [
+            {
+                "id": "F03B01KL3CH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01J1KG0MK4",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the protocol\/recipe we use to make RIMS, and the RI is 1.47.  We just double checked it too.  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1649363999.280739",
+        "client_msg_id": "6789e32e-42e9-42fb-a023-5e8c02ffc1b0",
+        "thread_ts": "1649168729.223669",
+        "parent_user_id": "U01J1KG0MK4"
+    }
+]

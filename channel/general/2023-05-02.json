@@ -1,0 +1,195 @@
+[
+    {
+        "user": "U01JN9SDP5X",
+        "type": "message",
+        "ts": "1683013186.694529",
+        "client_msg_id": "625e057e-f920-46e8-b3ef-809bcd2c1163",
+        "text": "Hello, thank you very much for thorough response. We will contact manufacturers and try to organize at least remote sessions as you suggested. If you have personal experience later, after the installation of your system, I will be super happy to hear from you again. Thank you very much!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gc73f665acc4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c73f665acc4600ebed3270f728bf3e2d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Helena Chmelova",
+            "display_name": "Helena Chmelova",
+            "team": "T01FQQGKPLH",
+            "name": "helena.chmelova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682437162.297399",
+        "parent_user_id": "U01JN9SDP5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, thank you very much for thorough response. We will contact manufacturers and try to organize at least remote sessions as you suggested. If you have personal experience later, after the installation of your system, I will be super happy to hear from you again. Thank you very much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1683015358.520549",
+        "client_msg_id": "19d2cbac-04a5-4759-bf57-6dc33bce47e4",
+        "text": "A couple of these manufacturers are in this Slack: <@U01KN82Q4MN>, <@U04RM1Q6XE2>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682437162.297399",
+        "parent_user_id": "U01JN9SDP5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BGD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A couple of these manufacturers are in this Slack: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01KN82Q4MN"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04RM1Q6XE2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1683032152.015519",
+        "client_msg_id": "98db64fd-1aae-4183-abe5-ec7679d353b7",
+        "text": "Hi Helena and Rob, a bit late, also here my comments; <@U04M5SGCM5J>: excellent overview of commercial L-sheet options! On our side (The Crick) we have here the Miltenyi-Lavision UMII and we have intensively tested (1 month ago) the Blaze Miltenyi; I could speak for hours regarding both…\nBriefly, Lavision UMII: easy and very flexible (large chamber, wide zoom range), but a bit tricky for alignment and high res imaging;\n Blaze: is an improvement (except for the crazy large cuvette) and can be used for multisamples and bigger samples (lenses with higher WD); some improvements in the image quality (flat field of lenses and organization of 3 light-sheet foci;);\n in general, they both still suffer from not very high imaging speed and issues in aligning 6 L-sheets on the same plane; if you need more info, I`ll be happy to set a Zoom meeting (maybe also open to other people?)  and if you want to test the Lavision UMII, you are welcome here in London; or if you have more specific questions, please let me know; hope it helps!\n @ Rob: good to know you have the 3i; we are interested in it as well I`ll be happy to hear your feedback",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682437162.297399",
+        "parent_user_id": "U01JN9SDP5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOUKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Helena and Rob, a bit late, also here my comments; "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04M5SGCM5J"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": excellent overview of commercial L-sheet options! On our side (The Crick) we have here the Miltenyi-Lavision UMII and we have intensively tested (1 month ago) the Blaze Miltenyi; I could speak for hours regarding both…\nBriefly, Lavision UMII: easy and very flexible (large chamber, wide zoom range), but a bit tricky for alignment and high res imaging;\n Blaze: is an improvement (except for the crazy large cuvette) and can be used for multisamples and bigger samples (lenses with higher WD); some improvements in the image quality (flat field of lenses and organization of 3 light-sheet foci;);\n in general, they both still suffer from not very high imaging speed and issues in aligning 6 L-sheets on the same plane; if you need more info, I`ll be happy to set a Zoom meeting (maybe also open to other people?)  and if you want to test the Lavision UMII, you are welcome here in London; or if you have more specific questions, please let me know; hope it helps!\n @ Rob: good to know you have the 3i; we are interested in it as well I`ll be happy to hear your feedback"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1683036073.307099",
+        "client_msg_id": "05a6e549-196f-4720-80f5-8035f4306685",
+        "text": "<@U04M5SGCM5J> I ve forgot to ask you: I ve heard that there should be also a Miltenyi Blaze light-sheet in Oxford: do you know by chance who is belonging to? Or who I should contact to get more info? Thanks",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682437162.297399",
+        "parent_user_id": "U01JN9SDP5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HqNh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04M5SGCM5J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I ve forgot to ask you: I ve heard that there should be also a Miltenyi Blaze light-sheet in Oxford: do you know by chance who is belonging to? Or who I should contact to get more info? Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

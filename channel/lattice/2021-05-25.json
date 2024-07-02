@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01UDURFVT4",
+        "type": "message",
+        "ts": "1621940873.000100",
+        "client_msg_id": "36893832-e8b2-42f3-b69c-0f21127494b0",
+        "text": "Hi Mathieu, my apologies for the late reply - I missed this. I was trying to get an idea of what kind of perfusion system other people were using for this scope in general as I don't have much experience with it. But we have since decided to hold off on it and see what the user base will be like to make a choice down the line. Thank you kindly for your response.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g1244310a683",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1244310a683eceb9d597faa6b7893682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Dylan Herzog",
+            "display_name": "Dylan Herzog",
+            "team": "T01FQQGKPLH",
+            "name": "dylan.b.herzog",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1618573190.006100",
+        "parent_user_id": "U01UDURFVT4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UVkB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Mathieu, my apologies for the late reply - I missed this. I was trying to get an idea of what kind of perfusion system other people were using for this scope in general as I don't have much experience with it. But we have since decided to hold off on it and see what the user base will be like to make a choice down the line. Thank you kindly for your response."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1684319707.057229",
+        "client_msg_id": "8421e16d-76e1-4812-a213-d619839e1107",
+        "text": "Nice Lightsheet inititiative <https:\/\/imaging.au.dk\/lightsheet>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iehv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice Lightsheet inititiative "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/imaging.au.dk\/lightsheet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

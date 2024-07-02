@@ -1,0 +1,185 @@
+[
+    {
+        "user": "U059ZHUUQVC",
+        "type": "message",
+        "ts": "1685566636.065889",
+        "edited": {
+            "user": "U059ZHUUQVC",
+            "ts": "1685566762.000000"
+        },
+        "client_msg_id": "7a2c9b93-6c65-447f-b34f-37c36ecec326",
+        "text": "Greetings! For efficient investigation in large samples at cellular resolution, consider the <https:\/\/bliqphotonics.com\/solutions\/2p-bessel-light-sheet\/|2P Bessel Light Sheet System> from Bliq Photonics. Our light sheet system offers:\n• Extended FOV without compromising axial resolution\n• Reduced shadowing artifacts that can compromise data\n• Increased penetration depth with reduced phototoxicity and photodamage\nHere is a <https:\/\/youtu.be\/pugK6LtGdmY?utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-9f6uJGAPJnhwVLFdK5gQ8B3hNKA4pww4JvMa5v6kbri5xS6vVkzWNmOG-_ROlTAhtFHZq5|short video> and <https:\/\/5186881.fs1.hubspotusercontent-na1.net\/hubfs\/5186881\/Case%20study\/Case%20Study%20-%20Light%20sheet%20microscopy.pdf|case study> that presents the system in action and highlights its utility for 3D imaging in the brain. Please feel free to <https:\/\/bliqphotonics.com\/|connect> with us - we’d be happy to learn more about your imaging applications and how we can be of help!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6aae21459494",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-30\/5369968732656_6aae21459494f993dbf9_72.png",
+            "first_name": "Pat",
+            "real_name": "Pat Stemkowski",
+            "display_name": "Pat Stemkowski",
+            "team": "T01FQQGKPLH",
+            "name": "patrick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/bliqphotonics.com\/solutions\/2p-bessel-light-sheet\/",
+                "service_icon": "https:\/\/bliqphotonics.com\/wp-content\/uploads\/2021\/10\/cropped-Thumbnail-bliq-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/bliqphotonics.com\/solutions\/2p-bessel-light-sheet\/",
+                "fallback": "Bliq Photonics: 2P Bessel Light Sheet – Bliq Photonics",
+                "text": "The multiphoton bessel light sheet allows to achieve high axial resolution throughout a large field of view, with low phototoxicity and for large samples.",
+                "title": "2P Bessel Light Sheet – Bliq Photonics",
+                "title_link": "https:\/\/bliqphotonics.com\/solutions\/2p-bessel-light-sheet\/",
+                "service_name": "Bliq Photonics",
+                "fields": [
+                    {
+                        "value": "9 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/youtu.be\/pugK6LtGdmY?utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-9f6uJGAPJnhwVLFdK5gQ8B3hNKA4pww4JvMa5v6kbri5xS6vVkzWNmOG-_ROlTAhtFHZq5",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/pugK6LtGdmY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/pugK6LtGdmY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Bessel Beam Light Sheet Microscopy\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/youtu.be\/pugK6LtGdmY?utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-9f6uJGAPJnhwVLFdK5gQ8B3hNKA4pww4JvMa5v6kbri5xS6vVkzWNmOG-_ROlTAhtFHZq5",
+                "fallback": "YouTube Video: Bessel Beam Light Sheet Microscopy",
+                "title": "Bessel Beam Light Sheet Microscopy",
+                "title_link": "https:\/\/youtu.be\/pugK6LtGdmY?utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-9f6uJGAPJnhwVLFdK5gQ8B3hNKA4pww4JvMa5v6kbri5xS6vVkzWNmOG-_ROlTAhtFHZq5",
+                "author_name": "Bliq Photonics",
+                "author_link": "https:\/\/www.youtube.com\/@bliqphotonics9446",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "image_url": "https:\/\/bliqphotonics.com\/wp-content\/uploads\/2021\/10\/bliq_noir-orange-1.png",
+                "image_width": 1500,
+                "image_height": 1500,
+                "image_bytes": 30331,
+                "from_url": "https:\/\/bliqphotonics.com\/",
+                "service_icon": "https:\/\/bliqphotonics.com\/wp-content\/uploads\/2021\/10\/cropped-Thumbnail-bliq-180x180.png",
+                "id": 3,
+                "original_url": "https:\/\/bliqphotonics.com\/",
+                "fallback": "Bliq Photonics: Home – Bliq Photonics",
+                "text": "Bliq photonics designs volumetric multiphoton, confocal, super-resolution microscopes for neuroscience researchers especially interested in in vivo imaging.",
+                "title": "Home – Bliq Photonics",
+                "title_link": "https:\/\/bliqphotonics.com\/",
+                "service_name": "Bliq Photonics",
+                "fields": [
+                    {
+                        "value": "6 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BKL6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Greetings! For efficient investigation in large samples at cellular resolution, consider the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bliqphotonics.com\/solutions\/2p-bessel-light-sheet\/",
+                                "text": "2P Bessel Light Sheet System"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from Bliq Photonics. Our light sheet system offers:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Extended FOV without compromising axial resolution"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reduced shadowing artifacts that can compromise data"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Increased penetration depth with reduced phototoxicity and photodamage"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nHere is a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/pugK6LtGdmY?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9f6uJGAPJnhwVLFdK5gQ8B3hNKA4pww4JvMa5v6kbri5xS6vVkzWNmOG-_ROlTAhtFHZq5",
+                                "text": "short video"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/5186881.fs1.hubspotusercontent-na1.net\/hubfs\/5186881\/Case%20study\/Case%20Study%20-%20Light%20sheet%20microscopy.pdf",
+                                "text": "case study"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that presents the system in action and highlights its utility for 3D imaging in the brain. Please feel free to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bliqphotonics.com\/",
+                                "text": "connect"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with us - we’d be happy to learn more about your imaging applications and how we can be of help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

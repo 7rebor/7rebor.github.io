@@ -1,0 +1,113 @@
+[
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1693921775.671729",
+        "client_msg_id": "0d462354-4897-4414-a803-9d8f5ef5a7c8",
+        "text": "Hi All, here is the link to Zoom meeting tomorrow 09\/06, 10am EST ( NYC time)\nTopic: Wildsheet meeting 09\/06\nTime: Sep 6, 2023 10:00 AM Eastern Time (US and Canada)\n\nJoin Zoom Meeting\n<https:\/\/mssm.zoom.us\/j\/88450212615?pwd=SHFMeWhLV1pjalpOd3hzcGQ1NFRSQT09>\n\nMeeting ID: 884 5021 2615\nPasscode: 806765",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8jIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, here is the link to Zoom meeting tomorrow 09\/06, 10am EST ( NYC time)\nTopic: Wildsheet meeting 09\/06\nTime: Sep 6, 2023 10:00 AM Eastern Time (US and Canada)\n\nJoin Zoom Meeting\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mssm.zoom.us\/j\/88450212615?pwd=SHFMeWhLV1pjalpOd3hzcGQ1NFRSQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMeeting ID: 884 5021 2615\nPasscode: 806765"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1693932677.137389",
+        "client_msg_id": "38daaeea-349a-44f8-b9f9-6391b1171d96",
+        "text": "Great:tada:! Thanks Katarzyna! See you tomorrow (3 pm for UK people..); spoiler alert: Katarzyna has some very interesting data about clearing agents used in Fast3D Clear\/Lifecanvas protocols..!!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Thanks Katarzyna! See you tomorrow (3 pm for UK people..); spoiler alert: Katarzyna has some very interesting data about clearing agents used in Fast3D Clear\/Lifecanvas protocols..!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

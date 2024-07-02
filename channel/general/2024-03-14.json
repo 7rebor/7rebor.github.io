@@ -1,0 +1,179 @@
+[
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1710430265.264879",
+        "client_msg_id": "be006ce8-106d-45b8-9210-b092c2680320",
+        "text": "Does anyone have a direct comparison to the BLAZE from Miltenyi? Leaving the support aside, which has the better software?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706875498.373419",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y3ndD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have a direct comparison to the BLAZE from Miltenyi? Leaving the support aside, which has the better software?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04UTRSQXNE",
+        "type": "message",
+        "ts": "1710430773.026149",
+        "client_msg_id": "5614b9f8-adf0-4c49-88d1-58513ac179a9",
+        "text": "That would be very interesting to see! Unfortunately I've only tried (microscope and software) the UMII and the non-AxL CTLS... Would <@U01GHGN71UL> happen to have compared the new AxL CTLS to the UMII at the demo? :blush:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ef732a54ec22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4992512058769_ef732a54ec2204fdabcc_72.jpg",
+            "first_name": "Sunny",
+            "real_name": "Sunny Keqing Dai",
+            "display_name": "Sunny",
+            "team": "T01FQQGKPLH",
+            "name": "keqingdai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706875498.373419",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e9aFy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would be very interesting to see! Unfortunately I've only tried (microscope and software) the UMII and the non-AxL CTLS... Would "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01GHGN71UL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " happen to have compared the new AxL CTLS to the UMII at the demo? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1710431131.933859",
+        "client_msg_id": "e5ec60e0-250f-4792-8b51-cb46a433e586",
+        "text": "However, the UMII is older, the latest development from Lavision (now Millteyi) is the BLAZE with Fast Imaging Mode",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706875498.373419",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KO2i3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "However, the UMII is older, the latest development from Lavision (now Millteyi) is the BLAZE with Fast Imaging Mode"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04UTRSQXNE",
+        "type": "message",
+        "ts": "1710431280.525379",
+        "edited": {
+            "user": "U04UTRSQXNE",
+            "ts": "1710431478.000000"
+        },
+        "client_msg_id": "27b2ee6f-2900-4085-b5fc-28d17aaa9065",
+        "text": "I understand that, it's just they have the UMII at Francis Crick's Institute (according to the website at least). I wonder if the new light speed software from is used though!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ef732a54ec22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4992512058769_ef732a54ec2204fdabcc_72.jpg",
+            "first_name": "Sunny",
+            "real_name": "Sunny Keqing Dai",
+            "display_name": "Sunny",
+            "team": "T01FQQGKPLH",
+            "name": "keqingdai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706875498.373419",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lv0m\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I understand that, it's just they have the UMII at Francis Crick's Institute (according to the website at least). I wonder if the new light speed software from is used though!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

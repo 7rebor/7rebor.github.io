@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U01HSB5D05V",
+        "type": "message",
+        "ts": "1645719658.175599",
+        "client_msg_id": "2fcbc0e1-2a66-4a51-a3cd-2a9f3c52ef50",
+        "text": "Thanks for the great presentation <@U01HDFX11PT>!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "7d293ecf208e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-12\/1877175095040_7d293ecf208e2a81f200_72.jpg",
+            "first_name": "Jan",
+            "real_name": "Jan Huisken",
+            "display_name": "Jan Huisken",
+            "team": "T01FQQGKPLH",
+            "name": "jhuisken",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1645621190.677719",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the great presentation "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01HDFX11PT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

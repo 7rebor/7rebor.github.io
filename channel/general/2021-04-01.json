@@ -1,0 +1,482 @@
+[
+    {
+        "text": "I agree with Ted; <@U01G21ASDAL> see the quick drawing to try explaing the not stripes not converging to the center; we are actually using a full width light-sheet (100%) and the showed image is a fusion of 2 images (1 acquired with Left L-sheets, 1 with Right Sheets , + blending in the middle); no clear ideas how the UMII sheets are made (for sure are statitcs and I think there are 3 cilindrical lenses + rotational slits to change NA\/thickness); I m even more convnced I need to work on the sample prep and maybe think to another L-sheet system..",
+        "files": [
+            {
+                "id": "F01TEB02Y57",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01GHGN71UL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mh=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with Ted; "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01G21ASDAL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " see the quick drawing to try explaing the not stripes not converging to the center; we are actually using a full width light-sheet (100%) and the showed image is a fusion of 2 images (1 acquired with Left L-sheets, 1 with Right Sheets , + blending in the middle); no clear ideas how the UMII sheets are made (for sure are statitcs and I think there are 3 cilindrical lenses + rotational slits to change NA\/thickness); I m even more convnced I need to work on the sample prep and maybe think to another L-sheet system.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1617272823.000100",
+        "thread_ts": "1616604312.006000",
+        "parent_user_id": "U01GHGN71UL"
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1617273039.000300",
+        "client_msg_id": "0650a666-b919-441b-8329-1e0730d24f10",
+        "text": "Thanks! In case I need it, I ll contact you!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616922389.011900",
+        "parent_user_id": "U01K5NHA0R0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! In case I need it, I ll contact you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01JJAUHS1H",
+        "type": "message",
+        "ts": "1617283832.000600",
+        "client_msg_id": "43c999c3-cab9-4d23-8124-fa46b4f87801",
+        "text": "Hello Drew,",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "edd46826ed68",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-12\/1630368717715_edd46826ed68a7a117d0_72.png",
+            "first_name": "",
+            "real_name": "Ted Usdin",
+            "display_name": "Ted Usdin",
+            "team": "T01FQQGKPLH",
+            "name": "nihusdin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V15l7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Drew,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01JJAUHS1H",
+        "type": "message",
+        "ts": "1617284009.003000",
+        "client_msg_id": "74631034-5cce-46fc-94e3-ce5f0e784cf7",
+        "text": "Welcome. You may be the perfect person to address questions about which of the limitations\/challenges with the UMII were addressed with the the Blaze. Specifically, how easy is it now to align the light sheets? How well aligned can they get? How much larger a specimen does it hold. Is the image quality significantly better?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "edd46826ed68",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-12\/1630368717715_edd46826ed68a7a117d0_72.png",
+            "first_name": "",
+            "real_name": "Ted Usdin",
+            "display_name": "Ted Usdin",
+            "team": "T01FQQGKPLH",
+            "name": "nihusdin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617284009.003000",
+        "reply_count": 6,
+        "reply_users_count": 1,
+        "latest_reply": "1617302742.004100",
+        "reply_users": [
+            "U01TNUSPHK2"
+        ],
+        "replies": [
+            {
+                "user": "U01TNUSPHK2",
+                "ts": "1617301961.003100"
+            },
+            {
+                "user": "U01TNUSPHK2",
+                "ts": "1617302067.003300"
+            },
+            {
+                "user": "U01TNUSPHK2",
+                "ts": "1617302155.003500"
+            },
+            {
+                "user": "U01TNUSPHK2",
+                "ts": "1617302297.003700"
+            },
+            {
+                "user": "U01TNUSPHK2",
+                "ts": "1617302544.003900"
+            },
+            {
+                "user": "U01TNUSPHK2",
+                "ts": "1617302742.004100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome. You may be the perfect person to address questions about which of the limitations\/challenges with the UMII were addressed with the the Blaze. Specifically, how easy is it now to align the light sheets? How well aligned can they get? How much larger a specimen does it hold. Is the image quality significantly better?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01TNUSPHK2",
+        "type": "message",
+        "ts": "1617301961.003100",
+        "client_msg_id": "41c035d5-3b8b-44bb-b632-7c5e2bf766c8",
+        "text": "2 caveats to my assessment: I'm only in my second week of using the Blaze system and the UMII I previously used was a zoom-body system (though I have had some experience with the infinity-corrected optics). But the image quality is noticeably improved likely due to higher quality objectives.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6e74d1fbfa71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1923353890436_6e74d1fbfa71525db779_72.png",
+            "first_name": "",
+            "real_name": "Drew Friedmann",
+            "display_name": "Drew Friedmann",
+            "team": "T01FQQGKPLH",
+            "name": "dfriedmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617284009.003000",
+        "parent_user_id": "U01JJAUHS1H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2 caveats to my assessment: I'm only in my second week of using the Blaze system and the UMII I previously used was a zoom-body system (though I have had some experience with the infinity-corrected optics). But the image quality is noticeably improved likely due to higher quality objectives."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01TNUSPHK2",
+        "type": "message",
+        "ts": "1617302067.003300",
+        "client_msg_id": "ad42c53d-472b-407c-bd38-8222d63bf04c",
+        "text": "Sheet alignments in Z are easily done with knobs under the main body of the scope now. Y positioning is locked-- ours is nearly centered, but I saw another system with poor Y-alignment.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6e74d1fbfa71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1923353890436_6e74d1fbfa71525db779_72.png",
+            "first_name": "",
+            "real_name": "Drew Friedmann",
+            "display_name": "Drew Friedmann",
+            "team": "T01FQQGKPLH",
+            "name": "dfriedmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617284009.003000",
+        "parent_user_id": "U01JJAUHS1H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n8Gt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sheet alignments in Z are easily done with knobs under the main body of the scope now. Y positioning is locked-- ours is nearly centered, but I saw another system with poor Y-alignment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01TNUSPHK2",
+        "type": "message",
+        "ts": "1617302155.003500",
+        "client_msg_id": "a7f3f7cc-a426-46ab-bda1-6031648b760a",
+        "text": "Focal distance is still non-adjustable for individual beams like on the UMII and it is pretty dramatically off. I'm hoping this can get fixed.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6e74d1fbfa71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1923353890436_6e74d1fbfa71525db779_72.png",
+            "first_name": "",
+            "real_name": "Drew Friedmann",
+            "display_name": "Drew Friedmann",
+            "team": "T01FQQGKPLH",
+            "name": "dfriedmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617284009.003000",
+        "parent_user_id": "U01JJAUHS1H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Focal distance is still non-adjustable for individual beams like on the UMII and it is pretty dramatically off. I'm hoping this can get fixed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01TNUSPHK2",
+        "type": "message",
+        "ts": "1617302297.003700",
+        "client_msg_id": "9a8a3f81-a07e-49af-b062-7063050aa47b",
+        "text": "The lightsheet appears to not be perfectly coplanar with the camera-- approx. 0.58 degrees tilted in Y. But this is only apparent using the 12x objective with the higher NA. Also hoping this can get fixed.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6e74d1fbfa71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1923353890436_6e74d1fbfa71525db779_72.png",
+            "first_name": "",
+            "real_name": "Drew Friedmann",
+            "display_name": "Drew Friedmann",
+            "team": "T01FQQGKPLH",
+            "name": "dfriedmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617284009.003000",
+        "parent_user_id": "U01JJAUHS1H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QcD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The lightsheet appears to not be perfectly coplanar with the camera-- approx. 0.58 degrees tilted in Y. But this is only apparent using the 12x objective with the higher NA. Also hoping this can get fixed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01TNUSPHK2",
+        "type": "message",
+        "ts": "1617302544.003900",
+        "client_msg_id": "74949676-0414-48e1-bd9a-0b77b6bea4d8",
+        "text": "Sample size can definitely be large-- how large can be limited by chamber size, imaging field of view (XY), and XYZ travel range of the stage. I'm not sure these values are the same on every system.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6e74d1fbfa71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1923353890436_6e74d1fbfa71525db779_72.png",
+            "first_name": "",
+            "real_name": "Drew Friedmann",
+            "display_name": "Drew Friedmann",
+            "team": "T01FQQGKPLH",
+            "name": "dfriedmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617284009.003000",
+        "parent_user_id": "U01JJAUHS1H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oaEYM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sample size can definitely be large-- how large can be limited by chamber size, imaging field of view (XY), and XYZ travel range of the stage. I'm not sure these values are the same on every system."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01TNUSPHK2",
+        "type": "message",
+        "ts": "1617302742.004100",
+        "client_msg_id": "cbf6f5b7-cf93-45de-9cbf-6b0699b28ceb",
+        "text": "But back to image quality-- I'm definitely pleased to have made the switch and would be hard pressed to go back. I believe a bug in the software for controlling DF has also been eliminated so that acquisitions are faster as well. Happy to answer anyone's questions!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6e74d1fbfa71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1923353890436_6e74d1fbfa71525db779_72.png",
+            "first_name": "",
+            "real_name": "Drew Friedmann",
+            "display_name": "Drew Friedmann",
+            "team": "T01FQQGKPLH",
+            "name": "dfriedmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617284009.003000",
+        "parent_user_id": "U01JJAUHS1H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vzLOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But back to image quality-- I'm definitely pleased to have made the switch and would be hard pressed to go back. I believe a bug in the software for controlling DF has also been eliminated so that acquisitions are faster as well. Happy to answer anyone's questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1617325546.004300",
+        "client_msg_id": "30a7441f-9a1b-44ff-adcd-848d1491e931",
+        "text": "This graphic helps.  Thanks <@U01GHGN71UL>.  Does this mean that you have some scattering effects from the lower RHS sheet?  If you see it again you can at least compare the different parts of the solution and the chamber interface.\n\nAre there coatings you can place on the glass to make it less likely to hold little bubbles and the such.  Are there hydrophilic solutions that prevent bubble formation?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616604312.006000",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8=cA6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This graphic helps.  Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01GHGN71UL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".  Does this mean that you have some scattering effects from the lower RHS sheet?  If you see it again you can at least compare the different parts of the solution and the chamber interface.\n\nAre there coatings you can place on the glass to make it less likely to hold little bubbles and the such.  Are there hydrophilic solutions that prevent bubble formation?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

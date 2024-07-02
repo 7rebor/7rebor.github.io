@@ -1,0 +1,127 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1702549094.348459",
+        "client_msg_id": "27e1a7c2-f6fd-4ce7-8646-767977c3b608",
+        "text": "Thanks for instructions! Happy to set rota beween us Admin (or similar) to copy regularly the old material; happy and probably easier to discuss the details in the next Zoom chat!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702057184.740659",
+        "parent_user_id": "U04M5SGCM5J",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KsgX8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for instructions! Happy to set rota beween us Admin (or similar) to copy regularly the old material; happy and probably easier to discuss the details in the next Zoom chat!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1702549273.250749",
+        "client_msg_id": "7ff2239c-8469-42ff-8d0a-c8455fcf8ec8",
+        "text": "I don`t know anything about this company, but I like to see the need of Light-sheet and clearing skills.... <https:\/\/career.gubra.dk\/ad\/scientist-in-3d-imaging\/jdzfsw>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702549273.250749",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1704190831.434119",
+        "reply_users": [
+            "U058WJ0Q4RG",
+            "U01GHGN71UL",
+            "U04M5SGCM5J",
+            "U04UTRSQXNE"
+        ],
+        "replies": [
+            {
+                "user": "U058WJ0Q4RG",
+                "ts": "1703160121.258359"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1703166972.500639"
+            },
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1704185567.915709"
+            },
+            {
+                "user": "U04UTRSQXNE",
+                "ts": "1704190831.434119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/career.gubra.dk\/ad\/scientist-in-3d-imaging\/jdzfsw",
+                "service_icon": "https:\/\/career.gubra.dk\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/career.gubra.dk\/ad\/scientist-in-3d-imaging\/jdzfsw",
+                "fallback": "Scientist in 3D imaging",
+                "text": "Gubra is looking for a research scientist to join our rapidly growing 3D Imaging department. Using whole organ light sheet microscopy, we are working with biotech and pharma companies across the world",
+                "title": "Scientist in 3D imaging",
+                "title_link": "https:\/\/career.gubra.dk\/ad\/scientist-in-3d-imaging\/jdzfsw",
+                "service_name": "career.gubra.dk"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sp7ll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don`t know anything about this company, but I like to see the need of Light-sheet and clearing skills.... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/career.gubra.dk\/ad\/scientist-in-3d-imaging\/jdzfsw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

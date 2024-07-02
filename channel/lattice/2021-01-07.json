@@ -1,0 +1,316 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01HDFX11PT",
+        "text": "<@U01HDFX11PT> has joined the channel",
+        "type": "message",
+        "ts": "1610035632.000200"
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1610035861.002500",
+        "client_msg_id": "def24521-cd18-449d-94d0-095b43733bab",
+        "text": "I'll kick off the lattice channel: I have a small number of resources and user guides for the 3i Lattice LightSheet available at the bottom of the page here <https:\/\/warwick.ac.uk\/camdu\/training> as we all know, SlideBook changes frequently so don't hesitate to call out inconsistencies\/changes that need to be made",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Training Materials",
+                "title_link": "https:\/\/warwick.ac.uk\/camdu\/training",
+                "text": "Here's where your training materials live.",
+                "fallback": "Training Materials",
+                "from_url": "https:\/\/warwick.ac.uk\/camdu\/training",
+                "service_icon": "https:\/\/d36jn9qou1tztq.cloudfront.net\/static_war\/render\/id7\/images\/apple-touch-icon-57x57.png",
+                "service_name": "warwick.ac.uk",
+                "id": 1,
+                "original_url": "https:\/\/warwick.ac.uk\/camdu\/training"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OaT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll kick off the lattice channel: I have a small number of resources and user guides for the 3i Lattice LightSheet available at the bottom of the page here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/warwick.ac.uk\/camdu\/training"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as we all know, SlideBook changes frequently so don't hesitate to call out inconsistencies\/changes that need to be made"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01J3L7PL4A",
+                    "U01GMRWNLGZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1610036084.003300",
+        "client_msg_id": "5c0fccb4-d629-4e2c-a4f3-39206dd4ae7a",
+        "text": "<@U01HDFX11PT>, these are wonderful.  I especially love the deck of cards example.  Are these in the collated resources mentioned in one of the talks yesterday?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1610036084.003300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1610036253.003400",
+        "reply_users": [
+            "U01HDFX11PT"
+        ],
+        "replies": [
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1610036253.003400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1610036253.003400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y+Ij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01HDFX11PT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", these are wonderful.  I especially love the deck of cards example.  Are these in the collated resources mentioned in one of the talks yesterday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1610036253.003400",
+        "client_msg_id": "57f0fedb-e621-48e0-a47e-a36315ca6330",
+        "text": "Thanks, I'll admit the cards bit was 'borrowed'. I doubt they're on a resource list yet but I'll look into getting them there if they'd be useful",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1610036084.003300",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, I'll admit the cards bit was 'borrowed'. I doubt they're on a resource list yet but I'll look into getting them there if they'd be useful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01H3QDBEGY",
+        "type": "message",
+        "ts": "1610036898.006800",
+        "client_msg_id": "3eefe96f-beda-436a-8404-fd0c54836016",
+        "text": "Thank you <@U01HDFX11PT> these resources are super helpful! <@U01J3L7PL4A> could these be added to the RMS list of resources? :smiley:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a05a27bf7ce8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1557871841974_a05a27bf7ce833e05a41_72.jpg",
+            "first_name": "Dee",
+            "real_name": "Dee Kavanagh",
+            "display_name": "Dee Kavanagh",
+            "team": "T01FQQGKPLH",
+            "name": "d.m.kavanagh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1610036898.006800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1610545999.011800",
+        "reply_users": [
+            "U01J3L7PL4A",
+            "U01H3QDBEGY"
+        ],
+        "replies": [
+            {
+                "user": "U01J3L7PL4A",
+                "ts": "1610038142.007100"
+            },
+            {
+                "user": "U01H3QDBEGY",
+                "ts": "1610123373.001500"
+            },
+            {
+                "user": "U01J3L7PL4A",
+                "ts": "1610545999.011800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMrXN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01HDFX11PT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " these resources are super helpful! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01J3L7PL4A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could these be added to the RMS list of resources? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01J3L7PL4A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01J3L7PL4A",
+        "text": "<@U01J3L7PL4A> has joined the channel",
+        "inviter": "U01H3QDBEGY",
+        "type": "message",
+        "ts": "1610036903.007000"
+    },
+    {
+        "user": "U01J3L7PL4A",
+        "type": "message",
+        "ts": "1610038142.007100",
+        "client_msg_id": "5bffe93c-80ff-4c26-b4e3-625235151643",
+        "text": "Yes, these are fantastic - I'll get them online very soon",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gf355a5f2263",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f355a5f22634850c7addf5db1b092228.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Georgina Fletcher",
+            "display_name": "Georgina Fletcher",
+            "team": "T01FQQGKPLH",
+            "name": "georgina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1610036898.006800",
+        "parent_user_id": "U01H3QDBEGY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lMZz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, these are fantastic - I'll get them online very soon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1641914919.017700",
+        "client_msg_id": "ae7815ec-2adf-432c-9d76-403a55f43cce",
+        "text": "Dear Pablo and Nicolas,\nthanks all for the veeery precious feedback! I`ll start testing again the sample using the advices of single-beam\/raw data; I`ll let you know if I can characterize better the issue (I`m also in contact with Miltenyi).  PS: I also noticed that is “doubling” is not constant in Y and Z; seems more pronounced on the sample side far from the detection lens.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SYTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear Pablo and Nicolas,\nthanks all for the veeery precious feedback! I`ll start testing again the sample using the advices of single-beam\/raw data; I`ll let you know if I can characterize better the issue (I`m also in contact with Miltenyi).  PS: I also noticed that is “doubling” is not constant in Y and Z; seems more pronounced on the sample side far from the detection lens."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

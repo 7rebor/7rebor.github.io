@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1687424541.896019",
+        "client_msg_id": "117858f9-fa87-46ca-9f7b-e104ccee9e92",
+        "text": "Hi Veronika, in theory yes, we can record it; but, I`ll prefer to ask all the participants if they agree; if yes, I`ll be happy to share the video recorded; cheers",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686910432.154599",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rS4+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Veronika, in theory yes, we can record it; but, I`ll prefer to ask all the participants if they agree; if yes, I`ll be happy to share the video recorded; cheers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02L7JK42A3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

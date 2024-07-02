@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U01J1KG0MK4",
+        "type": "message",
+        "ts": "1716995589.706419",
+        "client_msg_id": "c997c021-32d3-489d-9a0f-5053820c8bee",
+        "text": "Great question! We have this come up often. Lightsheet pros: faster (obvi), simpler acquisition once you know it will work (usually have chosen objective), dual side imaging, can orient sample any way for acquisition. SDC pros: users often more familiar with operation and software, no mounting complications, easier set-up and sample finding. We also have this conversation about lightsheet vs. Multi-Photon imaging. What else?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g864cc411cdd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/864cc411cdde7d3514da4ed12f44fbf0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Jenny Schafer",
+            "display_name": "Jenny Schafer",
+            "team": "T01FQQGKPLH",
+            "name": "jenny.c.schafer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716892719.537919",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RbV7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great question! We have this come up often. Lightsheet pros: faster (obvi), simpler acquisition once you know it will work (usually have chosen objective), dual side imaging, can orient sample any way for acquisition. SDC pros: users often more familiar with operation and software, no mounting complications, easier set-up and sample finding. We also have this conversation about lightsheet vs. Multi-Photon imaging. What else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1717020196.210709",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1717056171.000000"
+        },
+        "client_msg_id": "3dbe5e5b-25dc-4ce4-af58-f154ed658ba7",
+        "text": "For cleared tissue? Does spinning disc confocal take good images deep in to the sample? I have no experience with spinning disc confocal at all, so I'd be interested to hear more. Any correction for high RI media as is implemented for lightsheet microscopes? Working distance of objectives usually not great for confocal microscopes, as designed for imaging flat mount samples like slides.\n\nMy comments are more like open discussion points as I've no experience :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716892719.537919",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c7OeX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For cleared tissue? Does spinning disc confocal take good images deep in to the sample? I have no experience with spinning disc confocal at all, so I'd be interested to hear more. Any correction for high RI media as is implemented for lightsheet microscopes? Working distance of objectives usually not great for confocal microscopes, as designed for imaging flat mount samples like slides.\n\nMy comments are more like open discussion points as I've no experience "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

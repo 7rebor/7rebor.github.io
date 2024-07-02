@@ -1,0 +1,125 @@
+[
+    {
+        "user": "U01KNFWM9L7",
+        "type": "message",
+        "ts": "1612426558.008900",
+        "client_msg_id": "7a856a0f-5374-4323-9629-96e7523f30c8",
+        "text": "Hi all,",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gff4eee641a1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ff4eee641a1803a2e493a2fcf91f2e43.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Philippe Girard",
+            "display_name": "Philippe Girard",
+            "team": "T01FQQGKPLH",
+            "name": "philippe.girard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01KNFWM9L7",
+        "type": "message",
+        "ts": "1612426677.011000",
+        "client_msg_id": "6db071ba-b980-403b-a63e-94d24c807367",
+        "text": "I am Philippe Girard and I am working at the Institut Jacques Monod in Paris. I have developed home-made DSLM-based microscope and I am using it for studying the biomechanics in the development of organisms and cell aggregates.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gff4eee641a1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ff4eee641a1803a2e493a2fcf91f2e43.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Philippe Girard",
+            "display_name": "Philippe Girard",
+            "team": "T01FQQGKPLH",
+            "name": "philippe.girard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X47",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am Philippe Girard and I am working at the Institut Jacques Monod in Paris. I have developed home-made DSLM-based microscope and I am using it for studying the biomechanics in the development of organisms and cell aggregates."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01KNFWM9L7",
+        "type": "message",
+        "ts": "1612426791.012000",
+        "client_msg_id": "4de7b989-dcea-47d5-a812-9fd8b407643c",
+        "text": "I am very happy to join to this Slack and to discuss about light-sheet",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gff4eee641a1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ff4eee641a1803a2e493a2fcf91f2e43.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Philippe Girard",
+            "display_name": "Philippe Girard",
+            "team": "T01FQQGKPLH",
+            "name": "philippe.girard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XXvUZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am very happy to join to this Slack and to discuss about light-sheet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01J3L7PL4A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1682669140.556509",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1682669163.000000"
+        },
+        "client_msg_id": "6dd68f53-2242-4aeb-bc4b-deb2196fd057",
+        "text": "Hi Helene :slightly_smiling_face:,\n\nWe recently purchased a 3i CTLS for cleared tissue samples (installation in a few weeks). And we demoed a Bruker\/Luxendo LCS in January.\n\nI'd also be keen to hear what people say. I have only personally tried the Bruker\/Luxendo LCS software, which I thought was quite intuitive apart from there is no overview image of the acquisition (i.e. it doesn't show each tile and stack across the tissue as a grid, you have to imagine it).\n\nI have also seen the 3i CTLS and Miltenyi Biotec Ultramicroscope software, but only for a few hours. Maybe you could contact some manufacturers for a remote session? Saves having to get the microscope shipped out to you for a demo.\n\nThe usability of the systems in terms of alignment and sample mounting is similar. LCS is very easy as you just immerse the sample and press it down with a lid to keep the tissue in place. CTLS used glue mostly to keep samples on the 3D printed parts, but they are always developing new mounting methods. Miltenyi mounting was similar too I think.\n\nI'm aware of many cleared tissue lightsheet microscopes when I was doing my research, but I don't know anything about the usability of their microscopes:\n\n• Bruker\/Luxendo (<https:\/\/www.bruker.com\/en.html>; <mailto:mehtaab.chaudhary@bruker.com|mehtaab.chaudhary@bruker.com>, <mailto:philip.golding@bruker.com|philip.golding@bruker.com>, <mailto:juergen.mayer@bruker.com|juergen.mayer@bruker.com>)\n• Intelligent Imaging Innovations (3i, <https:\/\/www.intelligent-imaging.com\/>; <mailto:bta@intelligent-imaging.com|bta@intelligent-imaging.com>, <mailto:daniel.vonwangenheim@intelligent-imaging.com|daniel.vonwangenheim@intelligent-imaging.com>, <mailto:nicole@intelligent-imaging.com|nicole@intelligent-imaging.com>)\n• M2 lasers (<https:\/\/www.m2lasers.com\/>; <mailto:valentina.loschiavo@m2lasers.com|valentina.loschiavo@m2lasers.com>)\n• Miltenyi Biotec (<https:\/\/www.miltenyibiotec.com\/GB-en\/>)\n• Zeiss (<https:\/\/www.zeiss.com\/microscopy\/en\/products\/light-microscopes\/light-sheet-microscopes.html>)\n• Olympus Evident\/PhaseView (<https:\/\/www.olympus-lifescience.com\/en\/solutions-based-systems\/alpha3\/>)\n• LifeCanvas Technologies (<https:\/\/lifecanvastech.com\/>)\n• MBF Bioscience (<https:\/\/www.mbfbioscience.com\/products\/clearscope>)\n• Bliq Photonics (<https:\/\/bliqphotonics.com\/solutions\/2p-bessel-light-sheet\/>)",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682437162.297399",
+        "parent_user_id": "U01JN9SDP5X",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.bruker.com\/en.html",
+                "image_url": "https:\/\/www.bruker.com\/en\/_jcr_content.fallback-img.jpg\/26be7c37-093d-40df-b727-2af00760e598\/adobestock-314129906.jpg",
+                "image_width": 3840,
+                "image_height": 2560,
+                "image_bytes": 517854,
+                "service_icon": "https:\/\/www.bruker.com\/etc.clientlibs\/bruker\/clientlibs\/clientlib-favicons\/resources\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bruker.com\/en.html",
+                "fallback": "High-Value Life Science and Material Research and Diagnostics Solutions",
+                "text": "Bruker's differentiated high-value life science research and diagnostics solutions enable scientists to make breakthrough discoveries and develop new applications that improve the quality of human life. Bruker’s high-performance scientific instruments and high-value analytical and diagnostic solutions enable scientists to explore life and materials at molecular, cellular and microscopic levels.",
+                "title": "High-Value Life Science and Material Research and Diagnostics Solutions",
+                "title_link": "https:\/\/www.bruker.com\/en.html",
+                "service_name": "bruker.com"
+            },
+            {
+                "from_url": "https:\/\/www.intelligent-imaging.com\/",
+                "service_icon": "https:\/\/www.intelligent-imaging.com\/wp-content\/uploads\/2018\/09\/cropped-favicon-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/www.intelligent-imaging.com\/",
+                "fallback": "3i: Advanced Multimodal Microscopy Systems and Solutions - 3i",
+                "text": "Multimodal fluorescence microscopy systems for live cell, intravital, and cleared applications from spinning disk confocal to super-resolution to multiphoton to lightsheet",
+                "title": "Advanced Multimodal Microscopy Systems and Solutions - 3i",
+                "title_link": "https:\/\/www.intelligent-imaging.com\/",
+                "service_name": "3i",
+                "fields": [
+                    {
+                        "value": "4 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/www.m2lasers.com\/",
+                "service_icon": "https:\/\/www.m2lasers.com\/apple-icon-180x180.png",
+                "id": 3,
+                "original_url": "https:\/\/www.m2lasers.com\/",
+                "fallback": "Home | Ti Sapphire Laser | Mid-IR Laser | THz Laser | M Squared",
+                "text": "A photonics and quantum technology company on a mission to harness the power of light to change the world. Our award-winning laser platforms were designed to help scientists understand more about the world around them",
+                "title": "Home | Ti Sapphire Laser | Mid-IR Laser | THz Laser | M Squared",
+                "title_link": "https:\/\/www.m2lasers.com\/",
+                "service_name": "m2lasers.com"
+            },
+            {
+                "from_url": "https:\/\/www.miltenyibiotec.com\/GB-en\/",
+                "service_icon": "https:\/\/www.miltenyibiotec.com\/assets\/images\/Miltenyi_logo_180x180.png",
+                "id": 4,
+                "original_url": "https:\/\/www.miltenyibiotec.com\/GB-en\/",
+                "fallback": "Miltenyi Biotec | Biotechnology Company | Miltenyi Biotec | Great Britain",
+                "text": "Miltenyi Biotec offers research- and clinical-grade products for sample preparation, cell separation, flow cytometry, and cell culture applications. | Great Britain",
+                "title": "Miltenyi Biotec | Biotechnology Company | Miltenyi Biotec | Great Britain",
+                "title_link": "https:\/\/www.miltenyibiotec.com\/GB-en\/",
+                "service_name": "miltenyibiotec.com"
+            },
+            {
+                "from_url": "https:\/\/www.zeiss.com\/microscopy\/en\/products\/light-microscopes\/light-sheet-microscopes.html",
+                "image_url": "https:\/\/www.zeiss.com\/content\/dam\/z\/rms\/reference-master\/products\/light\/light-sheet\/lattice-lightsheet-7\/applications\/lazy-background_c-elegance-embrio_3.jpg",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 127650,
+                "service_icon": "https:\/\/www.zeiss.com\/etc.clientlibs\/zeiss-aem-app\/jupiter\/clientlibs\/jupiter-components.app\/resources\/assets\/favicons\/apple-touch-icon-144x144-precomposed.png",
+                "id": 5,
+                "original_url": "https:\/\/www.zeiss.com\/microscopy\/en\/products\/light-microscopes\/light-sheet-microscopes.html",
+                "fallback": "Light Sheet Microscopes",
+                "text": "Life science research can place high demands on your imaging capabilities: Sometimes you need to image whole living model organisms, tissues and cells as they develop.",
+                "title": "Light Sheet Microscopes",
+                "title_link": "https:\/\/www.zeiss.com\/microscopy\/en\/products\/light-microscopes\/light-sheet-microscopes.html",
+                "service_name": "zeiss.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OW01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Helene "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nWe recently purchased a 3i CTLS for cleared tissue samples (installation in a few weeks). And we demoed a Bruker\/Luxendo LCS in January.\n\nI'd also be keen to hear what people say. I have only personally tried the Bruker\/Luxendo LCS software, which I thought was quite intuitive apart from there is no overview image of the acquisition (i.e. it doesn't show each tile and stack across the tissue as a grid, you have to imagine it).\n\nI have also seen the 3i CTLS and Miltenyi Biotec Ultramicroscope software, but only for a few hours. Maybe you could contact some manufacturers for a remote session? Saves having to get the microscope shipped out to you for a demo.\n\nThe usability of the systems in terms of alignment and sample mounting is similar. LCS is very easy as you just immerse the sample and press it down with a lid to keep the tissue in place. CTLS used glue mostly to keep samples on the 3D printed parts, but they are always developing new mounting methods. Miltenyi mounting was similar too I think.\n\nI'm aware of many cleared tissue lightsheet microscopes when I was doing my research, but I don't know anything about the usability of their microscopes:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bruker\/Luxendo ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.bruker.com\/en.html"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "; "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:mehtaab.chaudhary@bruker.com",
+                                        "text": "mehtaab.chaudhary@bruker.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:philip.golding@bruker.com",
+                                        "text": "philip.golding@bruker.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:juergen.mayer@bruker.com",
+                                        "text": "juergen.mayer@bruker.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intelligent Imaging Innovations (3i, "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.intelligent-imaging.com\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "; "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:bta@intelligent-imaging.com",
+                                        "text": "bta@intelligent-imaging.com",
+                                        "unsafe": true
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:daniel.vonwangenheim@intelligent-imaging.com",
+                                        "text": "daniel.vonwangenheim@intelligent-imaging.com",
+                                        "unsafe": true
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:nicole@intelligent-imaging.com",
+                                        "text": "nicole@intelligent-imaging.com",
+                                        "unsafe": true
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "M2 lasers ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.m2lasers.com\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "; "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:valentina.loschiavo@m2lasers.com",
+                                        "text": "valentina.loschiavo@m2lasers.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Miltenyi Biotec ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.miltenyibiotec.com\/GB-en\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Zeiss ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.zeiss.com\/microscopy\/en\/products\/light-microscopes\/light-sheet-microscopes.html"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Olympus Evident\/PhaseView ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.olympus-lifescience.com\/en\/solutions-based-systems\/alpha3\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "LifeCanvas Technologies ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/lifecanvastech.com\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MBF Bioscience ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.mbfbioscience.com\/products\/clearscope"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bliq Photonics ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/bliqphotonics.com\/solutions\/2p-bessel-light-sheet\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

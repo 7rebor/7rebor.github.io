@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U059LQCN1HN",
+        "type": "message",
+        "ts": "1698707103.508599",
+        "client_msg_id": "bd57815c-24ce-4d26-b3d1-18c4a1f2c0e6",
+        "text": "In case anyone here is interested in discussing\/joining an early career group focused on bioimaging, see BINA's new working group, meeting Nov 8th.\nTwitter <https:\/\/x.com\/BioimagingNA\/status\/1719096609223397620?s=20>\nLinkedIn <https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7124861977834770433\/>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "798070bfed71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-05-22\/5326828856608_798070bfed71fa61b19d_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael S. Nelson",
+            "display_name": "Michael S. Nelson",
+            "team": "T01FQQGKPLH",
+            "name": "msnelson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/D5622AQEerFastQKmsg\/feedshare-shrink_2048_1536\/0\/1698699467630?e=1701302400&v=beta&t=5q3bFFdZnKFhbgbGD3OWhy24LRlGWMokbPMGs6QMPxI",
+                "image_width": 1080,
+                "image_height": 1080,
+                "image_bytes": 91736,
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7124861977834770433\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 2,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7124861977834770433\/",
+                "fallback": "BioImaging North America on LinkedIn: Join us for a discussion about empowering students, postdocs, and emerging…",
+                "text": "Join us for a discussion about empowering students, postdocs, and emerging professionals to succeed in their bioimaging-related career. The zoom meeting will…",
+                "title": "BioImaging North America on LinkedIn: Join us for a discussion about empowering students, postdocs, and emerging…",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7124861977834770433\/",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fv7Jx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In case anyone here is interested in discussing\/joining an early career group focused on bioimaging, see BINA's new working group, meeting Nov 8th.\nTwitter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/x.com\/BioimagingNA\/status\/1719096609223397620?s=20"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLinkedIn "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:7124861977834770433\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04UTRSQXNE",
+                    "U0595LLHA5S"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01GHGN71UL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

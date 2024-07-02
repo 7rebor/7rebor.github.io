@@ -1,0 +1,342 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1688715827.223689",
+        "client_msg_id": "e2781575-2e0f-41fc-8f30-39386ebc690b",
+        "text": "From my experience so far I don't see much, but I can't say I've done any systematic checks. The 3D-printed holders for the 3i system are very obviously autofluorescent, but never noticed the glue.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GtpO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From my experience so far I don't see much, but I can't say I've done any systematic checks. The 3D-printed holders for the 3i system are very obviously autofluorescent, but never noticed the glue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1688717399.817419",
+        "client_msg_id": "90473fc8-18f2-4205-afe9-f8ec0a4685e0",
+        "text": "yes we know Bondic and using it more often on our Lighsheet 7 system. I also have this spiked sample holder from LaVsion but i dont like they way to spike my sample :wink:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3sY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes we know Bondic and using it more often on our Lighsheet 7 system. I also have this spiked sample holder from LaVsion but i dont like they way to spike my sample "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1688717443.107079",
+        "client_msg_id": "630e850e-7768-4d05-bd7f-e422ec7fb560",
+        "text": "i guess the ideas was to spike an agarose cube with the sample inside",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDR8C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i guess the ideas was to spike an agarose cube with the sample inside"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1688717562.093489",
+        "client_msg_id": "22cc5dea-1b0a-4b7a-bf0b-e66825be3628",
+        "text": "any record available?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1686910432.154599",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "32nq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any record available?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1688718612.143519",
+        "client_msg_id": "8d4e6d25-883e-4069-b930-fe347eadccba",
+        "text": "Do we start new topics here or in the SubChannels? I created a new topic in the channel <#C01LCEJ5H8C|image-processing> , but there are only 52 members, here over 260. Should I post it here again?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1688718612.143519",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1688848112.847209",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U01HDFX11PT"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1688719367.790209"
+            },
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1688848112.847209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6RfH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we start new topics here or in the SubChannels? I created a new topic in the channel "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01LCEJ5H8C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , but there are only 52 members, here over 260. Should I post it here again?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1688719367.790209",
+        "client_msg_id": "ec8ebc99-3c39-4d2d-989f-d12090778488",
+        "text": "It probably doesn't matter where you put it at the moment.\n\nOrganisation is only necessary in Slack if we get a subscription so that messages don't disappear after 90 days, and\/or we get a lot of posts in each channel.\n\nNeither of those are true at the moment, but it would still be best to leave it in <#C01LCEJ5H8C|image-processing> and link it using this message, like this: <https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1688718117684899>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1688718612.143519",
+        "parent_user_id": "U04RCBZLRJT",
+        "attachments": [
+            {
+                "from_url": "https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1688718117684899",
+                "ts": "1688718117.684899",
+                "author_id": "U04RCBZLRJT",
+                "channel_id": "C01LCEJ5H8C",
+                "channel_team": "T01FQQGKPLH",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T01FQQGKPLH",
+                        "channel": "C01LCEJ5H8C",
+                        "ts": "1688718117.684899",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "5Ji",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Dear all,\nI would like to start a discussion about LightSheet Deconvolution. Which workflow do you use? From my point of view there is no solution that covers all modalities. Especially the excitation PSF from the different systems is not calculated optimally.\nI use Hyugens and the Lighsheet Deconvolution in ZEN Blue. Both are not optimal.\nIn my opinion, the left and right light sheet should  be deconvolved separately (with the scatter paramaters ) and then blending is done based on the decon data. The decon in ZEN Blue can only handle already processed light sheets (Max or DFT)) which is not the best way and Huygens can handle left and right separately but then it lacks a reasonable solution for blending both data sets. The BigSticher has a very good solution to use the left and right light sheets (depending on the position in the dataset) but it lacks a reasonable deconvolution.\nYou see a huge topic....."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1688718117684899",
+                "fallback": "[July 7th, 2023 1:21 AM] m.richter: Dear all,\nI would like to start a discussion about LightSheet Deconvolution. Which workflow do you use? From my point of view there is no solution that covers all modalities. Especially the excitation PSF from the different systems is not calculated optimally.\nI use Hyugens and the Lighsheet Deconvolution in ZEN Blue. Both are not optimal.\nIn my opinion, the left and right light sheet should  be deconvolved separately (with the scatter paramaters ) and then blending is done based on the decon data. The decon in ZEN Blue can only handle already processed light sheets (Max or DFT)) which is not the best way and Huygens can handle left and right separately but then it lacks a reasonable solution for blending both data sets. The BigSticher has a very good solution to use the left and right light sheets (depending on the position in the dataset) but it lacks a reasonable deconvolution.\nYou see a huge topic.....",
+                "text": "Dear all,\nI would like to start a discussion about LightSheet Deconvolution. Which workflow do you use? From my point of view there is no solution that covers all modalities. Especially the excitation PSF from the different systems is not calculated optimally.\nI use Hyugens and the Lighsheet Deconvolution in ZEN Blue. Both are not optimal.\nIn my opinion, the left and right light sheet should  be deconvolved separately (with the scatter paramaters ) and then blending is done based on the decon data. The decon in ZEN Blue can only handle already processed light sheets (Max or DFT)) which is not the best way and Huygens can handle left and right separately but then it lacks a reasonable solution for blending both data sets. The BigSticher has a very good solution to use the left and right light sheets (depending on the position in the dataset) but it lacks a reasonable deconvolution.\nYou see a huge topic.....",
+                "author_name": "Matthias Richter",
+                "author_link": "https:\/\/wildsheet.slack.com\/team\/U04RCBZLRJT",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_48.jpg",
+                "author_subname": "Matthias Richter",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sBnM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It probably doesn't matter where you put it at the moment.\n\nOrganisation is only necessary in Slack if we get a subscription so that messages don't disappear after 90 days, and\/or we get a lot of posts in each channel.\n\nNeither of those are true at the moment, but it would still be best to leave it in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01LCEJ5H8C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and link it using this message, like this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1688718117684899"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

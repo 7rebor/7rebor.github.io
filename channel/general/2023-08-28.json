@@ -1,0 +1,280 @@
+[
+    {
+        "user": "U059N2A340Y",
+        "type": "message",
+        "ts": "1693229317.029829",
+        "client_msg_id": "88E5E2D1-2DE8-4D27-8036-A8F27E6B70CA",
+        "text": "Hi All, we have recently installed a LS7 in our core and i was wondering if there are any good videos you recommend teaching how to mount samples.\n\nmany thanks!\nNabanita \n",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gd8ae0f378bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e77cb3afcb22762687a590f0ec6c10a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Nabanita",
+            "real_name": "Nabanita Chatterjee",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "nabanita.chatterjee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1693229317.029829",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1693230836.366809",
+        "reply_users": [
+            "U01HSB5D05V"
+        ],
+        "replies": [
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1693230797.006809"
+            },
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1693230801.466399"
+            },
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1693230836.366809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XAKI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, we have recently installed a LS7 in our core and i was wondering if there are any good videos you recommend teaching how to mount samples.\n\nmany thanks!\nNabanita \n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HSB5D05V",
+        "type": "message",
+        "ts": "1693230797.006809",
+        "client_msg_id": "f23cb7dd-de4d-453c-8887-cbe79757b114",
+        "text": "<https:\/\/huiskenlab.com\/sample-mounting\/>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "7d293ecf208e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-12\/1877175095040_7d293ecf208e2a81f200_72.jpg",
+            "first_name": "Jan",
+            "real_name": "Jan Huisken",
+            "display_name": "Jan Huisken",
+            "team": "T01FQQGKPLH",
+            "name": "jhuisken",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1693229317.029829",
+        "parent_user_id": "U059N2A340Y",
+        "attachments": [
+            {
+                "image_url": "https:\/\/huiskenlab.com\/wp-content\/uploads\/2019\/02\/flamingo-header_sample-mounting.png",
+                "image_width": 2000,
+                "image_height": 500,
+                "image_bytes": 1057489,
+                "from_url": "https:\/\/huiskenlab.com\/sample-mounting\/",
+                "service_icon": "https:\/\/i0.wp.com\/huiskenlab.com\/wp-content\/uploads\/2022\/04\/cropped-cropped-logo_huiskenlab_square.png?fit=180%2C180&amp;ssl=1",
+                "ts": 1551302852,
+                "id": 1,
+                "original_url": "https:\/\/huiskenlab.com\/sample-mounting\/",
+                "fallback": "Huisken Lab: Sample mounting",
+                "text": "Sample mounting strategies have been in the spotlight since the early days of light sheet microscopy. To harness the full potential of the technique and to properly place samples at the intersectio…",
+                "title": "Sample mounting",
+                "title_link": "https:\/\/huiskenlab.com\/sample-mounting\/",
+                "service_name": "Huisken Lab"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AqwM9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/huiskenlab.com\/sample-mounting\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HSB5D05V",
+        "type": "message",
+        "ts": "1693230801.466399",
+        "client_msg_id": "3d8cf33c-6b35-4ca0-90b4-b7f9f8609320",
+        "text": "<https:\/\/www.jove.com\/de\/v\/62741\/light-sheet-microscopy-of-fast-cardiac-dynamics-in-zebrafish-embryos>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "7d293ecf208e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-12\/1877175095040_7d293ecf208e2a81f200_72.jpg",
+            "first_name": "Jan",
+            "real_name": "Jan Huisken",
+            "display_name": "Jan Huisken",
+            "team": "T01FQQGKPLH",
+            "name": "jhuisken",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1693229317.029829",
+        "parent_user_id": "U059N2A340Y",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.jove.com\/de\/v\/62741\/light-sheet-microscopy-of-fast-cardiac-dynamics-in-zebrafish-embryos",
+                "thumb_url": "https:\/\/cloudfront.jove.com\/files\/twitter_images\/62741.jpg",
+                "thumb_width": 210,
+                "thumb_height": 210,
+                "service_icon": "https:\/\/cloudfront.jove.com\/img\/apple-touch-icon.png?v-17",
+                "id": 1,
+                "original_url": "https:\/\/www.jove.com\/de\/v\/62741\/light-sheet-microscopy-of-fast-cardiac-dynamics-in-zebrafish-embryos",
+                "fallback": "Light Sheet Microscopy of Fast Cardiac Dynamics in Zebrafish Embryos | Protocol",
+                "text": "Scientific Video Article | We describe optimized tools to study the zebrafish heart in vivo with light sheet fluorescence microscopy. Specifically, we...",
+                "title": "Light Sheet Microscopy of Fast Cardiac Dynamics in Zebrafish Embryos | Protocol",
+                "title_link": "https:\/\/www.jove.com\/de\/v\/62741\/light-sheet-microscopy-of-fast-cardiac-dynamics-in-zebrafish-embryos",
+                "service_name": "jove.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQRRV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jove.com\/de\/v\/62741\/light-sheet-microscopy-of-fast-cardiac-dynamics-in-zebrafish-embryos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HSB5D05V",
+        "type": "message",
+        "ts": "1693230836.366809",
+        "client_msg_id": "fca023ae-817f-4d1e-8ffd-f8015297c921",
+        "text": "<https:\/\/www.jove.com\/de\/v\/51119\/multilayer-mounting-for-long-term-light-sheet-microscopy-of-zebrafish>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "7d293ecf208e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-12\/1877175095040_7d293ecf208e2a81f200_72.jpg",
+            "first_name": "Jan",
+            "real_name": "Jan Huisken",
+            "display_name": "Jan Huisken",
+            "team": "T01FQQGKPLH",
+            "name": "jhuisken",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1693229317.029829",
+        "parent_user_id": "U059N2A340Y",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.jove.com\/de\/v\/51119\/multilayer-mounting-for-long-term-light-sheet-microscopy-of-zebrafish",
+                "thumb_url": "https:\/\/cloudfront.jove.com\/files\/twitter_images\/51119.jpg",
+                "thumb_width": 210,
+                "thumb_height": 210,
+                "service_icon": "https:\/\/cloudfront.jove.com\/img\/apple-touch-icon.png?v-17",
+                "id": 1,
+                "original_url": "https:\/\/www.jove.com\/de\/v\/51119\/multilayer-mounting-for-long-term-light-sheet-microscopy-of-zebrafish",
+                "fallback": "Multilayer Mounting for Long-term Light Sheet Microscopy of Zebrafish | Protocol",
+                "text": "Scientific Video Article | The development of zebrafish can be followed over days with light sheet microscopy when embryos are embedded in optically clear polymer ...",
+                "title": "Multilayer Mounting for Long-term Light Sheet Microscopy of Zebrafish | Protocol",
+                "title_link": "https:\/\/www.jove.com\/de\/v\/51119\/multilayer-mounting-for-long-term-light-sheet-microscopy-of-zebrafish",
+                "service_name": "jove.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LaL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jove.com\/de\/v\/51119\/multilayer-mounting-for-long-term-light-sheet-microscopy-of-zebrafish"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059N2A340Y",
+        "type": "message",
+        "ts": "1693231256.531689",
+        "client_msg_id": "589FD988-3233-49E6-8008-866F370D781E",
+        "text": "Thank you so much :smiley: ",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gd8ae0f378bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e77cb3afcb22762687a590f0ec6c10a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Nabanita",
+            "real_name": "Nabanita Chatterjee",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "nabanita.chatterjee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AkT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

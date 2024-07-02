@@ -1,0 +1,227 @@
+[
+    {
+        "user": "U04RCBZLRJT",
+        "type": "message",
+        "ts": "1688650685.863839",
+        "client_msg_id": "0d0c4d14-1e16-417d-b171-059408de4ec8",
+        "text": "depends on the Clearing Protocol but I try to place the brains I measure on the Ultramicrscpope in a small bed of cyanoacrylate glue (Superglue). Just enough to hold the brain down in the imaging media bath. In most cases you can then peel out the sample afterwards. The Sample Holder which i use at the Ultramicroscope looks similar. I just add a cover slip between the holder and the sample to protect the sample holder against the glue. The cover slip i fix with a very small magnet to the holder",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "347ac1a0e4a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-03-20\/4979991682036_347ac1a0e4a3ae562b1b_72.jpg",
+            "first_name": "Matthias",
+            "real_name": "Matthias Richter",
+            "display_name": "Matthias Richter",
+            "team": "T01FQQGKPLH",
+            "name": "m.richter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "59T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "depends on the Clearing Protocol but I try to place the brains I measure on the Ultramicrscpope in a small bed of cyanoacrylate glue (Superglue). Just enough to hold the brain down in the imaging media bath. In most cases you can then peel out the sample afterwards. The Sample Holder which i use at the Ultramicroscope looks similar. I just add a cover slip between the holder and the sample to protect the sample holder against the glue. The cover slip i fix with a very small magnet to the holder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "like this, but i dont know if it works on a whole mouse",
+        "files": [
+            {
+                "id": "F05FQTSJ7T7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04RCBZLRJT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like this, but i dont know if it works on a whole mouse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1688650895.800219",
+        "edited": {
+            "user": "U04RCBZLRJT",
+            "ts": "1688651035.000000"
+        },
+        "client_msg_id": "a2c91a20-1e32-4b7f-977b-7dc906706558",
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "This message contains interactive elements.",
+        "files": [
+            {
+                "id": "F05FDQY9HB9",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F05G70L8K6V",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dD00",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we have UMII, they have really nice spike holders for softer samples so you don't have to glue samples. For hard samples like from DISCO methods I just use cap from the big black Eppendorf, its cheap and easy to remove the sample. For whole mouse which i much bigger, I saw in the paper its even possible to mount on UMII but Lifecanvas has a different holder. We probably will end up 3dprinting the bigger holder that can hold the mouse."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1688655174.337179",
+        "client_msg_id": "a5650ac6-609c-4286-8395-b71eab66b14a",
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1688656317.992609",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1688656437.000000"
+        },
+        "client_msg_id": "7f982b4e-f132-45f2-a28c-bd1c85d45acf",
+        "text": "Have you all heard of Bondic? It is great for BABB and CUBIC cleared samples (that I've tested so far, probably everything). It is a UV-curing glue, you put it down then shine UV light at it for 4 seconds (preferably more) and it sets. Most immersion media will soften the glue so that when you are finished the sample comes off the glue and the glue can be peeled off the holder. It is like UV-cured plastic, so good!!\n\n<https:\/\/www.amazon.co.uk\/stores\/BONDICUK\/page\/A8E68F6C-591F-4D36-8B6B-3FDD0FEB396C?ref_=ast_bln>\n\nCyanoacrylate glue can be a bit temperamental because it is sticky straight away, takes a little while to dry, and seems to be very fluorescent (Bondic probably is too, but I've never noticed it affecting the sample much), it also seems to seep in to the sample a bit, which is irreversible. But I've only tried cyanoacrylate once or twice from my limited experience, and moved on to Bondic.\n\nA benefit of Bondic is that you can position samples at odd angles and then set the glue, to fix them in place. That is usually beneficial for getting the right detection axis through the thinnest part (or wherever is best).",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QsD6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you all heard of Bondic? It is great for BABB and CUBIC cleared samples (that I've tested so far, probably everything). It is a UV-curing glue, you put it down then shine UV light at it for 4 seconds (preferably more) and it sets. Most immersion media will soften the glue so that when you are finished the sample comes off the glue and the glue can be peeled off the holder. It is like UV-cured plastic, so good!!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.uk\/stores\/BONDICUK\/page\/A8E68F6C-591F-4D36-8B6B-3FDD0FEB396C?ref_=ast_bln"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCyanoacrylate glue can be a bit temperamental because it is sticky straight away, takes a little while to dry, and seems to be very fluorescent (Bondic probably is too, but I've never noticed it affecting the sample much), it also seems to seep in to the sample a bit, which is irreversible. But I've only tried cyanoacrylate once or twice from my limited experience, and moved on to Bondic.\n\nA benefit of Bondic is that you can position samples at odd angles and then set the glue, to fix them in place. That is usually beneficial for getting the right detection axis through the thinnest part (or wherever is best)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1688657442.175969",
+        "client_msg_id": "31273729-0e75-4bc3-856d-16bcf70a9e8c",
+        "text": "I've heard about it, never tried tho. But is it not highly autofluorescence ? Do you see any background in 488 channel?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1687978771.946619",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've heard about it, never tried tho. But is it not highly autofluorescence ? Do you see any background in 488 channel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

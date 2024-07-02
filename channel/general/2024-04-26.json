@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1714163650.874829",
+        "client_msg_id": "2d416036-aa54-464d-9cb1-856f77d8843a",
+        "text": "There's a seminar happening from Hiroki Ueda (CUBIC inventor), but not specifically on clearing. I wonder if it'll involve any lightsheet and clearing?\n\nPeter Khloen asked me to forward to interested parties! \n\nMRC Prion Unit at UCL Hybrid Seminar: Professor Hiroki Ueda\n\n01 May 2024, 1:00 pm–2:00 pm\n\nTowards Human Systems Biology of Sleep\/Wake Cycles: Phosphorylation Hypothesis of Sleep\n\nTime: May 1, 2024 01:00 PM London\n\nJoin Zoom Meeting\n\n<https:\/\/ucl.zoom.us\/j\/93722370948?pwd=OW5SMUhBeURLVGNCb2xPYmJGb05UUT09|https:\/\/ucl.zoom.us\/j\/93722370948?pwd=OW5SMUhBeURLVGNCb2xPYmJGb05UUT09>\n\nMeeting ID: 937 2237 0948\nPasscode: 277680",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vdyir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's a seminar happening from Hiroki Ueda (CUBIC inventor), but not specifically on clearing. I wonder if it'll involve any lightsheet and clearing?\n\nPeter Khloen asked me to forward to interested parties! \n\nMRC Prion Unit at UCL Hybrid Seminar: Professor Hiroki Ueda\n\n01 May 2024, 1:00 pm–2:00 pm\n\nTowards Human Systems Biology of Sleep\/Wake Cycles: Phosphorylation Hypothesis of Sleep\n\nTime: May 1, 2024 01:00 PM London\n\nJoin Zoom Meeting\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ucl.zoom.us\/j\/93722370948?pwd=OW5SMUhBeURLVGNCb2xPYmJGb05UUT09",
+                                "text": "https:\/\/ucl.zoom.us\/j\/93722370948?pwd=OW5SMUhBeURLVGNCb2xPYmJGb05UUT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMeeting ID: 937 2237 0948\nPasscode: 277680"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U059DSF5VTK",
+                    "U04UTRSQXNE"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

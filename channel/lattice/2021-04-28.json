@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U01JL7SDKF1",
+        "type": "message",
+        "ts": "1619615930.006200",
+        "client_msg_id": "20751e43-ccd3-428e-8a3b-52473da59688",
+        "text": "Hello, I could not attend this happy hour but I was wondering if any conclusion was reached about \"lattice build or buy\" ? Any trend, or poll on the subject ? Thanks for the feedback.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c2a757808fee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-19\/1650698288834_c2a757808fee2b951529_72.jpg",
+            "first_name": "Mathieu",
+            "real_name": "Mathieu Ducros",
+            "display_name": "Mathieu Ducros",
+            "team": "T01FQQGKPLH",
+            "name": "mathieu.ducros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1615319522.002000",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HnWmi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, I could not attend this happy hour but I was wondering if any conclusion was reached about \"lattice build or buy\" ? Any trend, or poll on the subject ? Thanks for the feedback."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01JL7SDKF1",
+        "type": "message",
+        "ts": "1619616479.006400",
+        "client_msg_id": "40b22df7-6083-440e-9c04-ec3b0b89f676",
+        "text": "Hi Dylan, I have a perfusion system installed on my home made lattice scope. I use a peristaltic pump on the input and output tubing. What do you want to know ?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c2a757808fee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-19\/1650698288834_c2a757808fee2b951529_72.jpg",
+            "first_name": "Mathieu",
+            "real_name": "Mathieu Ducros",
+            "display_name": "Mathieu Ducros",
+            "team": "T01FQQGKPLH",
+            "name": "mathieu.ducros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1618573190.006100",
+        "parent_user_id": "U01UDURFVT4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Ep4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Dylan, I have a perfusion system installed on my home made lattice scope. I use a peristaltic pump on the input and output tubing. What do you want to know ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

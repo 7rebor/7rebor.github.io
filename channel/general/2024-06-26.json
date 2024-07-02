@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U01JHBGTV97",
+        "type": "message",
+        "ts": "1719412515.287779",
+        "client_msg_id": "26f7d486-da7f-43fd-a176-8f2f64d06cb1",
+        "text": "We tend to go with the cylindrical lens-based approach because photobleaching scales non-linearly with the laser intensity, and the peak power of a digitally scanned light-sheet can be quite high (especially with pulsed laser sources).\n\nBoth require galvos, but linear galvos are much easier to come by. Especially for ASLM, you need fast galvos, so resonant galvos are preferred. Likewise, you will begin to run into challenges if you are doing large field of view imaging with a digitally scanned light-sheet...\n\nAligning a digitally scanned light-sheet is practically easier in my opinion, since the beam can be evaluated with a shear plate interferometer much more readily.\n\nAs for shadow artifacts, I'm not sure if there has ever been a real quantitative comparison between the two methods. I think you can largely consider them similar in performance. The higher the NA of the illumination beam, the better both methods will work though.\n\nBeing able to tune the size of your field of view, as <@U04M5SGCM5J> mentioned, is a nice advantage of digitally scanned.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2916aba74f5b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-22\/1787312342580_2916aba74f5b02c734ef_72.png",
+            "first_name": "Kevin",
+            "real_name": "Kevin Dean",
+            "display_name": "Kevin Dean",
+            "team": "T01FQQGKPLH",
+            "name": "kevin.dean",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719311304.138789",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xrc9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We tend to go with the cylindrical lens-based approach because photobleaching scales non-linearly with the laser intensity, and the peak power of a digitally scanned light-sheet can be quite high (especially with pulsed laser sources).\n\nBoth require galvos, but linear galvos are much easier to come by. Especially for ASLM, you need fast galvos, so resonant galvos are preferred. Likewise, you will begin to run into challenges if you are doing large field of view imaging with a digitally scanned light-sheet...\n\nAligning a digitally scanned light-sheet is practically easier in my opinion, since the beam can be evaluated with a shear plate interferometer much more readily.\n\nAs for shadow artifacts, I'm not sure if there has ever been a real quantitative comparison between the two methods. I think you can largely consider them similar in performance. The higher the NA of the illumination beam, the better both methods will work though.\n\nBeing able to tune the size of your field of view, as "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04M5SGCM5J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mentioned, is a nice advantage of digitally scanned."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U04RN5N40J2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01GHGN71UL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

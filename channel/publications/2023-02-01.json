@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1675245177.971259",
+        "client_msg_id": "5132eb9e-2252-4b99-95d9-385bb3631911",
+        "text": "Congrats to <@U01HSJG82G7> <@U01GMRWNLGZ> <@U01LT4QDE9W> <@U01JM5FPZ5Y> for their recent paper <https:\/\/www.nature.com\/articles\/s41598-022-26178-y>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.nature.com\/articles\/s41598-022-26178-y",
+                "image_url": "https:\/\/media.springernature.com\/full\/springer-static\/image\/art%3A10.1038%2Fs41598-022-26178-y\/MediaObjects\/41598_2022_26178_Fig1_HTML.png",
+                "image_width": 441,
+                "image_height": 250,
+                "image_bytes": 266269,
+                "service_icon": "https:\/\/www.nature.com\/static\/images\/favicons\/nature\/apple-touch-icon-f39cb19454.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nature.com\/articles\/s41598-022-26178-y",
+                "fallback": "Nature: SPITFIR(e): a supermaneuverable algorithm for fast denoising and deconvolution of 3D fluorescence microscopy images and videos",
+                "text": "Scientific Reports - SPITFIR(e): a supermaneuverable algorithm for fast denoising and deconvolution of 3D fluorescence microscopy images and videos",
+                "title": "SPITFIR(e): a supermaneuverable algorithm for fast denoising and deconvolution of 3D fluorescence microscopy images and videos",
+                "title_link": "https:\/\/www.nature.com\/articles\/s41598-022-26178-y",
+                "service_name": "Nature"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YUCg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01HSJG82G7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01GMRWNLGZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01LT4QDE9W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JM5FPZ5Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for their recent paper "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nature.com\/articles\/s41598-022-26178-y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01GHGN71UL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01JM5FPZ5Y",
+        "text": "<@U01JM5FPZ5Y> has joined the channel",
+        "inviter": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1675245195.534919"
+    }
+]

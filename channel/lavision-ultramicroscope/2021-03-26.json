@@ -1,0 +1,96 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01RXBBJBFH",
+        "text": "<@U01RXBBJBFH> has joined the channel",
+        "type": "message",
+        "ts": "1616761599.000400"
+    },
+    {
+        "user": "U01QXTHLHP0",
+        "type": "message",
+        "ts": "1616780578.000500",
+        "client_msg_id": "64cd13cd-8208-4025-8c26-308e49e27f6e",
+        "text": "Happy to zoom or chat on the phone if that would help further down the line. Good luck with Lavision",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "90f3ff57424b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1867195916070_90f3ff57424bb6fbac5a_72.jpg",
+            "first_name": "Pablo",
+            "real_name": "Pablo Ariel",
+            "display_name": "Pablo Ariel",
+            "team": "T01FQQGKPLH",
+            "name": "pablo_ariel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616005945.010600",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8xE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to zoom or chat on the phone if that would help further down the line. Good luck with Lavision"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1616780618.000700",
+        "client_msg_id": "e23c9986-7792-4d19-8545-77b556d7d375",
+        "text": "HI Werther, I don`t have a clear answer..My last option is:  somehing related to the camera; on another light-sheet using Hamamatsu camera I can see,when SNR is very low, some stripes that proably depend on the read-out order of teh pixel lines and different gain between pixels\/lines; can you maybe just check is you have the same pattern with other samples? Clearing agents?or oven just imaging piece of toothpick in PBS?..Other then that, you can probably ask Lavision for some help.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1615307194.003000",
+        "parent_user_id": "U01HXPBHQBY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HNc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HI Werther, I don`t have a clear answer..My last option is:  somehing related to the camera; on another light-sheet using Hamamatsu camera I can see,when SNR is very low, some stripes that proably depend on the read-out order of teh pixel lines and different gain between pixels\/lines; can you maybe just check is you have the same pattern with other samples? Clearing agents?or oven just imaging piece of toothpick in PBS?..Other then that, you can probably ask Lavision for some help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01SSTAT9PE",
+        "text": "<@U01SSTAT9PE> has joined the channel",
+        "type": "message",
+        "ts": "1616813806.001000"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U05E47A1DV0",
+        "type": "message",
+        "ts": "1706866679.958189",
+        "client_msg_id": "7dd9b746-cab5-44d6-95b7-d9270255842a",
+        "text": "Hi Rob, thanks for answering. Unfortunately the bulk of the data comes from the multiview and the high resolution in z, the latter of which is necessary for the research question I am asking. Dropping to single view helps significantly, but downsampling loses the detail I need (I agree this would be the easiest solution!). The files themselves don’t actually have many tiles, but they have huge z stacks because I am trying to quantify the cross-section of a sample that is difficult to mount. Thanks for the link for the cellpose chunking, I’ll have a look at that and try splitting the tiles as suggested :slightly_smiling_face: .",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g9de2e49bd3a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9de2e49bd3a961c54f215b4289aea398.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Ren",
+            "real_name": "Ren Moon",
+            "display_name": "Ren Moon",
+            "team": "T01FQQGKPLH",
+            "name": "lm840",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706799684.853929",
+        "parent_user_id": "U05E47A1DV0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YYoXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Rob, thanks for answering. Unfortunately the bulk of the data comes from the multiview and the high resolution in z, the latter of which is necessary for the research question I am asking. Dropping to single view helps significantly, but downsampling loses the detail I need (I agree this would be the easiest solution!). The files themselves don’t actually have many tiles, but they have huge z stacks because I am trying to quantify the cross-section of a sample that is difficult to mount. Thanks for the link for the cellpose chunking, I’ll have a look at that and try splitting the tiles as suggested "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

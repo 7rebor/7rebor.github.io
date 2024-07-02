@@ -1,0 +1,208 @@
+[
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1617983373.002200",
+        "client_msg_id": "3fbccbd7-861a-4350-823c-e706fc667031",
+        "text": "Cool LLS viewer from <@U01S4S7DMSS>\n• <http:\/\/minesbioimaging.glitch.me\/|MINES BioImaging Interactive Viewer>\nAlso, see <http:\/\/nano.sdsmt.edu\/lab04.html>\n\n<@U01S4S7DMSS>, would you be able to share any github and the such on how to generate such a cool 3D web interface?  Super cool!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gc7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool LLS viewer from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S4S7DMSS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/minesbioimaging.glitch.me\/",
+                                        "text": "MINES BioImaging Interactive Viewer"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, see "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/nano.sdsmt.edu\/lab04.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S4S7DMSS"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", would you be able to share any github and the such on how to generate such a cool 3D web interface?  Super cool!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01S4S7DMSS",
+        "type": "message",
+        "ts": "1617984232.004800",
+        "client_msg_id": "e185f5d2-6b4a-4f80-a4d3-11d6fa86d498",
+        "text": "<@U01G21ASDAL> Thanks for highlighting! The viewer uses babylon.js and can handle a series of gltf files. Here is a link for glitch which can be edited\/remixed. It's a very early release, but if there's any interest let me know <https:\/\/glitch.com\/edit\/#!\/minesbioimaging>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6aac727f06c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1892591762053_6aac727f06c340999358_72.png",
+            "first_name": "",
+            "real_name": "Brandon Scott",
+            "display_name": "Brandon Scott",
+            "team": "T01FQQGKPLH",
+            "name": "brandon.scott",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617984232.004800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617988197.005000",
+        "reply_users": [
+            "U01G21ASDAL"
+        ],
+        "replies": [
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1617988197.005000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617988197.005000",
+        "attachments": [
+            {
+                "title": "Glitch",
+                "title_link": "https:\/\/glitch.com\/edit\/#!\/minesbioimaging",
+                "text": "Combining automated deployment, instant hosting &amp; collaborative editing, Glitch gets you straight to coding so you can build full-stack web apps, fast",
+                "fallback": "Glitch",
+                "thumb_url": "https:\/\/glitch.com\/edit\/images\/logos\/glitch\/social-card@2x.png",
+                "from_url": "https:\/\/glitch.com\/edit\/#!\/minesbioimaging",
+                "thumb_width": 289,
+                "thumb_height": 289,
+                "service_icon": "https:\/\/glitch.com\/apple-touch-icon.png?v=3",
+                "service_name": "glitch.com",
+                "id": 1,
+                "original_url": "https:\/\/glitch.com\/edit\/#!\/minesbioimaging"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVk62",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01G21ASDAL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks for highlighting! The viewer uses babylon.js and can handle a series of gltf files. Here is a link for glitch which can be edited\/remixed. It's a very early release, but if there's any interest let me know "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/glitch.com\/edit\/#!\/minesbioimaging"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1617988197.005000",
+        "client_msg_id": "dabc6f19-365f-4aeb-a069-27596398441e",
+        "text": "Very cool!  I'll take a look at that later.  Thanks",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1617984232.004800",
+        "parent_user_id": "U01S4S7DMSS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Zt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very cool!  I'll take a look at that later.  Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

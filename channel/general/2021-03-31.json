@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U01TNUSPHK2",
+        "type": "message",
+        "ts": "1617217731.016400",
+        "client_msg_id": "67fed5a5-0f89-46d1-bf50-ac1d2619d07d",
+        "text": "Hi all-- I'm Drew, recently a student at Berkeley (using a lattice on zebrafish), then a postdoc with Liqun Luo at Stanford (using a LaVision UMII), and now a scientist at Cajal Neuro in Seattle (using a Blaze). Happy to be a part of this group, thanks to Sam Golden for telling me about it!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6e74d1fbfa71",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-31\/1923353890436_6e74d1fbfa71525db779_72.png",
+            "first_name": "",
+            "real_name": "Drew Friedmann",
+            "display_name": "Drew Friedmann",
+            "team": "T01FQQGKPLH",
+            "name": "dfriedmann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAW0H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all-- I'm Drew, recently a student at Berkeley (using a lattice on zebrafish), then a postdoc with Liqun Luo at Stanford (using a LaVision UMII), and now a scientist at Cajal Neuro in Seattle (using a Blaze). Happy to be a part of this group, thanks to Sam Golden for telling me about it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

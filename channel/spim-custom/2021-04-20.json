@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1618958459.002100",
+        "client_msg_id": "0fa85e4b-f265-462a-9ab5-76f248a35f3e",
+        "text": "I think it's gel shake that might be from resonance between the gel and the zstep size and speed.  I run a session today where I set the shutter delay to ~200ms, and that was enough to remove the issue.  It makes for a slow acquisition :(",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1618534784.001700",
+        "parent_user_id": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ciWZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it's gel shake that might be from resonance between the gel and the zstep size and speed.  I run a session today where I set the shutter delay to ~200ms, and that was enough to remove the issue.  It makes for a slow acquisition :("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1618958660.002700",
+        "client_msg_id": "e8af00a1-8525-47d3-969f-04370c7380b5",
+        "text": "Cross post on multiview fusion.  Would love your input:\n<https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1618958632002100>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1618958632002100",
+                "fallback": "[April 20th, 2021 3:43 PM] nantho2: Hi all, does anybody have any insights to using something like BigStitcher for fusing multiview SPIM data of small spheroids?\nI haven't looked at this avenue for many years, and wondered if there are any go to resources beyond the BigStitcher help?\n\nThat being said, are there other multiview stitch and decon software options you'd recommend?",
+                "ts": "1618958632.002100",
+                "author_id": "U01G21ASDAL",
+                "author_subname": "Neil Anthony",
+                "channel_id": "C01LCEJ5H8C",
+                "is_msg_unfurl": true,
+                "text": "Hi all, does anybody have any insights to using something like BigStitcher for fusing multiview SPIM data of small spheroids?\nI haven't looked at this avenue for many years, and wondered if there are any go to resources beyond the BigStitcher help?\n\nThat being said, are there other multiview stitch and decon software options you'd recommend?",
+                "author_name": "Neil Anthony",
+                "author_link": "https:\/\/wildsheet.slack.com\/team\/U01G21ASDAL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1618958632002100",
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lhm4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cross post on multiview fusion.  Would love your input:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1618958632002100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1688550457.708279",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1688550491.000000"
+        },
+        "client_msg_id": "ea554abd-5a65-404e-9ac0-d7a606bdde7e",
+        "text": "*Clarity mounting medium that doesn't cost the world?*\n\nI'm thinking of imaging some CLARITY-cleared brains (from a user) and I was wondering if there is a cheaper option for immersion and RI matching than the CLARITY mounting media or FocusClear.\n\nI was thinking of using TDE (thiodiethanol) or the same immersion oil I use for CUBIC (Type FF), but I'm unsure if that would be suitable from a miscibility perspective? They have the right RI though.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+UR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Clarity mounting medium that doesn't cost the world?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI'm thinking of imaging some CLARITY-cleared brains (from a user) and I was wondering if there is a cheaper option for immersion and RI matching than the CLARITY mounting media or FocusClear.\n\nI was thinking of using TDE (thiodiethanol) or the same immersion oil I use for CUBIC (Type FF), but I'm unsure if that would be suitable from a miscibility perspective? They have the right RI though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

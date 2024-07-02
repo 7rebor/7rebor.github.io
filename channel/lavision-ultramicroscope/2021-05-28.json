@@ -1,0 +1,49 @@
+[
+    {
+        "user": "U01K44QMV0R",
+        "type": "message",
+        "ts": "1622220207.002300",
+        "client_msg_id": "542f8b9f-f3f4-4d61-9d20-0829b4a5c3f6",
+        "text": "Just posting an update to the thread above on DF issues with the UMII. The most recent software upgrade has greatly improved the issue in most samples. In samples with inherently poor signal to noise the DF lines still pop up from time to time, but I put that on the poor sample mostly. Thank you to everyone with suggestions, we did narrow it down to the software because of them.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gdf95b01984c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/df95b01984ccad3cdb6d9c4e4cdb880a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Sam Golden",
+            "display_name": "Sam Golden",
+            "team": "T01FQQGKPLH",
+            "name": "sagolden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4A70",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just posting an update to the thread above on DF issues with the UMII. The most recent software upgrade has greatly improved the issue in most samples. In samples with inherently poor signal to noise the DF lines still pop up from time to time, but I put that on the poor sample mostly. Thank you to everyone with suggestions, we did narrow it down to the software because of them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01GHGN71UL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

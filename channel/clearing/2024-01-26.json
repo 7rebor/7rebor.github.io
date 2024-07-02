@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U01KBTDP7GU",
+        "type": "message",
+        "ts": "1706277860.254839",
+        "client_msg_id": "31ade101-5add-4713-bbf6-1dafd387f17f",
+        "text": "Amazing!! Thank you so much for your help! Will look into it :blush:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g0e6a83c949c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0e6a83c949cd11e754a00343c068c8d7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Ivana Gantar",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "ivana.gantar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706007071.007469",
+        "parent_user_id": "U01KBTDP7GU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "haAF2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing!! Thank you so much for your help! Will look into it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04S9P5GSL9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

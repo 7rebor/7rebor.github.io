@@ -1,0 +1,234 @@
+[
+    {
+        "text": "It's a bit surgical but I have performed a tracheostomy, filled the lungs with agarose and iced the chest. It's not hard at all but you need to do it after you've schedule one'd using an IP pentobarbitone method. Beautiful images no bubbles. It works with CUBIC, EZ clear, and iDISCO. I imaged it on our mesoSPIM, it also keeps the lung looking like a lung for cryosectioning.\nWhite is autofluorescence and the green are GFP tumour cells. I used Ilastik to pull out the GFP from the autofluorescent green.",
+        "files": [
+            {
+                "id": "F06UE59LSLR",
+                "created": 1712919354,
+                "timestamp": 1712919354,
+                "name": "08x_cubic_tumourlung_Tile0_Ch488_Sh0.mp4",
+                "title": "08x_cubic_tumourlung_Tile0_Ch488_Sh0.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U059DSF5VTK",
+                "user_team": "T01FQQGKPLH",
+                "editable": false,
+                "size": 285691706,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UE59LSLR-af4b053fba\/08x_cubic_tumourlung_tile0_ch488_sh0.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UE59LSLR-af4b053fba\/08x_cubic_tumourlung_tile0_ch488_sh0.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01FQQGKPLH-F06UE59LSLR\/download\/08x_cubic_tumourlung_tile0_ch488_sh0.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UE59LSLR-af4b053fba\/file.m3u8?_xcb=0702b&t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NTk1NzE1MixBVkVSQUdFLUJBTkRXSURUSD00MjE5NjU3LENPREVDUz0iYXZjMS42NDAwMjgsbXA0YS40MC41IixSRVNPTFVUSU9OPTE0NDB4MTA4MCxGUkFNRS1SQVRFPTI5Ljk3MApkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8zQ2lORldGUXRXQzFOUlVSSlFTMVRSVkZWUlU1RFJUb3hDaU5GV0ZRdFdDMVFURUZaVEVsVFZDMVVXVkJGT2xaUFJBb2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeFJsRlJSMHRRVEVndFJqQTJWVVUxT1V4VFRGSXRZV1kwWWpBMU0yWmlZUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd01TNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhSbEZSUjB0UVRFZ3RSakEyVlVVMU9VeFRURkl0WVdZMFlqQTFNMlppWVM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNaTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4UmxGUlIwdFFURWd0UmpBMlZVVTFPVXhUVEZJdFlXWTBZakExTTJaaVlTOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TXk1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeFJsRlJSMHRRVEVndFJqQTJWVVUxT1V4VFRGSXRZV1kwWWpBMU0yWmlZUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd05DNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhSbEZSUjB0UVRFZ3RSakEyVlVVMU9VeFRURkl0WVdZMFlqQTFNMlppWVM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdOUzUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4UmxGUlIwdFFURWd0UmpBMlZVVTFPVXhUVEZJdFlXWTBZakExTTJaaVlTOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3Tmk1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeFJsRlJSMHRRVEVndFJqQTJWVVUxT1V4VFRGSXRZV1kwWWpBMU0yWmlZUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd055NTBjd29qUlZoVVNVNUdPak11T0RBMExBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhSbEZSUjB0UVRFZ3RSakEyVlVVMU9VeFRURkl0WVdZMFlqQTFNMlppWVM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdPQzUwY3dvalJWaFVMVmd0UlU1RVRFbFRWQW89CiNFWFQtWC1TVFJFQU0tSU5GOkJBTkRXSURUSD0zMTg1Mjk0LEFWRVJBR0UtQkFORFdJRFRIPTIzODQyMTMsQ09ERUNTPSJhdmMxLjY0MDAxZixtcDRhLjQwLjUiLFJFU09MVVRJT049OTYweDcyMCxGUkFNRS1SQVRFPTI5Ljk3MApodHRwczovL2ZpbGVzLnNsYWNrLmNvbS9maWxlcy10bWIvVDAxRlFRR0tQTEgtRjA2VUU1OUxTTFItYWY0YjA1M2ZiYS9maWxlX0hfMjY0XzEyODB4NzIwXzM1MDBLQlBTXzdRVkJSLm0zdTgK",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UE59LSLR-af4b053fba\/08x_cubic_tumourlung_tile0_ch488_sh0_trans.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "duration_ms": 45845,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UE59LSLR-af4b053fba\/08x_cubic_tumourlung_tile0_ch488_sh0_thumb_video.jpeg?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_video_w": 1600,
+                "thumb_video_h": 1200,
+                "permalink": "https:\/\/wildsheet.slack.com\/files\/U059DSF5VTK\/F06UE59LSLR\/08x_cubic_tumourlung_tile0_ch488_sh0.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T01FQQGKPLH-F06UE59LSLR-5bf4e4fc84",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06UQ93BHG8",
+                "created": 1712919386,
+                "timestamp": 1712919386,
+                "name": "4x_cubic_tumourlung_Tile0_Ch488_Sh0.mp4",
+                "title": "4x_cubic_tumourlung_Tile0_Ch488_Sh0.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U059DSF5VTK",
+                "user_team": "T01FQQGKPLH",
+                "editable": false,
+                "size": 328447121,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UQ93BHG8-7a98a715b1\/4x_cubic_tumourlung_tile0_ch488_sh0.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UQ93BHG8-7a98a715b1\/4x_cubic_tumourlung_tile0_ch488_sh0.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01FQQGKPLH-F06UQ93BHG8\/download\/4x_cubic_tumourlung_tile0_ch488_sh0.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UQ93BHG8-7a98a715b1\/file.m3u8?_xcb=99e91&t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NTg2NDQ5OCxBVkVSQUdFLUJBTkRXSURUSD00NjIyNzY3LENPREVDUz0iYXZjMS42NDAwMjgsbXA0YS40MC41IixSRVNPTFVUSU9OPTE0NDB4MTA4MCxGUkFNRS1SQVRFPTI5Ljk3MApkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8zQ2lORldGUXRXQzFOUlVSSlFTMVRSVkZWUlU1RFJUb3hDaU5GV0ZRdFdDMVFURUZaVEVsVFZDMVVXVkJGT2xaUFJBb2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeFJsRlJSMHRRVEVndFJqQTJWVkU1TTBKSVJ6Z3ROMkU1T0dFM01UVmlNUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd01TNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhSbEZSUjB0UVRFZ3RSakEyVlZFNU0wSklSemd0TjJFNU9HRTNNVFZpTVM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNaTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4UmxGUlIwdFFURWd0UmpBMlZWRTVNMEpJUnpndE4yRTVPR0UzTVRWaU1TOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TXk1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeFJsRlJSMHRRVEVndFJqQTJWVkU1TTBKSVJ6Z3ROMkU1T0dFM01UVmlNUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd05DNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhSbEZSUjB0UVRFZ3RSakEyVlZFNU0wSklSemd0TjJFNU9HRTNNVFZpTVM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdOUzUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4UmxGUlIwdFFURWd0UmpBMlZWRTVNMEpJUnpndE4yRTVPR0UzTVRWaU1TOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3Tmk1MGN3b2pSVmhVU1U1R09qVXVOak01TEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeFJsRlJSMHRRVEVndFJqQTJWVkU1TTBKSVJ6Z3ROMkU1T0dFM01UVmlNUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd055NTBjd29qUlZoVUxWZ3RSVTVFVEVsVFZBbz0KI0VYVC1YLVNUUkVBTS1JTkY6QkFORFdJRFRIPTMyMDU1NzgsQVZFUkFHRS1CQU5EV0lEVEg9MjM1ODg3OSxDT0RFQ1M9ImF2YzEuNjQwMDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj05NjB4NzIwLEZSQU1FLVJBVEU9MjkuOTcwCmh0dHBzOi8vZmlsZXMuc2xhY2suY29tL2ZpbGVzLXRtYi9UMDFGUVFHS1BMSC1GMDZVUTkzQkhHOC03YTk4YTcxNWIxL2ZpbGVfSF8yNjRfMTI4MHg3MjBfMzUwMEtCUFNfN1FWQlIubTN1OAo=",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UQ93BHG8-7a98a715b1\/4x_cubic_tumourlung_tile0_ch488_sh0_trans.mp4?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "duration_ms": 41674,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T01FQQGKPLH-F06UQ93BHG8-7a98a715b1\/4x_cubic_tumourlung_tile0_ch488_sh0_thumb_video.jpeg?t=xoxe-1534832669697-7362899698339-7348455257335-effff1f42b8e12c2ff48849549032ad8",
+                "thumb_video_w": 1600,
+                "thumb_video_h": 1200,
+                "permalink": "https:\/\/wildsheet.slack.com\/files\/U059DSF5VTK\/F06UQ93BHG8\/4x_cubic_tumourlung_tile0_ch488_sh0.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T01FQQGKPLH-F06UQ93BHG8-9679886b1b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U059DSF5VTK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9MvDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's a bit surgical but I have performed a tracheostomy, filled the lungs with agarose and iced the chest. It's not hard at all but you need to do it after you've schedule one'd using an IP pentobarbitone method. Beautiful images no bubbles. It works with CUBIC, EZ clear, and iDISCO. I imaged it on our mesoSPIM, it also keeps the lung looking like a lung for cryosectioning.\nWhite is autofluorescence and the green are GFP tumour cells. I used Ilastik to pull out the GFP from the autofluorescent green."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712919504.843359",
+        "client_msg_id": "c698b0ee-e9df-4a0c-8c08-c25f58fff4cc",
+        "thread_ts": "1712771389.196469",
+        "parent_user_id": "U04RH8K303Y",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U04RH8K303Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04M5SGCM5J",
+        "type": "message",
+        "ts": "1712919771.668969",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1712919784.000000"
+        },
+        "client_msg_id": "8b81ea9d-8a95-452d-8a0d-e9c3dee0b477",
+        "text": "I don't think I'll ever try it, but how do you ensure no air bubbles are trapped in the lungs? Logically, it feels like flooding the lungs would trap air everywhere and never allow it to leave. Fantastic images and thanks for sharing the technique too :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "51e88a6ae2c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5366281851110_51e88a6ae2c6ff9c7ab4_72.jpg",
+            "first_name": "Robert",
+            "real_name": "Robert Lees",
+            "display_name": "Rob Lees",
+            "team": "T01FQQGKPLH",
+            "name": "rl.stfc.clf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712771389.196469",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HPq9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think I'll ever try it, but how do you ensure no air bubbles are trapped in the lungs? Logically, it feels like flooding the lungs would trap air everywhere and never allow it to leave. Fantastic images and thanks for sharing the technique too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059DSF5VTK",
+        "type": "message",
+        "ts": "1712920793.984399",
+        "client_msg_id": "d00e5f0c-0db7-4614-9b52-d6598fd6b40b",
+        "text": "I agree it feels like it should be an issue but it never has been :man-shrugging: It could be that when the agarose goes in, it just displaces the air out, as boring as that is. For any lung work I would do this as it keeps it looking like a lung. For antibody labelling, that's not something I've tried, autofluorescence is going to be your main enemy.\nThanks very much. I can pop this in my clearing talk at the symposium.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "22f5dcf25cb4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-12\/6946985673910_22f5dcf25cb4674b23f4_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Gordon",
+            "display_name": "Peter Gordon",
+            "team": "T01FQQGKPLH",
+            "name": "peter.gordon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712771389.196469",
+        "parent_user_id": "U04RH8K303Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "COoU8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree it feels like it should be an issue but it never has been "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging",
+                                "unicode": "1f937-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It could be that when the agarose goes in, it just displaces the air out, as boring as that is. For any lung work I would do this as it keeps it looking like a lung. For antibody labelling, that's not something I've tried, autofluorescence is going to be your main enemy.\nThanks very much. I can pop this in my clearing talk at the symposium."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04M5SGCM5J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

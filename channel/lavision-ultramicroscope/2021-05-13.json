@@ -1,0 +1,132 @@
+[
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1620920788.003700",
+        "client_msg_id": "e55f8f94-0ad0-4204-a869-2c7df9fc8f49",
+        "text": "Does anybody know any way to get ultramicroscope files into BigStitcher ?(ome.tifs with\nFilenameGoesHere_Blaze[## x ##]_C##_xyz-Table Z#### options for x, y, c and z respectively)\n\nI can't get Big Stitcher to recognize the flags",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1620920788.003700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1621610741.000100",
+        "reply_users": [
+            "U01GHGN71UL"
+        ],
+        "replies": [
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1621610741.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621610741.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1o=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anybody know any way to get ultramicroscope files into BigStitcher ?(ome.tifs with\nFilenameGoesHere_Blaze[## x ##]_C##_xyz-Table Z#### options for x, y, c and z respectively)\n\nI can't get Big Stitcher to recognize the flags"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01K44QMV0R",
+        "type": "message",
+        "ts": "1620921443.005300",
+        "client_msg_id": "605b1c52-88e0-4528-a9f9-4610e2c56d54",
+        "text": "If there is anyone who who feels very familiar\/comfortable with ClearMap data structure and output, would you be willing to chat with me and a postdoc briefly? I'm not sure if this is the best channel, but I figure a lot of UM2 users are also using ClearMap for their analysis? This should only take 30 minutes or so and is about the output ABA heirarchy.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gdf95b01984c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/df95b01984ccad3cdb6d9c4e4cdb880a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Sam Golden",
+            "display_name": "Sam Golden",
+            "team": "T01FQQGKPLH",
+            "name": "sagolden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BS7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If there is anyone who who feels very familiar\/comfortable with ClearMap data structure and output, would you be willing to chat with me and a postdoc briefly? I'm not sure if this is the best channel, but I figure a lot of UM2 users are also using ClearMap for their analysis? This should only take 30 minutes or so and is about the output ABA heirarchy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01K44QMV0R",
+        "type": "message",
+        "ts": "1620921448.005600",
+        "client_msg_id": "185191c6-61b7-4d41-8703-8d7c532f9281",
+        "text": "Thanks!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gdf95b01984c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/df95b01984ccad3cdb6d9c4e4cdb880a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "Sam Golden",
+            "display_name": "Sam Golden",
+            "team": "T01FQQGKPLH",
+            "name": "sagolden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=8u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "user": "U05AVD715QV",
+        "type": "message",
+        "ts": "1707729585.272019",
+        "client_msg_id": "8919e138-9794-4a8f-85be-f503b31a17ba",
+        "text": "I do not have any experience with putting it into a cold room - but I'd worried about condensation: do you want to put the machine at 37C while in a cold room at 18C ? I'm pretty sure you will have condensation of hot humid air that is blown without the oko lab box.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2665b9e6e265",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5385029212865_2665b9e6e2659e7f6673_72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Chiaruttini",
+            "display_name": "Nicolas Chiaruttini",
+            "team": "T01FQQGKPLH",
+            "name": "nicolas.chiaruttini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707471420.511679",
+        "parent_user_id": "U068GMPTG2W",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Me\/bh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do not have any experience with putting it into a cold room - but I'd worried about condensation: do you want to put the machine at 37C while in a cold room at 18C ? I'm pretty sure you will have condensation of hot humid air that is blown without the oko lab box."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05AVD715QV",
+        "type": "message",
+        "ts": "1707729644.503489",
+        "client_msg_id": "a174169d-e878-4af6-83ad-f0825ec60b70",
+        "text": "Regarding stability and speed, you will have some partial answers in my presentation that you can find in <https:\/\/go.epfl.ch\/lls7>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2665b9e6e265",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5385029212865_2665b9e6e2659e7f6673_72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Chiaruttini",
+            "display_name": "Nicolas Chiaruttini",
+            "team": "T01FQQGKPLH",
+            "name": "nicolas.chiaruttini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707471420.511679",
+        "parent_user_id": "U068GMPTG2W",
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh7-us.googleusercontent.com\/docs\/AHkbwyLlGqZNe6UcRwp3psBx-Z-9I4fv6sa6KrkvNtfQFVKEt_DQPjl8J-jZf6sT95Ny0sRlwhEciC3B1F8hoVchzKuF65cl85cgkcd778pnlc-6KMs",
+                "image_width": 800,
+                "image_height": 1131,
+                "image_bytes": 47747,
+                "from_url": "https:\/\/go.epfl.ch\/lls7",
+                "service_icon": "https:\/\/docs.google.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/go.epfl.ch\/lls7",
+                "fallback": "Google Docs: Lattice Light Sheet User Meeting Main Document",
+                "title": "Lattice Light Sheet User Meeting Main Document",
+                "title_link": "https:\/\/go.epfl.ch\/lls7",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n0R4w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Regarding stability and speed, you will have some partial answers in my presentation that you can find in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/go.epfl.ch\/lls7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05AVD715QV",
+        "type": "message",
+        "ts": "1707729814.163429",
+        "client_msg_id": "9fba117a-37fa-45cc-931a-f4a363dc08a6",
+        "text": "In brief it takes about two hours to stabilise in the direction RT -&gt; 18C. it will be faster to go from RT to 37C, but while the temperature is set fast in the small incubator box inside the machine, the machine continue to warm up in its whole and this can led to drifting over several hours. You can attempt to use the hardware autofocus to compensate that.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2665b9e6e265",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5385029212865_2665b9e6e2659e7f6673_72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Chiaruttini",
+            "display_name": "Nicolas Chiaruttini",
+            "team": "T01FQQGKPLH",
+            "name": "nicolas.chiaruttini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707471420.511679",
+        "parent_user_id": "U068GMPTG2W",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eBFut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In brief it takes about two hours to stabilise in the direction RT -> 18C. it will be faster to go from RT to 37C, but while the temperature is set fast in the small incubator box inside the machine, the machine continue to warm up in its whole and this can led to drifting over several hours. You can attempt to use the hardware autofocus to compensate that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05AVD715QV",
+        "type": "message",
+        "ts": "1707729856.983859",
+        "client_msg_id": "19087d6e-cecd-4c23-9515-f6d1db9ea0cc",
+        "text": "Direct presentation link with a few graphs about temperature stabilisation: <https:\/\/docs.google.com\/presentation\/d\/1dS70pdSV5GDtR552VibUfB6NGUKvSewXhxZX3sIzMtM\/edit#slide=id.g257d0f991f3_0_103>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2665b9e6e265",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5385029212865_2665b9e6e2659e7f6673_72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Chiaruttini",
+            "display_name": "Nicolas Chiaruttini",
+            "team": "T01FQQGKPLH",
+            "name": "nicolas.chiaruttini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707471420.511679",
+        "parent_user_id": "U068GMPTG2W",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmfRL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Direct presentation link with a few graphs about temperature stabilisation: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1dS70pdSV5GDtR552VibUfB6NGUKvSewXhxZX3sIzMtM\/edit#slide=id.g257d0f991f3_0_103"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

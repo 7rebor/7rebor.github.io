@@ -1,0 +1,312 @@
+[
+    {
+        "text": "Dears, does anyone know an easy\/decently working way(FIJI plugin?..) to partially correct for L-sheet stripes on an acquired volume? See attchment; I m using a Lavision UMII (2 side illumunation - 3 sheets x sides  - sequential) and the sample was cleared with CUBIC and embedded in agar; I also have the feeling that many stripes comes form absorbing objects on the agar, more than on the sample..Any trick to \"clean\" the agar? Thanks!",
+        "files": [
+            {
+                "id": "F01S7KWFL85",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01GHGN71UL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "diT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dears, does anyone know an easy\/decently working way(FIJI plugin?..) to partially correct for L-sheet stripes on an acquired volume? See attchment; I m using a Lavision UMII (2 side illumunation - 3 sheets x sides  - sequential) and the sample was cleared with CUBIC and embedded in agar; I also have the feeling that many stripes comes form absorbing objects on the agar, more than on the sample..Any trick to \"clean\" the agar? Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1616604312.006000",
+        "thread_ts": "1616604312.006000",
+        "reply_count": 15,
+        "reply_users_count": 4,
+        "latest_reply": "1617545248.007100",
+        "reply_users": [
+            "U01G21ASDAL",
+            "U01GHGN71UL",
+            "U01SWH15KS5",
+            "U01HSB5D05V"
+        ],
+        "replies": [
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1616618054.006900"
+            },
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1616619035.007200"
+            },
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1616627538.008000"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1616697261.008500"
+            },
+            {
+                "user": "U01SWH15KS5",
+                "ts": "1616756525.009100"
+            },
+            {
+                "user": "U01SWH15KS5",
+                "ts": "1616756894.009300"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1616779714.009500"
+            },
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1616792476.010000"
+            },
+            {
+                "user": "U01HSB5D05V",
+                "ts": "1616792665.010300"
+            },
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1616938328.012600"
+            },
+            {
+                "user": "U01SWH15KS5",
+                "ts": "1617034567.012900"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1617272823.000100"
+            },
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1617325546.004300"
+            },
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1617412915.006500"
+            },
+            {
+                "user": "U01G21ASDAL",
+                "ts": "1617545248.007100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617545248.007100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01HXPBHQBY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1616618054.006900",
+        "client_msg_id": "9b6772ba-80c7-40b8-b643-349e8c2a0f23",
+        "text": "Hi <@U01GHGN71UL>\nIt's cool (and, I guess unfortunate) that you can see the differently angled sheets.  I can see shadows in the upward sheets and the horizontal sheets, but not the downwards sheets.  Does it take images for each sheet angle?  I recall there being a system that illuminated all at once, but not sure if that's the same scope.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616604312.006000",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01GHGN71UL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIt's cool (and, I guess unfortunate) that you can see the differently angled sheets.  I can see shadows in the upward sheets and the horizontal sheets, but not the downwards sheets.  Does it take images for each sheet angle?  I recall there being a system that illuminated all at once, but not sure if that's the same scope."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1616619035.007200",
+        "client_msg_id": "fdca78f4-f8a6-4cdc-9c61-65c7c0e69fe7",
+        "text": "I wrote a matlab app based on Variational Stationary Noise Remover (VSNR) that can pull the stripes out of my SPIM data pretty well, but it would need to be just from one direction (I think).\n\nIt's written by Pierre Weiss.  <http:\/\/www.math.univ-toulouse.fr\/~weiss\/Codes\/VSNR\/Documentation_VSNR_V2_Fiji.pdf|Here's> a manual for an old Fiji plugin, and <https:\/\/www.math.univ-toulouse.fr\/~weiss\/Codes\/VSNR\/3rdLightSheet_PWeiss.pdf|here's> a presentation.\n\nI have a folder matlab functions, but will have to track down the app I wrote if you need that part.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616604312.006000",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rF7k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wrote a matlab app based on Variational Stationary Noise Remover (VSNR) that can pull the stripes out of my SPIM data pretty well, but it would need to be just from one direction (I think).\n\nIt's written by Pierre Weiss.  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.math.univ-toulouse.fr\/~weiss\/Codes\/VSNR\/Documentation_VSNR_V2_Fiji.pdf",
+                                "text": "Here's"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a manual for an old Fiji plugin, and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.math.univ-toulouse.fr\/~weiss\/Codes\/VSNR\/3rdLightSheet_PWeiss.pdf",
+                                "text": "here's"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a presentation.\n\nI have a folder matlab functions, but will have to track down the app I wrote if you need that part."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01T1LX5L56",
+        "type": "message",
+        "ts": "1616621026.007600",
+        "client_msg_id": "4e69fbfc-7821-4206-93cf-52b9f07d00cc",
+        "text": "I second this. I suspect there may be slightly different needs for different systems? I'd be interested in something for the Zeiss Z.1 and glad to work with people.  Perhaps a good place to check is with Doug Richardson at Harvard CBI. Thanks",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g94eb75c3465",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/94eb75c34650a2e1a68f43ce89eab2d0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "Lisa Cameron",
+            "display_name": "Lisa Cameron",
+            "team": "T01FQQGKPLH",
+            "name": "lisa.cameron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616165623.001100",
+        "parent_user_id": "U01MQ0U4P1Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QgiK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I second this. I suspect there may be slightly different needs for different systems? I'd be interested in something for the Zeiss Z.1 and glad to work with people.  Perhaps a good place to check is with Doug Richardson at Harvard CBI. Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01G21ASDAL",
+        "type": "message",
+        "ts": "1616627538.008000",
+        "client_msg_id": "5cb5b840-6c21-4435-b9b2-7a57dda68852",
+        "text": "Oh, and while I look for code, I typically filter the agar through a 0.22 (or next size up) filter on the end of a syringe.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c73f6ea46086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1551870045442_c73f6ea460860df42e2a_72.jpg",
+            "first_name": "Neil",
+            "real_name": "Neil Anthony",
+            "display_name": "Neil Anthony",
+            "team": "T01FQQGKPLH",
+            "name": "nantho2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616604312.006000",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0K5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, and while I look for code, I typically filter the agar through a 0.22 (or next size up) filter on the end of a syringe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01HSB5D05V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1608565799.000100",
+        "client_msg_id": "1e54b854-ff31-4004-9d0e-710349fc36c1",
+        "text": "Thanks fror the feedback! I agree and I read the FIJI descrption; and the the value I was using it was actually not the one reccomended..But the image looked, accordingly to my imaging\/bilogical experince, more similar to the \"ground truth\"; yes, some analysis people are always welcome!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608203382.005200",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tx2L6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks fror the feedback! I agree and I read the FIJI descrption; and the the value I was using it was actually not the one reccomended..But the image looked, accordingly to my imaging\/bilogical experince, more similar to the \"ground truth\"; yes, some analysis people are always welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1608566138.000300",
+        "client_msg_id": "f691b91e-d21c-45ce-956f-a1fd1c4b95c0",
+        "text": "And other point for future discussion: il light-sheet really good for quantitative analysis?..In the sample I image (cleared and not ) I see a lot of artefcats due to side illuminations, Gaussian shape of the beams, not good clearing,.I m also wondering what is the space\/utility in science for \"not-quantitative\" analyses..",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1608203382.005200",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1JD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And other point for future discussion: il light-sheet really good for quantitative analysis?..In the sample I image (cleared and not ) I see a lot of artefcats due to side illuminations, Gaussian shape of the beams, not good clearing,.I m also wondering what is the space\/utility in science for \"not-quantitative\" analyses.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

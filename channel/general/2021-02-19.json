@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U01L2VD95PF",
+        "type": "message",
+        "ts": "1613732081.018500",
+        "edited": {
+            "user": "U01L2VD95PF",
+            "ts": "1613732148.000000"
+        },
+        "text": "Dear members\nThe Admin have got themselves organised and created a <#C01LVRV2C00|start-here> channel with a mission statement, guidance docs, Admin intro video and current channel list.\nPlease have a look at these, we kindly request that you follow the guidance to make members of the community easy to identify and connect with.\nPlease also join all channels you are interested in, we are keen to get some conversations and subgroup meetings started!\nAs always, feedback is welcome; please message us or email at <mailto:wildlightsheet@gmail.com|wildlightsheet@gmail.com>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "1c7b4797a1ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-19\/1764130616598_1c7b4797a1ff76781b9f_72.png",
+            "first_name": "Wildsheet",
+            "real_name": "Wildsheet Admin",
+            "display_name": "Wildsheet Admin",
+            "team": "T01FQQGKPLH",
+            "name": "wildlightsheet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[January 28th, 2021 12:23 PM] wildlightsheet: *Welcome to Wildsheet Light Sheet Community*\n\nLight sheet (LS) microscopy encompasses a suite of powerful techniques spanning multiple length scales and many fields. Yet, as many of us well know, the technology is not ubiquitous, the instruments often not turn key and the data sets invariably large. This brings unique challenges and struggles for LS users, but rest assured you are not alone!\n \n*This is a community for all those out there, in the wild, with any and every light sheet technology. Our main focus at Wildsheet is to provide a friendly, accessible space for people to discuss their experiences with LS technologies.*\n \nThe purpose of the Wildsheet Slack workspace is to provide a platform for:\n-      Meeting and networking with LS users, builders, vendors and other LS fanatics\n-      Creating and maintaining smaller shared interest groups\n-      Asking for help and advice in a friendly, accessible and informal environment\n-      Facilitating organisation and promotion of virtual and in-person meetings\n-      Sharing resources and best practices\n-      Discussing the needs of the LS community\n \nWe hope that you find this workspace useful and we encourage you to engage and tailor it in any way that you need. If you have any questions or comments for the admins please email <mailto:wildlightsheet@gmail.com|wildlightsheet@gmail.com> . We are happy to listen to your feedback and improve this LS community experiment!",
+                "ts": "1611836596.003100",
+                "author_id": "U01L2VD95PF",
+                "author_subname": "Wildsheet Admin",
+                "channel_id": "C01LVRV2C00",
+                "is_msg_unfurl": true,
+                "text": "*Welcome to Wildsheet Light Sheet Community*\n\nLight sheet (LS) microscopy encompasses a suite of powerful techniques spanning multiple length scales and many fields. Yet, as many of us well know, the technology is not ubiquitous, the instruments often not turn key and the data sets invariably large. This brings unique challenges and struggles for LS users, but rest assured you are not alone!\n \n*This is a community for all those out there, in the wild, with any and every light sheet technology. Our main focus at Wildsheet is to provide a friendly, accessible space for people to discuss their experiences with LS technologies.*\n \nThe purpose of the Wildsheet Slack workspace is to provide a platform for:\n-      Meeting and networking with LS users, builders, vendors and other LS fanatics\n-      Creating and maintaining smaller shared interest groups\n-      Asking for help and advice in a friendly, accessible and informal environment\n-      Facilitating organisation and promotion of virtual and in-person meetings\n-      Sharing resources and best practices\n-      Discussing the needs of the LS community\n \nWe hope that you find this workspace useful and we encourage you to engage and tailor it in any way that you need. If you have any questions or comments for the admins please email <mailto:wildlightsheet@gmail.com|wildlightsheet@gmail.com> . We are happy to listen to your feedback and improve this LS community experiment!",
+                "author_name": "Wildsheet Admin",
+                "author_link": "https:\/\/wildsheet.slack.com\/team\/U01L2VD95PF",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-02-19\/1764130616598_1c7b4797a1ff76781b9f_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/wildsheet.slack.com\/archives\/C01LVRV2C00\/p1611836596003100",
+                "is_share": true,
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UqZa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear members\nThe Admin have got themselves organised and created a "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01LVRV2C00"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel with a mission statement, guidance docs, Admin intro video and current channel list.\nPlease have a look at these, we kindly request that you follow the guidance to make members of the community easy to identify and connect with.\nPlease also join all channels you are interested in, we are keen to get some conversations and subgroup meetings started!\nAs always, feedback is welcome; please message us or email at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:wildlightsheet@gmail.com",
+                                "text": "wildlightsheet@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01GMRWNLGZ",
+        "type": "message",
+        "ts": "1612080078.003900",
+        "client_msg_id": "c6548ea6-62e4-406e-8054-98b457057cff",
+        "text": "Thanks Helena,  very useful video!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "0113f42bf3dc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-18\/1647070478531_0113f42bf3dc2b021882_72.jpg",
+            "first_name": "Cesar",
+            "real_name": "Cesar Augusto VALADES-CRUZ",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "cesar-augusto.valades",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1611848458.001600",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3zHOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Helena,  very useful video!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

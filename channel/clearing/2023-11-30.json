@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U01JLA9M0J3",
+        "type": "message",
+        "ts": "1701349163.629289",
+        "client_msg_id": "e6a4aa46-923d-4b2a-a61f-1be12a29f9e9",
+        "text": "Dear tissue clearing lovers, I am wondering if any of you has experience with life canvas technologies. They sell a SmartBatch+ for automating tissue clearing and labeling. any feedbacks about that?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g7eb0354e089",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7eb0354e089dc7c17fdc5f1147e15925.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Laura Batti",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "laura.batti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ADAi6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear tissue clearing lovers, I am wondering if any of you has experience with life canvas technologies. They sell a SmartBatch+ for automating tissue clearing and labeling. any feedbacks about that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

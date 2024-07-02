@@ -1,0 +1,308 @@
+[
+    {
+        "text": "In this video the Admin introduce themselves and we encourage you to introduce yourselves to the Community too. Welcome to Wildsheet!",
+        "files": [
+            {
+                "id": "F01NP2HQ4P4",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01L2VD95PF",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rjUk0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In this video the Admin introduce themselves and we encourage you to introduce yourselves to the Community too. Welcome to Wildsheet!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1613730424.009600"
+    },
+    {
+        "text": "*First things first, please start by reading our guidance:*",
+        "files": [
+            {
+                "id": "F01NP4G0RNW",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F01NP4G6058",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01L2VD95PF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HY9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First things first, please start by reading our guidance:",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1613730660.010200"
+    },
+    {
+        "user": "U01L2VD95PF",
+        "type": "message",
+        "ts": "1613731598.023800",
+        "client_msg_id": "2e01e0cd-be25-4b5f-9e15-fe92e1059b03",
+        "text": "*Please join all channels relevant to you and create new ones if you feel there is something missing.*\n*Current list of channels (19\/02\/2021)*\ncareers\ncommercial\ngeneral\nimage-processing\nlattice\nlavision-ultramicroscope\nmeetings\nprotocols\npublications\nrandom\nspim-commercial\nspim-custom\nstart-here",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "1c7b4797a1ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-19\/1764130616598_1c7b4797a1ff76781b9f_72.png",
+            "first_name": "Wildsheet",
+            "real_name": "Wildsheet Admin",
+            "display_name": "Wildsheet Admin",
+            "team": "T01FQQGKPLH",
+            "name": "wildlightsheet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iC88",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please join all channels relevant to you and create new ones if you feel there is something missing.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Current list of channels (19\/02\/2021)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ncareers\ncommercial\ngeneral\nimage-processing\nlattice\nlavision-ultramicroscope\nmeetings\nprotocols\npublications\nrandom\nspim-commercial\nspim-custom\nstart-here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01JZAQRXHN",
+        "type": "message",
+        "ts": "1613739546.024800",
+        "client_msg_id": "2fe9a338-612e-4aee-b4d1-4d9beae36e1b",
+        "text": "Here is my take and I am sooo happy to watch this space grow!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2074bddfd928",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1618435752197_2074bddfd92855c3919f_72.jpg",
+            "first_name": "",
+            "real_name": "Emmanuel Reynaud",
+            "display_name": "Emmanuel Reynaud",
+            "team": "T01FQQGKPLH",
+            "name": "emmanuel.reynaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uel",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is my take and I am sooo happy to watch this space grow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F01NLF6PPEZ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01JZAQRXHN",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1613739583.024900",
+        "thread_ts": "1613739583.024900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1613753306.025600",
+        "reply_users": [
+            "U01H3QDBEGY",
+            "U01JZAQRXHN"
+        ],
+        "replies": [
+            {
+                "user": "U01H3QDBEGY",
+                "ts": "1613752707.025300"
+            },
+            {
+                "user": "U01JZAQRXHN",
+                "ts": "1613753306.025600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01J3L7PL4A",
+                    "U01H3QDBEGY",
+                    "U01G21ASDAL",
+                    "U01HSJG82G7",
+                    "U01T62D670T"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U01H3QDBEGY",
+        "type": "message",
+        "ts": "1613752707.025300",
+        "client_msg_id": "5d68b34a-c618-4fad-86c3-afbd99956311",
+        "text": "Nice introduction :relaxed: Thanks for the support <@U01JZAQRXHN>!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a05a27bf7ce8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1557871841974_a05a27bf7ce833e05a41_72.jpg",
+            "first_name": "Dee",
+            "real_name": "Dee Kavanagh",
+            "display_name": "Dee Kavanagh",
+            "team": "T01FQQGKPLH",
+            "name": "d.m.kavanagh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1613739583.024900",
+        "parent_user_id": "U01JZAQRXHN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice introduction "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks for the support "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JZAQRXHN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01JZAQRXHN",
+        "type": "message",
+        "ts": "1613753306.025600",
+        "client_msg_id": "f4a5a4db-43e1-430d-9adb-c4bf1c2c96a0",
+        "text": "Happy to help!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2074bddfd928",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1618435752197_2074bddfd92855c3919f_72.jpg",
+            "first_name": "",
+            "real_name": "Emmanuel Reynaud",
+            "display_name": "Emmanuel Reynaud",
+            "team": "T01FQQGKPLH",
+            "name": "emmanuel.reynaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1613739583.024900",
+        "parent_user_id": "U01JZAQRXHN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

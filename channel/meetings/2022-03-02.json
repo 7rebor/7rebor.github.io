@@ -1,0 +1,168 @@
+[
+    {
+        "user": "U01JL7SDKF1",
+        "type": "message",
+        "ts": "1646220587.966789",
+        "client_msg_id": "e647811d-6b42-49ac-a518-fef4cdf0982b",
+        "text": "Dear all,\n\nI am pleased to announce *a workshop on Light-Sheet Fluorescence Microscopy imaging technics* co-organized by INSERM (French National Health and Medical Research Institute) and the France Bioimaging working group on LSFM. It will be divided in two parts:\n• A first theoretical part held in Bordeaux from the 16th to the 18th of May 2022 which will cover basic principles, applications and challenges of LSFM imaging through seminars,\n• A second practical part in June 2022 where you will have the possibility to choose the set-up on which you want to be trained amongst many systems available within the France BioImaging community.\n If you want to discover, learn and\/or deepen your knowledge about this vast and powerful family of 3D imaging technics, this training is for you!!\n\nYou will find all the information (program, registration details, venue and accommodations, …) about this event on the following poster and website (Atelier 268):\n<https:\/\/evenium-site.com\/site\/atelier-de-l-inserm-268>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "c2a757808fee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-19\/1650698288834_c2a757808fee2b951529_72.jpg",
+            "first_name": "Mathieu",
+            "real_name": "Mathieu Ducros",
+            "display_name": "Mathieu Ducros",
+            "team": "T01FQQGKPLH",
+            "name": "mathieu.ducros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dmu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear all,\n\nI am pleased to announce"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a workshop on Light-Sheet Fluorescence Microscopy imaging technics ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "co-organized by INSERM (French National Health and Medical Research Institute) and the France Bioimaging working group on LSFM. It will be divided in two parts:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A first theoretical part held in Bordeaux from the 16th to the 18th of May 2022 which will cover basic principles, applications and challenges of LSFM imaging through seminars,"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A second practical part in June 2022 where you will have the possibility to choose the set-up on which you want to be trained amongst many systems available within the France BioImaging community."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n If you want to discover, learn and\/or deepen your knowledge about this vast and powerful family of 3D imaging technics, this training is for you!!\n\nYou will find all the information (program, registration details, venue and accommodations, …) about this event on the following poster and website (Atelier 268):\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/evenium-site.com\/site\/atelier-de-l-inserm-268"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Please note the the deadline will be extended till the 15th of March !",
+        "files": [
+            {
+                "id": "F0359PVFLM9",
+                "mode": "tombstone"
+            },
+            {
+                "id": "F034V6H5WS3",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U01JL7SDKF1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vjm2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please note the the deadline will be extended till the 15th of March !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1646220698.797519",
+        "client_msg_id": "6e3450e1-7191-4d94-9b65-936a48ba148b",
+        "thread_ts": "1646220698.797519",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1646348785.447919",
+        "reply_users": [
+            "U01GHGN71UL"
+        ],
+        "replies": [
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1646348785.447919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01J1KG0MK4",
+                    "U01JL7SDKF1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F035ZH215LG",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F035NCV4A49",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01JL7SDKF1",
+        "type": "message",
+        "ts": "1646220861.401509",
+        "client_msg_id": "8628c2e3-8fc9-4309-a61d-54307f0ab426"
+    }
+]

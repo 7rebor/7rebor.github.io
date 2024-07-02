@@ -1,0 +1,57 @@
+[
+    {
+        "text": "Don't forget to look for channels of interest.\nThe plus next to Channels, and the mouse over hint \"Add\" may be misleading, as you need to go there to browse for channels of interest.\n\nSee new post in <#C01LCEJ5H8C|image-processing> for example\n<https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1614180877001100>",
+        "files": [
+            {
+                "id": "F01P76YAALA",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F01PKRQ6C1F",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01G21ASDAL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't forget to look for channels of interest.\nThe plus next to Channels, and the mouse over hint \"Add\" may be misleading, as you need to go there to browse for channels of interest.\n\nSee new post in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01LCEJ5H8C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for example\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wildsheet.slack.com\/archives\/C01LCEJ5H8C\/p1614180877001100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1614181139.002500",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01H3QDBEGY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

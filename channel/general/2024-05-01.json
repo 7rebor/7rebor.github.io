@@ -1,0 +1,237 @@
+[
+    {
+        "user": "U01J3L7PL4A",
+        "type": "message",
+        "ts": "1714554620.216849",
+        "client_msg_id": "cc03b2c1-a8b0-4670-ad61-3280dd8dbbc2",
+        "text": "<https:\/\/focalplane.biologists.com\/2024\/05\/01\/jcs-focalplane-training-grants\/>\nFantastic - up to £1K available for ECRs to attend microscopy training courses\/meetings!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gf355a5f2263",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f355a5f22634850c7addf5db1b092228.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Georgina Fletcher",
+            "display_name": "Georgina Fletcher",
+            "team": "T01FQQGKPLH",
+            "name": "georgina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/focalplane.biologists.com\/wp-content\/uploads\/2024\/05\/Screenshot-2024-05-01-093249.png",
+                "image_width": 563,
+                "image_height": 797,
+                "image_bytes": 30414,
+                "from_url": "https:\/\/focalplane.biologists.com\/2024\/05\/01\/jcs-focalplane-training-grants\/",
+                "service_icon": "https:\/\/focalplane.biologists.com\/wp-content\/themes\/focalplane\/favicon.ico",
+                "ts": 1714552969,
+                "id": 1,
+                "original_url": "https:\/\/focalplane.biologists.com\/2024\/05\/01\/jcs-focalplane-training-grants\/",
+                "fallback": "FocalPlane: JCS-FocalPlane Training Grants - FocalPlane",
+                "text": "JCS-FocalPlane Training Grants - News",
+                "title": "JCS-FocalPlane Training Grants - FocalPlane",
+                "title_link": "https:\/\/focalplane.biologists.com\/2024\/05\/01\/jcs-focalplane-training-grants\/",
+                "service_name": "FocalPlane",
+                "fields": [
+                    {
+                        "value": "FocalPlane",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "1 minute",
+                        "title": "Estimated reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ybJ7T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/focalplane.biologists.com\/2024\/05\/01\/jcs-focalplane-training-grants\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFantastic - up to £1K available for ECRs to attend microscopy training courses\/meetings!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE",
+                    "U04M5SGCM5J"
+                ],
+                "count": 2
+            },
+            {
+                "name": "astonished",
+                "users": [
+                    "U01HDFX11PT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U059DSF5VTK",
+        "type": "message",
+        "ts": "1714581457.378279",
+        "client_msg_id": "3bbbb6e0-8e92-49f0-95fd-eb4a590b2d9e",
+        "text": "SO, he talked a bit about CUBIC and CUBIC HV2 but mainly on sleep cycle, which is his real main focus. The clearing is a collaborative arm to it all. CUBIC HV2 is something you buy from Abcam <https:\/\/www.abcam.com\/products\/ihc-kits\/3d-tissue-staining-kit--cubic-ab316248.html>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "22f5dcf25cb4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-12\/6946985673910_22f5dcf25cb4674b23f4_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Gordon",
+            "display_name": "Peter Gordon",
+            "team": "T01FQQGKPLH",
+            "name": "peter.gordon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714399315.529999",
+        "parent_user_id": "U059DSF5VTK",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.abcam.com\/products\/ihc-kits\/3d-tissue-staining-kit--cubic-ab316248.html",
+                "service_icon": "https:\/\/a.static-abcam.com\/images\/favicon\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.abcam.com\/products\/ihc-kits\/3d-tissue-staining-kit--cubic-ab316248.html",
+                "fallback": "3D Tissue Staining Kit – CUBIC (ab316248) | Abcam",
+                "text": "3D Tissue Staining Kit – CUBIC (ab316248) enables the easy set-up of 3D tissue imaging using simple protocols and standard laboratory equipment. Together with the Tissue Clearing Kit &amp;ndash…",
+                "title": "3D Tissue Staining Kit – CUBIC (ab316248) | Abcam",
+                "title_link": "https:\/\/www.abcam.com\/products\/ihc-kits\/3d-tissue-staining-kit--cubic-ab316248.html",
+                "service_name": "abcam.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jRwEh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SO, he talked a bit about CUBIC and CUBIC HV2 but mainly on sleep cycle, which is his real main focus. The clearing is a collaborative arm to it all. CUBIC HV2 is something you buy from Abcam "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.abcam.com\/products\/ihc-kits\/3d-tissue-staining-kit--cubic-ab316248.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059DSF5VTK",
+        "type": "message",
+        "ts": "1714581516.894229",
+        "client_msg_id": "57f6ea2e-ba64-496d-8c05-e11f5bfa9cdd",
+        "text": "He is in Oxford till Feb next year, he's super keen to visit the SWC (we have some sleep people here too) but he's also happy to give a talk about clearing, CUBIC obviously, so there's a window to invite him.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "22f5dcf25cb4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-12\/6946985673910_22f5dcf25cb4674b23f4_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Gordon",
+            "display_name": "Peter Gordon",
+            "team": "T01FQQGKPLH",
+            "name": "peter.gordon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714399315.529999",
+        "parent_user_id": "U059DSF5VTK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rbUW5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He is in Oxford till Feb next year, he's super keen to visit the SWC (we have some sleep people here too) but he's also happy to give a talk about clearing, CUBIC obviously, so there's a window to invite him."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U059DSF5VTK",
+        "type": "message",
+        "ts": "1714581527.267689",
+        "client_msg_id": "c853af85-109a-4523-b254-49c4f72d2d31",
+        "text": "Oh also he's super nice",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "22f5dcf25cb4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-12\/6946985673910_22f5dcf25cb4674b23f4_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Gordon",
+            "display_name": "Peter Gordon",
+            "team": "T01FQQGKPLH",
+            "name": "peter.gordon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714399315.529999",
+        "parent_user_id": "U059DSF5VTK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BrQMs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh also he's super nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U01QXTHLHP0",
+        "type": "message",
+        "ts": "1616071349.012600",
+        "client_msg_id": "d12acf31-c299-46c7-9417-688d96d02edc",
+        "text": "Hi Alessandro. The problem with the DF is that it is a poorly documented black box and, even worse, one that can change from version to version of the software. I have asked Lavision many times to provide the algorithm that they use and have never received a detailed response beyond a general idea of what contrast enhancement or blend do. Which is fine, but is very risky if you want to make this method a foundation for all of the imaging you do. An alternative would be to get the raw DF data and construct an algorithm yourself, though the increased data demands would make it very painful. The Renier lab approach is safer: you take very thin strips where the horizontal focus is relatively flat (the Rayleigh distance is a reasonable guess) but then you have a big tiling problem, which they constructed the Wobbly Stitcher to solve.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "90f3ff57424b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1867195916070_90f3ff57424bb6fbac5a_72.jpg",
+            "first_name": "Pablo",
+            "real_name": "Pablo Ariel",
+            "display_name": "Pablo Ariel",
+            "team": "T01FQQGKPLH",
+            "name": "pablo_ariel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616005945.010600",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Alessandro. The problem with the DF is that it is a poorly documented black box and, even worse, one that can change from version to version of the software. I have asked Lavision many times to provide the algorithm that they use and have never received a detailed response beyond a general idea of what contrast enhancement or blend do. Which is fine, but is very risky if you want to make this method a foundation for all of the imaging you do. An alternative would be to get the raw DF data and construct an algorithm yourself, though the increased data demands would make it very painful. The Renier lab approach is safer: you take very thin strips where the horizontal focus is relatively flat (the Rayleigh distance is a reasonable guess) but then you have a big tiling problem, which they constructed the Wobbly Stitcher to solve."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01QXTHLHP0",
+        "type": "message",
+        "ts": "1616072245.012800",
+        "client_msg_id": "6ee85ff4-9356-453d-a0d8-7e690e4c262b",
+        "text": "As for using a single sheet vs three, for very precise applications a single one is better. You get better Z resolution that way, for reasons I go over in my guide (Figure 8.7). You need to correct for the horizontal striping, but that is doable. And that figure in my guide is honestly too optimistic, because it assumes the horizontal focus of all sheets is perfectly aligned. I discovered after writing the guide that this will likely never be true, and they could be off by as much as 100-200um. You can check this by doing a high mag, DF run with a high, odd number of DF positions across the entire field, using the Lavision calibration tool. If you collect the raw DF data for each horizontal focus position you can then measure the intensity of each of the three beams from the calibration tool as a function of DF positoin. In an ideal world, they would all have a peak in the same, middle DF frame. If they have peaks at different DF positions, you can estimate how far off they are from each other by dividing the width of the field of view by the number of DF positions and counting how many frames off they are. For example, if your field of view is 1mm wide and you use 21 DF positions across the entire X dimension, there will be 50um between the horizontal focus position of each DF raw image. If the middle light sheet has a peak on frame 11 but the top one has a peak on frame 9, that means they are off by 100um. In some cases where this is dramatically off, you don't need to measure anything; you will see side lobes in the lateral beams when the middle beam is at maximum. Another thing you can confirm from this analysis is that if the middle beam does not have the peak in the middle DF position that means your sheetmotor calibration is off (Fig 8.9 in the guide). Luckily that is easily fixed. In contrast, there is no easy way to adjust mismatches between the horizontal focus position of the lateral and middle light-sheets. The only way to fix this is to move the position of the cylindrical lenses with a special tool. This is not for the faint of heart and I would not recommend it without a Lavision engineer. The fact that the adjustment is very hard to do (at least in the filed) and not very precise is also probably the reason that parameter can be off by hundreds of microns between the sheets. I'm happy to share some screenshots of the method to check misalignments of horizontal focus between sheets if my above explanation is confusing.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "90f3ff57424b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1867195916070_90f3ff57424bb6fbac5a_72.jpg",
+            "first_name": "Pablo",
+            "real_name": "Pablo Ariel",
+            "display_name": "Pablo Ariel",
+            "team": "T01FQQGKPLH",
+            "name": "pablo_ariel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616005945.010600",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2UXR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As for using a single sheet vs three, for very precise applications a single one is better. You get better Z resolution that way, for reasons I go over in my guide (Figure 8.7). You need to correct for the horizontal striping, but that is doable. And that figure in my guide is honestly too optimistic, because it assumes the horizontal focus of all sheets is perfectly aligned. I discovered after writing the guide that this will likely never be true, and they could be off by as much as 100-200um. You can check this by doing a high mag, DF run with a high, odd number of DF positions across the entire field, using the Lavision calibration tool. If you collect the raw DF data for each horizontal focus position you can then measure the intensity of each of the three beams from the calibration tool as a function of DF positoin. In an ideal world, they would all have a peak in the same, middle DF frame. If they have peaks at different DF positions, you can estimate how far off they are from each other by dividing the width of the field of view by the number of DF positions and counting how many frames off they are. For example, if your field of view is 1mm wide and you use 21 DF positions across the entire X dimension, there will be 50um between the horizontal focus position of each DF raw image. If the middle light sheet has a peak on frame 11 but the top one has a peak on frame 9, that means they are off by 100um. In some cases where this is dramatically off, you don't need to measure anything; you will see side lobes in the lateral beams when the middle beam is at maximum. Another thing you can confirm from this analysis is that if the middle beam does not have the peak in the middle DF position that means your sheetmotor calibration is off (Fig 8.9 in the guide). Luckily that is easily fixed. In contrast, there is no easy way to adjust mismatches between the horizontal focus position of the lateral and middle light-sheets. The only way to fix this is to move the position of the cylindrical lenses with a special tool. This is not for the faint of heart and I would not recommend it without a Lavision engineer. The fact that the adjustment is very hard to do (at least in the filed) and not very precise is also probably the reason that parameter can be off by hundreds of microns between the sheets. I'm happy to share some screenshots of the method to check misalignments of horizontal focus between sheets if my above explanation is confusing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

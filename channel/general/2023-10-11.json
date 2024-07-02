@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U05AVD715QV",
+        "type": "message",
+        "ts": "1697028184.656179",
+        "client_msg_id": "88f17d0d-6cf9-49ef-87d7-ec041ca69154",
+        "text": "Maybe ask Christine ? Also, do you think your own measurements would not be reliable enough ?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2665b9e6e265",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-05\/5385029212865_2665b9e6e2659e7f6673_72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Chiaruttini",
+            "display_name": "Nicolas Chiaruttini",
+            "team": "T01FQQGKPLH",
+            "name": "nicolas.chiaruttini",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696527229.604869",
+        "parent_user_id": "U05VA8MGCUS",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdrVu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe ask Christine ? Also, do you think your own measurements would not be reliable enough ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

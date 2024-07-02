@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U01K5NHA0R0",
+        "type": "message",
+        "ts": "1643809876.474759",
+        "client_msg_id": "6e8531b0-9b35-47c8-9105-4bf3233dbc71",
+        "text": "Hi Alessandro. Are the videos recorded ?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g22cc2f4e4aa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22cc2f4e4aa2412765c8a7efd4a475e8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Stephane Pages",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "stephane.pages",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1643809876.474759",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1643905909.427469",
+        "reply_users": [
+            "U01HDFX11PT"
+        ],
+        "replies": [
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1643905909.427469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dh5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Alessandro. Are the videos recorded ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

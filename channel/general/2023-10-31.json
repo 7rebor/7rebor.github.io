@@ -1,0 +1,221 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04M5SGCM5J",
+        "thread_ts": "1697537409.068019",
+        "root": {
+            "user": "U01HDFX11PT",
+            "type": "message",
+            "ts": "1697537409.068019",
+            "client_msg_id": "e8afa3f1-13a5-46a5-845c-8245c3554026",
+            "text": "<!channel> The next meeting will be at 3pm UK time on Friday 3rd.\nI am looking for *2-3 people to give 5-10 minute presentations on their favourite visualisation software\/tools*, specifically something in FIJI, Napari and Imaris\/arivis but others also very welcome! Please volunteer by commenting on this thread.\nWith agreement from those in the meeting, we will record the session for our colleagues in Australasia and aim to alternate with morning meetings next time.",
+            "team": "T01FQQGKPLH",
+            "thread_ts": "1697537409.068019",
+            "reply_count": 11,
+            "reply_users_count": 8,
+            "latest_reply": "1699106929.045989",
+            "reply_users": [
+                "U01J7PX21GB",
+                "U04UNL1LCP8",
+                "U061XQ16U4C",
+                "U01GHGN71UL",
+                "U04M5SGCM5J",
+                "U01HDFX11PT",
+                "U059LQCN1HN",
+                "U059N2A340Y"
+            ],
+            "replies": [
+                {
+                    "user": "U01J7PX21GB",
+                    "ts": "1697548229.004139"
+                },
+                {
+                    "user": "U04UNL1LCP8",
+                    "ts": "1697648155.971309"
+                },
+                {
+                    "user": "U061XQ16U4C",
+                    "ts": "1697726919.526369"
+                },
+                {
+                    "user": "U01GHGN71UL",
+                    "ts": "1697730208.153309"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1698752046.325159"
+                },
+                {
+                    "user": "U04UNL1LCP8",
+                    "ts": "1698806680.198949"
+                },
+                {
+                    "user": "U01HDFX11PT",
+                    "ts": "1698828037.246189"
+                },
+                {
+                    "user": "U059LQCN1HN",
+                    "ts": "1698848432.508599"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1699023481.452989"
+                },
+                {
+                    "user": "U059N2A340Y",
+                    "ts": "1699084219.358669"
+                },
+                {
+                    "user": "U04M5SGCM5J",
+                    "ts": "1699106929.045989"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "\/HC\/u",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " The next meeting will be at 3pm UK time on Friday 3rd.\nI am looking for "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "2-3 people to give 5-10 minute presentations on their favourite visualisation software\/tools",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ", specifically something in FIJI, Napari and Imaris\/arivis but others also very welcome! Please volunteer by commenting on this thread.\nWith agreement from those in the meeting, we will record the session for our colleagues in Australasia and aim to alternate with morning meetings next time."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1698752046.325159",
+        "edited": {
+            "user": "U04M5SGCM5J",
+            "ts": "1698752061.000000"
+        },
+        "client_msg_id": "3a1e6f2b-0075-4202-9ae7-427bf41c9248",
+        "text": "ZOOM MEETING FOR FRIDAY 3RD NOV 3PM: <https:\/\/ukri.zoom.us\/j\/98522906380>\n\nHowdy everyone, we will have the next meeting on Friday at 3 pm UTC (UK time) on the topic of favourite visualisation software\/tools. <@U01J7PX21GB>, <@U061XQ16U4C>, <@U04UNL1LCP8> - are you guys ok to do 5-10 minutes of your software utility with an example while sharing screen?\n\nWe're missing an Imaris contingent, if anyone has a particular feature they love about Imaris :slightly_smiling_face:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zk1mo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ZOOM MEETING FOR FRIDAY 3RD NOV 3PM: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ukri.zoom.us\/j\/98522906380"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHowdy everyone, we will have the next meeting on Friday at 3 pm UTC (UK time) on the topic of favourite visualisation software\/tools. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01J7PX21GB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U061XQ16U4C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04UNL1LCP8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - are you guys ok to do 5-10 minutes of your software utility with an example while sharing screen?\n\nWe're missing an Imaris contingent, if anyone has a particular feature they love about Imaris "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U061XQ16U4C",
+                    "U01J7PX21GB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U04UNL1LCP8",
+        "type": "message",
+        "ts": "1698806680.198949",
+        "client_msg_id": "579c8793-b895-439a-bc13-223efd22c0b6",
+        "text": "I'm not sure about my availability on Friday because that's when the HVAC company will be installing a heat pump. Is my previously shared video sufficient? Of course, I'm happy to answer questions later (in Slack), but I definitely don't want to present myself as a napari expert!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "g4948a2112bd",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4948a2112bd8966707caa39dcb5b4d27.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "William",
+            "real_name": "William Giang",
+            "display_name": "William Giang",
+            "team": "T01FQQGKPLH",
+            "name": "wgiang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697537409.068019",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aG4E7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure about my availability on Friday because that's when the HVAC company will be installing a heat pump. Is my previously shared video sufficient? Of course, I'm happy to answer questions later (in Slack), but I definitely don't want to present myself as a napari expert!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

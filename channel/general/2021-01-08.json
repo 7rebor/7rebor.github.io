@@ -1,0 +1,199 @@
+[
+    {
+        "user": "U01JZAQRXHN",
+        "type": "message",
+        "ts": "1610105521.061300",
+        "client_msg_id": "70c0f03c-d9a2-4d9e-8284-fcdfd5f7079e",
+        "text": "Hi everyone, I am a PI at University College Dublin and have been involved with light sheet microscopy for a very very very long time. Alongside Pavel Tomancak we have been driving the community forward, organizing courses and conferences and currently a book ( probably outdated already) is underway. We have also been involved with the development of the Zeiss Z1 and 7. Our group has done a lot of works on sample preparation and the use of 3D printing and 3D bioprinting to make holders and so on. So we have a lot ot tips and experience in teaching so happy to help remotely anyone. More recently we have started a couple of hardware projects to use light sheet \"in the wild\" for underwater study of ctneophores and jellyfishes but also portable light sheet systems to expand the light sheet microscopy in developing countries and teach courses.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "2074bddfd928",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1618435752197_2074bddfd92855c3919f_72.jpg",
+            "first_name": "",
+            "real_name": "Emmanuel Reynaud",
+            "display_name": "Emmanuel Reynaud",
+            "team": "T01FQQGKPLH",
+            "name": "emmanuel.reynaud",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zfrz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, I am a PI at University College Dublin and have been involved with light sheet microscopy for a very very very long time. Alongside Pavel Tomancak we have been driving the community forward, organizing courses and conferences and currently a book ( probably outdated already) is underway. We have also been involved with the development of the Zeiss Z1 and 7. Our group has done a lot of works on sample preparation and the use of 3D printing and 3D bioprinting to make holders and so on. So we have a lot ot tips and experience in teaching so happy to help remotely anyone. More recently we have started a couple of hardware projects to use light sheet \"in the wild\" for underwater study of ctneophores and jellyfishes but also portable light sheet systems to expand the light sheet microscopy in developing countries and teach courses."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01JN9SDP5X",
+        "type": "message",
+        "ts": "1610112453.067100",
+        "client_msg_id": "40e950bd-60ea-4807-9418-04cbabc87527",
+        "text": "Hi everyone. I work at Light Microscopy Core Facility at Institute of Molecular Genetics of the ASCR in Prague. We have Zeiss Lightsheet Z.1 microscope and we are using it for imaging of both living &amp; cleared samples. This discussion channel is super nice idea and I would like to thank the organizers for creating it.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gc73f665acc4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c73f665acc4600ebed3270f728bf3e2d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Helena Chmelova",
+            "display_name": "Helena Chmelova",
+            "team": "T01FQQGKPLH",
+            "name": "helena.chmelova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VEaU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone. I work at Light Microscopy Core Facility at Institute of Molecular Genetics of the ASCR in Prague. We have Zeiss Lightsheet Z.1 microscope and we are using it for imaging of both living & cleared samples. This discussion channel is super nice idea and I would like to thank the organizers for creating it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01J6J7TT4M",
+        "type": "message",
+        "ts": "1610112632.067500",
+        "client_msg_id": "1e86cbb9-fb1c-4d80-bcc7-31197e0aca06",
+        "text": "Hi all! Thanks a lot for organising this group! I am a PI at Friedrich Loeffler Institute working on light microscopy based bioimaging for many years. We currently develop Light Sheet and big data analysis in immunity and virology context. Looking forward to discussions in the group! :slightly_smiling_face:",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gb3e7be698a4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b3e7be698a453c4f101e7d699ee71a0a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Dmitry Ushakov",
+            "display_name": "Dmitry Ushakov",
+            "team": "T01FQQGKPLH",
+            "name": "dmitry.ushakov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F6k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! Thanks a lot for organising this group! I am a PI at Friedrich Loeffler Institute working on light microscopy based bioimaging for many years. We currently develop Light Sheet and big data analysis in immunity and virology context. Looking forward to discussions in the group! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01HUTRPHMM",
+        "type": "message",
+        "ts": "1610115933.070800",
+        "client_msg_id": "cdf8294d-cb0b-4c24-a69d-4121a2287e9c",
+        "text": "Hi everyone! I'm an imaging specialist at the University of Sheffield, UK. I manage a Zeiss Z1 and a home-built lightsheet and provide user training and image analysis training. We mainly image live zebrafish but we are increasingly getting into imaging of cleared samples. Many thanks for setting this resource up - it's going to be very helpful to the community!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "ge4659c98caf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4659c98cafaa05b34d20bf33987c45a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Van Hateren",
+            "display_name": "Nick VH",
+            "team": "T01FQQGKPLH",
+            "name": "n.j.van-hateren",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AXHH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! I'm an imaging specialist at the University of Sheffield, UK. I manage a Zeiss Z1 and a home-built lightsheet and provide user training and image analysis training. We mainly image live zebrafish but we are increasingly getting into imaging of cleared samples. Many thanks for setting this resource up - it's going to be very helpful to the community!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01JX1SD4L8",
+        "type": "message",
+        "ts": "1610119886.071100",
+        "client_msg_id": "ddccafad-8476-4025-baad-2a7aca6c0f02",
+        "text": "Thanks Reto!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "8b869372df8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4868942940357_8b869372df8cf054cca9_72.jpg",
+            "first_name": "",
+            "real_name": "Anjalie Schlaeppi",
+            "display_name": "Anjalie Schlaeppi",
+            "team": "T01FQQGKPLH",
+            "name": "anja.schlaeppi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1610036254.033600",
+        "parent_user_id": "U01JX1SD4L8",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Icjb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Reto!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

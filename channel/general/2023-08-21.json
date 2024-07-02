@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1692624132.772099",
+        "client_msg_id": "74b9b0e5-14a3-4007-b3c5-ec5cb08919bd",
+        "text": "Aloha; does anyone have experience with Lifecanvas Light-sheet? <https:\/\/lifecanvastech.com\/products\/light-sheet-microscopy\/> I`m curious about that microscope and I`d like to understand better the differences with the MesoSPIM and the Alpha3-Phase view; I see actually many similarities... <@U04RH8K303Y> , do I understand well  that you`ve been using it?.. I`d be very happy to have an informal chat on that topic, if possible; thanks",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692624132.772099",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1692711876.797009",
+        "reply_users": [
+            "U04RH8K303Y",
+            "U01GHGN71UL"
+        ],
+        "replies": [
+            {
+                "user": "U04RH8K303Y",
+                "ts": "1692625816.780539"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1692711876.797009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/lifecanvastech.com\/wp-content\/uploads\/2023\/02\/Light-Sheet-Pipeline-Icons.png",
+                "image_width": 1255,
+                "image_height": 215,
+                "image_bytes": 49369,
+                "from_url": "https:\/\/lifecanvastech.com\/products\/light-sheet-microscopy\/",
+                "id": 1,
+                "original_url": "https:\/\/lifecanvastech.com\/products\/light-sheet-microscopy\/",
+                "fallback": "LifeCanvas Technologies: Light Sheet Microscopy - LifeCanvas Technologies",
+                "text": "The SmartSPIM and MegaSPIM light sheet imaging systems are designed for rapid acquisition of high-resolution 3D datasets at multiple scales.",
+                "title": "Light Sheet Microscopy - LifeCanvas Technologies",
+                "title_link": "https:\/\/lifecanvastech.com\/products\/light-sheet-microscopy\/",
+                "service_name": "LifeCanvas Technologies",
+                "fields": [
+                    {
+                        "value": "2 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B5i0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aloha; does anyone have experience with Lifecanvas Light-sheet? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lifecanvastech.com\/products\/light-sheet-microscopy\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I`m curious about that microscope and I`d like to understand better the differences with the MesoSPIM and the Alpha3-Phase view; I see actually many similarities... "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04RH8K303Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , do I understand well  that you`ve been using it?.. I`d be very happy to have an informal chat on that topic, if possible; thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1692625816.780539",
+        "client_msg_id": "2db0cdf7-31c3-4b59-8e0f-275305703f40",
+        "text": "Morning ! Yes yes, I'm using the Lifecanvas SmartSPIM. I will be happy to chat about it.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1692624132.772099",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ofn1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Morning ! Yes yes, I'm using the Lifecanvas SmartSPIM. I will be happy to chat about it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

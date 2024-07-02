@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01H3QDBEGY",
+        "type": "message",
+        "ts": "1624568910.000400",
+        "client_msg_id": "2871d85e-706b-46fa-a5b6-9d7fa38c5307",
+        "text": "LaVision confirmed these lines are the camera, and seen with the Andor Zyla. I left Birmingham before a solution was found but if I hear I will update here!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a05a27bf7ce8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1557871841974_a05a27bf7ce833e05a41_72.jpg",
+            "first_name": "Dee",
+            "real_name": "Dee Kavanagh",
+            "display_name": "Dee Kavanagh",
+            "team": "T01FQQGKPLH",
+            "name": "d.m.kavanagh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1615307194.003000",
+        "parent_user_id": "U01HXPBHQBY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LaVision confirmed these lines are the camera, and seen with the Andor Zyla. I left Birmingham before a solution was found but if I hear I will update here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

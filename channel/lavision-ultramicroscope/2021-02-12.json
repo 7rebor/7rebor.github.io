@@ -1,0 +1,156 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U01H3QDBEGY",
+        "text": "<@U01H3QDBEGY> has joined the channel",
+        "type": "message",
+        "ts": "1613125899.000200"
+    },
+    {
+        "user": "U01H3QDBEGY",
+        "type": "message",
+        "ts": "1613126020.001200",
+        "client_msg_id": "e7af266f-3ba8-4593-8d4d-47fc99beecbb",
+        "text": "<@U01GHGN71UL> you might have already seen this paper :heart_eyes:<https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S0092867420301094>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a05a27bf7ce8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1557871841974_a05a27bf7ce833e05a41_72.jpg",
+            "first_name": "Dee",
+            "real_name": "Dee Kavanagh",
+            "display_name": "Dee Kavanagh",
+            "team": "T01FQQGKPLH",
+            "name": "d.m.kavanagh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1613126020.001200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1613683085.000100",
+        "reply_users": [
+            "U01GHGN71UL",
+            "U01H3QDBEGY"
+        ],
+        "replies": [
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1613390736.000100"
+            },
+            {
+                "user": "U01H3QDBEGY",
+                "ts": "1613683085.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "title": "Mapping the Fine-Scale Organization and Plasticity of the Brain Vasculature",
+                "title_link": "https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S0092867420301094",
+                "text": "The cerebral vasculature is a dense network of arteries, capillaries, and veins. Quantifying variations of the vascular organization across individual…",
+                "fallback": "Mapping the Fine-Scale Organization and Plasticity of the Brain Vasculature",
+                "image_url": "https:\/\/ars.els-cdn.com\/content\/image\/1-s2.0-S0092867420301094-fx1.jpg",
+                "from_url": "https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S0092867420301094",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 92203,
+                "service_icon": "https:\/\/www.sciencedirect.com\/favicon.ico",
+                "service_name": "sciencedirect.com",
+                "id": 1,
+                "original_url": "https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S0092867420301094"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gyfgt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01GHGN71UL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you might have already seen this paper "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes",
+                                "unicode": "1f60d"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sciencedirect.com\/science\/article\/abs\/pii\/S0092867420301094"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01H3QDBEGY",
+        "type": "message",
+        "ts": "1613126210.002800",
+        "client_msg_id": "99731d5d-3905-456e-b2cc-61d029526c07",
+        "text": "Also this related handbook is great covers everything from sample prep, acquisition and analysis in in TubeMap  <https:\/\/idiscodotinfo.files.wordpress.com\/2020\/02\/handbook.pdf|IDISCO and TUBEMAP>",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "a05a27bf7ce8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1557871841974_a05a27bf7ce833e05a41_72.jpg",
+            "first_name": "Dee",
+            "real_name": "Dee Kavanagh",
+            "display_name": "Dee Kavanagh",
+            "team": "T01FQQGKPLH",
+            "name": "d.m.kavanagh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=k\/5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also this related handbook is great covers everything from sample prep, acquisition and analysis in in TubeMap  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/idiscodotinfo.files.wordpress.com\/2020\/02\/handbook.pdf",
+                                "text": "IDISCO and TUBEMAP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01HXPBHQBY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01HXPBHQBY",
+        "text": "<@U01HXPBHQBY> has joined the channel",
+        "type": "message",
+        "ts": "1613155842.000200"
+    }
+]

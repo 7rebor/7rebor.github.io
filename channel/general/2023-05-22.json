@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U04RH8K303Y",
+        "type": "message",
+        "ts": "1684763412.006959",
+        "client_msg_id": "4045ae92-c430-4d9a-bc8c-4ab071633ff1",
+        "text": "Hi Helena, We recently got the Lifecanvas SmartSpim system, it is easy to use, it can accommodate bigger samples, can be used with different clearing methods, not only the clearing method they recommend. If you have any questions you can contact me directly. Best, Kate",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "213d2e361d54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-02-28\/4859378505671_213d2e361d54ef727b7e_72.jpg",
+            "first_name": "Katarzyna",
+            "real_name": "Katarzyna Cialowicz",
+            "display_name": "Katarzyna Cialowicz",
+            "team": "T01FQQGKPLH",
+            "name": "katarzyna.cialowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1682437162.297399",
+        "parent_user_id": "U01JN9SDP5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Helena, We recently got the Lifecanvas SmartSpim system, it is easy to use, it can accommodate bigger samples, can be used with different clearing methods, not only the clearing method they recommend. If you have any questions you can contact me directly. Best, Kate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01JN9SDP5X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

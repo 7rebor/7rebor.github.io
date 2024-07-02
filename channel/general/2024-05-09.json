@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U059DSF5VTK",
+        "type": "message",
+        "ts": "1715248536.739989",
+        "client_msg_id": "5ff719ad-3679-432f-a84f-6b84ab75cf5d",
+        "text": "I had a look through my old images and my ECi attempt was on a super old brain it turns out, my bad.\nI put next to no time into actually trying it properly.\nI have plans to try ECi along with PMS (phenylmethylsiloxane oligimer) and something like fDISCO, the goal is to preserve fluorescence and get rid of the inner cuvette in the mesoSPIM to make it a higher throughput machine....whenever time allows.",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "22f5dcf25cb4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-12\/6946985673910_22f5dcf25cb4674b23f4_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Gordon",
+            "display_name": "Peter Gordon",
+            "team": "T01FQQGKPLH",
+            "name": "peter.gordon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714739394.175589",
+        "parent_user_id": "U01HDFX11PT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jNydh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had a look through my old images and my ECi attempt was on a super old brain it turns out, my bad.\nI put next to no time into actually trying it properly.\nI have plans to try ECi along with PMS (phenylmethylsiloxane oligimer) and something like fDISCO, the goal is to preserve fluorescence and get rid of the inner cuvette in the mesoSPIM to make it a higher throughput machine....whenever time allows."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

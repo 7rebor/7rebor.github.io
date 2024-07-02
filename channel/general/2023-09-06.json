@@ -1,0 +1,338 @@
+[
+    {
+        "user": "U059N2A340Y",
+        "type": "message",
+        "ts": "1693996979.714799",
+        "client_msg_id": "BE7E19A6-0A24-4FD2-A2F9-11F489521E17",
+        "text": "Hey guys! Zeiss advised us to buy a refractometer to test the RI of our clearing solutions, we are confused as to which one to get,could you help us with suggestions? \nMany thanks!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gd8ae0f378bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e77cb3afcb22762687a590f0ec6c10a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Nabanita",
+            "real_name": "Nabanita Chatterjee",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "nabanita.chatterjee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1693996979.714799",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1694012860.188199",
+        "reply_users": [
+            "U01GHGN71UL",
+            "U059N2A340Y",
+            "U01HDFX11PT"
+        ],
+        "replies": [
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1694008392.077119"
+            },
+            {
+                "user": "U059N2A340Y",
+                "ts": "1694008432.815499"
+            },
+            {
+                "user": "U01HDFX11PT",
+                "ts": "1694010608.234379"
+            },
+            {
+                "user": "U059N2A340Y",
+                "ts": "1694012860.188199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kelyw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys! Zeiss advised us to buy a refractometer to test the RI of our clearing solutions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are confused as to which one to get,could you help us with suggestions? \nMany thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Hi! In our facility we have this one (surely old..) -“refracto 30gs mettler toledo”  but working well and easy to use (1` calibration with water); it can measure the RI (with total internal reflection) but also other parameters that I ve never used..Hope it helps",
+        "files": [
+            {
+                "id": "F05R8NX6J1J",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F05RVL3H8V6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qcTTc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! In our facility we have this one (surely old..) -“refracto 30gs mettler toledo”  but working well and easy to use (1` calibration with water); it can measure the RI (with total internal reflection) but also other parameters that I ve never used..Hope it helps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1694008392.077119",
+        "client_msg_id": "3f85151a-5981-4851-b3d3-cf9affaec193",
+        "thread_ts": "1693996979.714799",
+        "parent_user_id": "U059N2A340Y"
+    },
+    {
+        "user": "U059N2A340Y",
+        "type": "message",
+        "ts": "1694008432.815499",
+        "client_msg_id": "03B26438-3621-44AC-BFBA-5A048C6B2B63",
+        "text": "thanks! this is very helpful",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gd8ae0f378bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e77cb3afcb22762687a590f0ec6c10a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Nabanita",
+            "real_name": "Nabanita Chatterjee",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "nabanita.chatterjee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1693996979.714799",
+        "parent_user_id": "U059N2A340Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wUS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks! this is very helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Dear all,\nI have a question regarding PSFs we get with a lightsheet. The global shape of my beads is pretty ugly (du to spherical aberrations I suppose). I use 1µm beads mounted in an agarose low melting gel (around 1%). It might be interesting if we can share PSF profiles of our setups, particularly for those are using an agarose gel to image. See below the kind of profile I recently obtained.\nBest,\nSylvain",
+        "files": [
+            {
+                "id": "F05R8PYBD0C",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01TAGF27T3",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GT0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear all,\nI have a question regarding PSFs we get with a lightsheet. The global shape of my beads is pretty ugly (du to spherical aberrations I suppose). I use 1µm beads mounted in an agarose low melting gel (around 1%). It might be interesting if we can share PSF profiles of our setups, particularly for those are using an agarose gel to image. See below the kind of profile I recently obtained.\nBest,\nSylvain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1694008726.221069",
+        "client_msg_id": "7a115662-6a8a-462a-a434-2cea84019776",
+        "thread_ts": "1694008726.221069",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1695129625.169119",
+        "reply_users": [
+            "U01GHGN71UL",
+            "U01TAGF27T3"
+        ],
+        "replies": [
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1694621907.186969"
+            },
+            {
+                "user": "U01TAGF27T3",
+                "ts": "1695044749.046369"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1695129625.169119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F05R6JFEXEE",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U01HDFX11PT",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1694010608.234379",
+        "client_msg_id": "9575BCF6-294B-44F3-AF94-2E5E6EBB1749",
+        "thread_ts": "1693996979.714799",
+        "parent_user_id": "U059N2A340Y"
+    },
+    {
+        "user": "U059N2A340Y",
+        "type": "message",
+        "ts": "1694012860.188199",
+        "client_msg_id": "8FFB2321-1B0B-4309-A0F4-85A6C645B0AF",
+        "text": "Thanks!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "gd8ae0f378bb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1e77cb3afcb22762687a590f0ec6c10a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Nabanita",
+            "real_name": "Nabanita Chatterjee",
+            "display_name": "",
+            "team": "T01FQQGKPLH",
+            "name": "nabanita.chatterjee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1693996979.714799",
+        "parent_user_id": "U059N2A340Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X1PzJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1694016617.244389",
+        "client_msg_id": "97f61ff4-cbf9-426a-b0ec-2ac4a084db50",
+        "text": "Thanks again <@U04RH8K303Y>  for your report today! Very interesting and it makes the clearing a bit more clear…\nFor those who were not on-line you can find Katarzyna`s slides on our Google-drive <https:\/\/drive.google.com\/file\/d\/1i7VmOQ_mieAMRS4J38CJIkfsbXiXgcRJ\/view?usp=drive_link>\n\nSpeaking about the future: anyone else happy to share his\/her project\/microscope\/favorite paper?..Please let us know!\nSee you in 1-2 months for the next meeting,\n\nHave a good imaging!",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6q+i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks again "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04RH8K303Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  for your report today! Very interesting and it makes the clearing a bit more clear…\nFor those who were not on-line you can find Katarzyna`s slides on our Google-drive "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1i7VmOQ_mieAMRS4J38CJIkfsbXiXgcRJ\/view?usp=drive_link"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSpeaking about the future: anyone else happy to share his\/her project\/microscope\/favorite paper?..Please let us know!\nSee you in 1-2 months for the next meeting,\n\nHave a good imaging!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U04RH8K303Y",
+                    "U059LQCN1HN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04UTRSQXNE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

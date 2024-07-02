@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U01GHGN71UL",
+        "type": "message",
+        "ts": "1719502354.013099",
+        "client_msg_id": "7f201be3-37d8-4321-b666-e3f610a8492b",
+        "text": "Quick reminder for tomorrow`s Summer Wildsheet Meeting!\n\nTopic: Wildsheet news\n*Time: Jun 28, 2024 03:00 PM*\n*London*\n<https:\/\/crick.zoom.us\/j\/65107262038?pwd=a4be6lWKVTpuQ6ajcYE9Xj6aPoLwdB.1>\nPasscode: 046784\n\n*Basic agenda*\n1. - Sheet Questions: current (and new?) answers\n2. - Sheet- news from ELMI (or any other Meeting\/Conference)? You can speak about your favorite talk\/poster\/workshop!\n3. - Update Workshop and Flamingo-tour\n4. - Possible topic to discuss\/next meeting?",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "d6aed3d2c44f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1567510911348_d6aed3d2c44f9bdc9863_72.jpg",
+            "first_name": "Alessandro",
+            "real_name": "Alessandro Ciccarelli",
+            "display_name": "Alessandro Ciccarelli",
+            "team": "T01FQQGKPLH",
+            "name": "alessandro.ciccarelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1719502354.013099",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1719845363.617719",
+        "reply_users": [
+            "U04M5SGCM5J",
+            "U01GHGN71UL"
+        ],
+        "replies": [
+            {
+                "user": "U04M5SGCM5J",
+                "ts": "1719840327.566829"
+            },
+            {
+                "user": "U01GHGN71UL",
+                "ts": "1719845363.617719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mAXxM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quick reminder for tomorrow`s Summer Wildsheet Meeting!\n\nTopic: Wildsheet news\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Time: Jun 28, 2024 03:00 PM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "London",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/crick.zoom.us\/j\/65107262038?pwd=a4be6lWKVTpuQ6ajcYE9Xj6aPoLwdB.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPasscode: 046784\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Basic agenda",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "- Sheet Questions: current (and new?) answers"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "- Sheet- news from ELMI (or any other Meeting\/Conference)? You can speak about your favorite talk\/poster\/workshop!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "- Update Workshop and Flamingo-tour"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "- Possible topic to discuss\/next meeting?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

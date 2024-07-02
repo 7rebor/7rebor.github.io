@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U01HDFX11PT",
+        "type": "message",
+        "ts": "1642926247.005800",
+        "client_msg_id": "140CDD3A-2226-4FAC-A049-5C1423F2E4C5",
+        "text": "Personally I would have liked to see their PSF and chromatic shift data. It has not been hidden from us or anything, we just didn’t think to ask specifically about it at the time. Have they used the z-stacking macro with you? ",
+        "team": "T01FQQGKPLH",
+        "user_team": "T01FQQGKPLH",
+        "source_team": "T01FQQGKPLH",
+        "user_profile": {
+            "avatar_hash": "6b7a9699027b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2856115809958_6b7a9699027b862074a8_72.jpg",
+            "first_name": "Helena",
+            "real_name": "Helena Coker",
+            "display_name": "Helena Coker",
+            "team": "T01FQQGKPLH",
+            "name": "h.coker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1642764432.003200",
+        "parent_user_id": "U01GHGN71UL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NiA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Personally I would have liked to see their PSF and chromatic shift data. It has not been hidden from us or anything, we just didn’t think to ask specifically about it at the time. Have they used the z-stacking macro with you? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
